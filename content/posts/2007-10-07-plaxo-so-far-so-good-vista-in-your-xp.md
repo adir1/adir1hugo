@@ -8,7 +8,7 @@ tags:
   - plaxo
   - smartphone
   - Technology
-  - windows mobile
+  - windows
 
 ---
 <p align="justify">

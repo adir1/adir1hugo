@@ -6,8 +6,8 @@ date: 2007-11-23T18:27:52+00:00
 url: /2007/11/spore-is-finally-coming-out/
 tags:
   - Entertainment
-  - Games
-  - Life Simulation
+  - Gaming
+  - Simulation
   - Media
   - Spore
   - Universe

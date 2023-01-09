@@ -10,7 +10,7 @@ tags:
   - Mesh
   - Microsoft
   - Technology
-  - Windows Vista
+  - Windows
   - Yahoo
 
 ---

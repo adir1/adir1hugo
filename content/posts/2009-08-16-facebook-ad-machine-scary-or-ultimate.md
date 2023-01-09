@@ -7,7 +7,7 @@ url: /2009/08/facebook-ad-machine-scary-or-ultimate/
 categories:
   - General
 tags:
-  - Games
+  - Gaming
   - Marketing
   - Technology
 

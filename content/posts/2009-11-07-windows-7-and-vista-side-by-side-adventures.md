@@ -7,8 +7,7 @@ url: /2009/11/windows-7-and-vista-side-by-side-adventures/
 categories:
   - General
 tags:
-  - Windows 7
-  - Windows Vista
+  - Windows
 
 ---
 <p align="justify">

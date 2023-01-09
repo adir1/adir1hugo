@@ -6,7 +6,7 @@ date: 2007-08-08T04:51:42+00:00
 url: /2007/08/windows-vista-thoughts/
 tags:
   - Technology
-  - Windows Vista
+  - Windows
 
 ---
 <font face="Script MT Bold"><em><font face="Script MT Bold" color="#333333" size="5"><em><a href="https://i1.wp.com/www.adir1.com//uploads/2007/08/vista-start-menu.jpg" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="240" alt="vista_start_menu" src="https://i1.wp.com/www.adir1.com//uploads/2007/08/vista-start-menu-thumb.jpg?resize=137%2C240" width="137" align="right" border="0" data-recalc-dims="1" /></a></em></font><font size="5">&nbsp;</font></em></font><font face="Script" size="5"><strong>I</strong></font>&nbsp;have been using Windows Vista since the second Beta. Lately I am increasingly accused of being <a href="http://en.wikipedia.org/wiki/Bill_gates" target="_blank">Bill Gate&#8217;s</a> fan boy and Windows Vista proponent, so here&#8217;s a post about my take on Vista.

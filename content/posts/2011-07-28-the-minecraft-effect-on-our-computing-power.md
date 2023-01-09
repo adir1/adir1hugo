@@ -8,7 +8,7 @@ categories:
   - General
 tags:
   - Consumerism
-  - Games
+  - Gaming
   - Personal
 
 ---

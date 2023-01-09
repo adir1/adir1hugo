@@ -7,9 +7,8 @@ url: /2007/08/mp4-on-windows-vista-part-two/
 tags:
   - h.264
   - Media Center
-  - mp4
   - Technology
-  - Windows Vista
+  - Windows
 
 ---
 I am still struggling with exact instructions on creating not just any old MP4 file, but one that is XBOX 360 compatible. It turns out to be very very hard, for unknown reason. I&#8217;ve emailed <a target="_blank" href="http://www.majornelson.com">Major Nelson</a> from <a target="_blank" href="http://www.xbox.com">XBox</a> at Microsoft, but so far he&#8217;s busy, obviously.

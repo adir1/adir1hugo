@@ -7,8 +7,8 @@ url: /2009/05/your-data-is-safe-not/
 categories:
   - General
 tags:
-  - computer science
-  - Windows Vista
+  - Computer Science
+  - Windows
 
 ---
 <p align="justify">

@@ -10,7 +10,7 @@ tags:
   - cyber terrorism
   - security
   - Technology
-  - Windows Vista
+  - Windows
 
 ---
 It is becoming increasingly clear to me that <a href="http://en.wikipedia.org/wiki/Cyber-terrorism" target="_blank">Cyber Terrorism</a> has won. It has all of us running scared, increasingly not trusting our own PCs, we are afraid to visit even secure bank web sites, and overall don&#8217;t trust the Internet.

@@ -5,9 +5,9 @@ type: post
 date: 2007-08-07T18:34:44+00:00
 url: /2007/08/iraq-prosperity-and-our-dangerous-roads/
 tags:
-  - military
+  - Government
   - Money
-  - Prosper.com
+  - P2P-Lending
 
 ---
 I decided to give Prosper.com a try about a month ago (read my <a href="http://blog.360.yahoo.com/blog-A9lS5Qswf69HhOZ8ug--?cq=1&p=112" target="_blank">original thoughts on that</a>), and today came across an <a href="https://www.prosper.com/lend/listing.aspx?listingID=178559" target="_blank">interesting listing</a> from our brave soldier currently deployed.

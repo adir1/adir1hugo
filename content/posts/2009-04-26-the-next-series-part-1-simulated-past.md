@@ -11,7 +11,7 @@ tags:
   - Microsoft
   - Next
   - Technology
-  - Windows 7
+  - Windows
 
 ---
 <p align="justify">

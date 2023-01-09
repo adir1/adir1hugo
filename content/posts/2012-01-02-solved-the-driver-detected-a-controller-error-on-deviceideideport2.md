@@ -9,7 +9,7 @@ categories:
 tags:
   - Microsoft
   - Technology
-  - Windows 7
+  - Windows
 
 ---
 <p align="justify">

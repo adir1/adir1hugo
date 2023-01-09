@@ -10,7 +10,7 @@ tags:
   - Global Warming
   - Media
   - Technology
-  - Windows Vista
+  - Windows
 
 ---
 <p align="justify">

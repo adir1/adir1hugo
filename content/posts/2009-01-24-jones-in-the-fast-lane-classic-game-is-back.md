@@ -8,7 +8,7 @@ categories:
   - General
 tags:
   - Entertainment
-  - Games
+  - Gaming
   - Weekend Fun
 
 ---

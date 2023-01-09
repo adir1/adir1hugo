@@ -7,8 +7,7 @@ url: /2007/09/windows-vista-i-found-the-wow/
 tags:
   - Microsoft
   - Technology
-  - Windows Vista
-  - WoW
+  - Windows
 
 ---
 Granted, this post is a bit early, I&#8217;ve only been using Vista on the my new PC for about a week and a half, but I just had to blog about it!

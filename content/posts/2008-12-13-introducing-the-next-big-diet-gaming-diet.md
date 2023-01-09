@@ -7,9 +7,9 @@ url: /2008/12/introducing-the-next-big-diet-gaming-diet/
 categories:
   - General
 tags:
-  - diet
-  - Games
-  - xbox 360
+  - Diet
+  - Gaming
+  - XBox 360
 
 ---
 <a href="https://i0.wp.com/www.adir1.com/uploads/2008/12/monkeymenu.jpg" target="_blank"><img title="monkey menu" style="border-right: 0px; border-top: 0px; display: inline; margin: 0px 10px 5px 0px; border-left: 0px; border-bottom: 0px" height="147" alt="monkey menu" src="https://i1.wp.com/www.adir1.com/uploads/2008/12/monkeymenu-thumb.jpg?resize=240%2C147" width="240" align="left" border="0" data-recalc-dims="1" /></a> Looking at this image from <a title="Monkeys on Calorie Restriction Diet" href="http://graphics8.nytimes.com/images/2006/10/31/health/31aging_graphic_lg.jpg" target="_blank">NYTimes</a> this morning, it hit me that I already know and use the secret best-ever diet. This one is a sure-hit for 21 century and beyond.

@@ -10,7 +10,7 @@ tags:
   - Dell
   - Mac
   - Technology
-  - Windows Vista
+  - Windows
 
 ---
 <p align="justify">

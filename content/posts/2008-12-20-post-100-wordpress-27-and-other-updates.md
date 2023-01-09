@@ -8,8 +8,8 @@ categories:
   - General
 tags:
   - Technology
-  - Windows Vista
-  - wordpress
+  - Windows
+  - Wordpress
 
 ---
 <p align="justify">

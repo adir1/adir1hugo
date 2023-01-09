@@ -10,7 +10,7 @@ tags:
   - DragonCon
   - Ubuntu
   - VirtualPC
-  - Windows Vista
+  - Windows
 
 ---
 <p align="justify">

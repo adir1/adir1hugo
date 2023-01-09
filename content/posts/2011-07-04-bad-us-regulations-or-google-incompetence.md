@@ -9,7 +9,7 @@ categories:
 tags:
   - Consumerism
   - Family
-  - Games
+  - Gaming
   - Google
   - Yahoo
 

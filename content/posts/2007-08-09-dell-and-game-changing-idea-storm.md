@@ -7,7 +7,7 @@ url: /2007/08/dell-and-game-changing-idea-storm/
 tags:
   - Consumerism
   - Technology
-  - Windows Vista
+  - Windows
 
 ---
 <a href="https://i1.wp.com/www.adir1.com//uploads/2007/08/dell-ideastorm-logo.jpg" atomicselection="true"><img style="border-right: 0px; border-top: 0px; margin: 5px 5px 0px; border-left: 0px; border-bottom: 0px" height="95" alt="dell_ideastorm_logo" src="https://i1.wp.com/www.adir1.com//uploads/2007/08/dell-ideastorm-logo-thumb.jpg?resize=240%2C95" width="240" align="right" border="0" data-recalc-dims="1" /></a> Unbeknownst to&nbsp;most people, Dell launched a radically excellent&nbsp;web site to&nbsp;facilitate improved communications with their customers.

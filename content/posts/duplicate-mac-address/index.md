@@ -4,8 +4,7 @@ author: Adi R
 type: post
 date: 2015-10-17T16:07:16+00:00
 url: /2015/10/duplicate-mac-address-on-cablemodem-the-fight-goes-on/
-categories:
-  - General
+heroStyle: "basic"
 tags:
   - Communications
   - FCC

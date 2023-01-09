@@ -8,7 +8,7 @@ categories:
   - General
 tags:
   - Microsoft
-  - windows
+  - Windows
 
 ---
 The title is all you need to know. The special price only at your local MicroCenter store and only for 3 days. Of you don&#8217;t have one, check local Costco. Or, I will have a link to Amazon, which promised to deliver on Oct 22, on here later today.  

@@ -8,7 +8,7 @@ categories:
   - General
 tags:
   - Technology
-  - Windows 7
+  - Windows
 
 ---
 <p align="justify">

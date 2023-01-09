@@ -10,7 +10,7 @@ tags:
   - Entertainment
   - Olympics
   - Technology
-  - Windows Vista
+  - Windows
 
 ---
 <p align="justify">

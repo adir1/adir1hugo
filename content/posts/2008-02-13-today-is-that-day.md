@@ -7,10 +7,9 @@ url: /2008/02/today-is-that-day/
 categories:
   - General
 tags:
-  - life balance
+  - Life Balance
   - Personal
   - World of Warcraft
-  - WoW
 
 ---
 <p align="justify">

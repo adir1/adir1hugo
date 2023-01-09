@@ -12,7 +12,7 @@ tags:
   - Mac
   - Technology
   - video
-  - Windows Vista
+  - Windows
 
 ---
 <p align="justify">
