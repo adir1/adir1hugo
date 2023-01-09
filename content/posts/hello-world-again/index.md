@@ -7,6 +7,7 @@ date: 2023-01-05T11:11:11+00:00
 url: /2023/hello-world-again/
 tags:
   - Personal
+  - Hello World
   - JamStack
   - Hugo
   - Gatsby
@@ -29,7 +30,7 @@ A quick recap of the years since the last post:
 
 I also learned that people these days prefer Short posts - so I'll try to wrap this up with today's wisdom
 
-Here's a link to the original First Hello World post on this site, back in 2003!
+Here's a link to the original [First Hello World post on this site, back in 2007](/2007/08/hello-world/)!
 
 {{< alert "bell" >}}
 **Disclaimer**: While I tried to preserve the content and (some) comments from the original site, I did add new Images to old posts, and also adjusted some old tags

@@ -4,16 +4,15 @@ author: Adi R
 type: post
 date: 2015-03-02T06:03:42+00:00
 url: /2015/03/biggest-microsoft-security-lapse-in-recent-history-skypes-achilles-heel/
-categories:
-  - General
+heroStyle: "basic"
 tags:
   - Consumerism
   - Microsoft
-  - security
+  - InfoSec
   - Skype
 
 ---
-Yet again I come to you with rant, but this time seems like the reason is Microsoft&#8217;s huge lapse in basic Skype account security. Probably like mst of you, I have created my Skype account **Many **years ago.
+Yet again I come to you with rant, but this time seems like the reason is Microsoft&#8217;s huge lapse in basic Skype account security. Probably like mst of you, I have created my Skype account **Many** years ago.
 
 About a week ago a message popped up on my phone (where Skype is installed also) saying that my account is now suspended. Surprised, I followed their instructions to fill out Microsoft support &#8220;Un-suspend form&#8221;. That only prompted email 24 hours later requesting an even Bigger un-suspend form for me to fill.
 

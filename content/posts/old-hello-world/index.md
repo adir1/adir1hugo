@@ -5,7 +5,7 @@ type: post
 date: 2007-08-06T04:12:22+00:00
 url: /2007/08/hello-world/
 tags:
-  - hello world
+  - Hello World
   - Personal
 
 ---

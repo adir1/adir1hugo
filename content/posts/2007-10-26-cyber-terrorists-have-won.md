@@ -7,8 +7,7 @@ url: /2007/10/cyber-terrorists-have-won/
 tags:
   - Antivirus
   - Consumerism
-  - cyber terrorism
-  - security
+  - InfoSec
   - Technology
   - Windows
 

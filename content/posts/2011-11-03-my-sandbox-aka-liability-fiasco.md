@@ -10,7 +10,7 @@ tags:
   - Apple
   - Consumerism
   - Mac
-  - security
+  - InfoSec
 
 ---
 <p align="justify">
