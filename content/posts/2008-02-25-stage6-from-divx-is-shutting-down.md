@@ -5,7 +5,7 @@ type: post
 date: 2008-02-26T04:15:39+00:00
 url: /2008/02/stage6-from-divx-is-shutting-down/
 tags:
-  - divx
+  - DivX
   - Technology
   - YouTube
 
