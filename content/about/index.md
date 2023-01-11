@@ -3,12 +3,11 @@ title: About
 date: '2007-08-06T00:12:22-05:00'
 status: publish
 permalink: /about
-author: 'Adi R'
+author: 'Adi Rabinovich'
+heroStyle: 'big'
 excerpt: ''
 type: page
-id: 2
-sharing_disabled:
-    - '1'
+
 ---
 About This Blog
 ---------------
