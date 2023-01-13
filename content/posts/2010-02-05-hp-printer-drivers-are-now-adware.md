@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2010-02-05T07:00:20+00:00
 url: /2010/02/hp-printer-drivers-are-now-adware/
-categories:
-  - General
 tags:
   - Consumerism
   - HP

@@ -5,8 +5,8 @@ type: post
 date: 2007-10-28T21:39:08+00:00
 url: /2007/10/weekend-fun-educational-edition-sort-off/
 tags:
-  - Money
   - Weekend Fun
+  - Personal
 
 ---
 Changing pace from negative Cyber-terror post, lets recapture our fun. Today&#8217;s video is not music video, nor is it anyone playing at the beach. 

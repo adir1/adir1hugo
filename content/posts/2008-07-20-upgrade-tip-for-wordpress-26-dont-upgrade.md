@@ -4,10 +4,8 @@ author: Adi R
 type: post
 date: 2008-07-21T04:15:37+00:00
 url: /2008/07/upgrade-tip-for-wordpress-26-dont-upgrade/
-categories:
-  - General
 tags:
-  - blog
+  - WordPress
   - Technology
 
 ---

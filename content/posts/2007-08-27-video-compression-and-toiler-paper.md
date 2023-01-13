@@ -7,6 +7,7 @@ url: /2007/08/video-compression-and-toiler-paper/
 tags:
   - Consumerism
   - Technology
+  - Open Source
 
 ---
 <img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; margin: 0px 0px 0px 5px; border-right-width: 0px" alt="quilted-northern-ultra" src="https://i2.wp.com/www.adir1.com//uploads/2007/08/quilted-northern-ultra.jpg" align="right" border="0" data-recalc-dims="1" /> Wow, I am thrilled with all the comments and excitement surrounding my recent <a href="http://www.adir1.com/2007/08/is-this-blog-geeky/" target="_blank">Geeky post about hand soap</a>. 

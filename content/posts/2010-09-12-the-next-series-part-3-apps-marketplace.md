@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2010-09-12T21:49:26+00:00
 url: /2010/09/the-next-series-part-3-apps-marketplace/
-categories:
-  - General
 tags:
   - Future
   - Microsoft

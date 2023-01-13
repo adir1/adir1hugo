@@ -4,12 +4,10 @@ author: Adi R
 type: post
 date: 2008-10-02T01:43:19+00:00
 url: /2008/10/my-xbox-360-is-back-and-so-am-i/
-categories:
-  - General
 tags:
   - Consumerism
   - Travel
-  - xbox 360
+  - XBox 360
 
 ---
 <a title="XBox 360 Red Ring of Death" href="http://en.wikipedia.org/wiki/Red_Ring_of_Death" target="_blank"><img title="180px-Xbox360-ringofdeath" style="border-right: 0px; border-top: 0px; display: inline; margin: 0px 0px 0px 10px; border-left: 0px; border-bottom: 0px" height="155" alt="180px-Xbox360-ringofdeath" src="https://i0.wp.com/www.adir1.com/uploads/2008/10/180pxxbox360ringofdeath.jpg?resize=200%2C155" width="200" align="right" border="0" data-recalc-dims="1" /></a> Wow, sorry for disappearing on you. So much happened in the past few weeks, that instead of posting all those brilliant (aka: weird) thoughts I am having, I’ll just summarize recent events in my life:

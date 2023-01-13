@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2008-08-01T08:32:21+00:00
 url: /2008/08/iphone-blues-somebody-save-me/
-categories:
-  - General
 tags:
   - Future
   - iPhone

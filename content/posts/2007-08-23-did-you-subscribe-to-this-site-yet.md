@@ -6,7 +6,6 @@ date: 2007-08-23T18:06:01+00:00
 url: /2007/08/did-you-subscribe-to-this-site-yet/
 tags:
   - Media
-  - "O'Rly"
 
 ---
 You really [should subscribe][1], to avoid unpleasant situation that <a href="http://www.cnn.com" target="_blank">CNN</a> ended up in. Today they finally discovered and broadcast a Video that my readers [saw a week ago][2].

@@ -4,8 +4,9 @@ author: Adi R
 type: post
 date: 2011-08-22T00:03:00+00:00
 url: /2011/08/it-is-hp-touchpad-weekend-join-in/
-categories:
-  - General
+tags:
+  - Technology
+  - HP
 
 ---
 <p align="justify">

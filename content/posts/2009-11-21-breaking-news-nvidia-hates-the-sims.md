@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2009-11-22T04:32:59+00:00
 url: /2009/11/breaking-news-nvidia-hates-the-sims/
-categories:
-  - General
 tags:
   - EA
   - Entertainment

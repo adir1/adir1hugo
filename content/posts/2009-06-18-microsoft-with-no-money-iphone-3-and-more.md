@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2009-06-19T03:04:31+00:00
 url: /2009/06/microsoft-with-no-money-iphone-3-and-more/
-categories:
-  - General
 tags:
   - Apple
   - iPhone

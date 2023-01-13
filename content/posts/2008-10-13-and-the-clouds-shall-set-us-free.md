@@ -4,15 +4,13 @@ author: Adi R
 type: post
 date: 2008-10-14T02:58:32+00:00
 url: /2008/10/and-the-clouds-shall-set-us-free/
-categories:
-  - General
 tags:
-  - bigtable
-  - cloud
+  - Cloud
   - Google
   - Microsoft
   - Programming
-  - strata
+  - Strata
+  - Open Source
 
 ---
 <p align="justify">

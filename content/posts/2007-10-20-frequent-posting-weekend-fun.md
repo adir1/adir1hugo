@@ -5,11 +5,11 @@ type: post
 date: 2007-10-20T20:08:57+00:00
 url: /2007/10/frequent-posting-weekend-fun/
 tags:
-  - doa2
+  - Doa2
   - Entertainment
   - Media
   - Weekend Fun
-  - xbox 360
+  - XBox 360
 
 ---
 <p align="justify">

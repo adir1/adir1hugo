@@ -4,12 +4,10 @@ author: Adi R
 type: post
 date: 2009-06-30T05:28:59+00:00
 url: /2009/06/best-free-movies-on-hulu-2009-edition/
-categories:
-  - General
 tags:
   - Entertainment
   - Hulu
-  - Internet Video
+  - Streaming Video
 
 ---
 <p align="justify">

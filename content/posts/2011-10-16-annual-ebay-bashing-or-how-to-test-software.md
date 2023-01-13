@@ -4,11 +4,9 @@ author: Adi R
 type: post
 date: 2011-10-16T06:37:42+00:00
 url: /2011/10/annual-ebay-bashing-or-how-to-test-software/
-categories:
-  - General
 tags:
   - Consumerism
-  - ebay
+  - eBay
 
 ---
 <p align="justify">

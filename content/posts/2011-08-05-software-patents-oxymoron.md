@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2011-08-05T05:30:19+00:00
 url: /2011/08/software-patents-oxymoron/
-categories:
-  - General
 tags:
   - Google
   - Microsoft

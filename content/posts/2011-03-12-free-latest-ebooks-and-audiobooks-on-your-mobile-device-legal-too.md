@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2011-03-13T04:51:13+00:00
 url: /2011/03/free-latest-ebooks-and-audiobooks-on-your-mobile-device-legal-too/
-categories:
-  - General
 tags:
   - Android
   - Free

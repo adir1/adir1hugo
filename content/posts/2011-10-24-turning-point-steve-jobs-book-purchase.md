@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2011-10-25T00:33:33+00:00
 url: /2011/10/turning-point-steve-jobs-book-purchase/
-categories:
-  - General
 tags:
   - Consumerism
   - Future

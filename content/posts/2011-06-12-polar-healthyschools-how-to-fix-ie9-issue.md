@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2011-06-13T00:54:57+00:00
 url: /2011/06/polar-healthyschools-how-to-fix-ie9-issue/
-categories:
-  - General
 tags:
   - Education
 

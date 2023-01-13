@@ -6,9 +6,6 @@ date: 2007-08-26T05:24:03+00:00
 url: /2007/08/is-this-blog-geeky/
 tags:
   - Consumerism
-  - foaming soap
-  - geeky
-  - "O'Rly"
 
 ---
 <img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="138" alt="Dial Complete Pump Animation" src="https://i2.wp.com/www.adir1.com//uploads/2007/08/dcomplete-animation-pump.gif?resize=179%2C138" width="179" align="right" border="0" data-recalc-dims="1" /> A friend, who shall remain <a href="http://zheka1.livejournal.com/" target="_blank">nameless</a>, has asked me if this was a &#8220;geeky&#8221; blog that she should stay away from due to it&#8217;s inaccessibility to the normal folk, presumably.

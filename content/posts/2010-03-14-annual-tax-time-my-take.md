@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2010-03-15T03:33:33+00:00
 url: /2010/03/annual-tax-time-my-take/
-categories:
-  - General
 tags:
   - Economics
   - Google

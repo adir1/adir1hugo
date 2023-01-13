@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2008-12-27T06:33:40+00:00
 url: /2008/12/world-of-warcraft-machinima-amazing-fight-short-awesome/
-categories:
-  - General
 tags:
   - Entertainment
   - Weekend Fun

@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2008-03-09T07:08:28+00:00
 url: /2008/03/more-on-windows-vista-versus-mac/
-categories:
-  - General
 tags:
   - Dell
   - Mac

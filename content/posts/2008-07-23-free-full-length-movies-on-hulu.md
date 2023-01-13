@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2008-07-24T02:08:23+00:00
 url: /2008/07/free-full-length-movies-on-hulu/
-categories:
-  - General
 tags:
   - Consumerism
   - Media

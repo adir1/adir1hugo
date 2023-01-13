@@ -6,9 +6,8 @@ date: 2007-09-09T22:52:08+00:00
 url: /2007/09/ebay-gone-berserk-lost-all-marbles/
 tags:
   - Consumerism
-  - ebay
+  - eBay
   - Money
-  - "O'Rly"
 
 ---
 <a href="http://cgi.ebay.com/Vintage-Crank-Desk-Telephone-Cranks-on-Front-Neat_W0QQitemZ9138891422QQihZ020QQcategoryZ73373QQssPageNameZWDVWQQrdZ1QQcmdZViewItem" target="_blank"><img style="border-right: 0px; border-top: 0px; margin: 0px 0px 0px 10px; border-left: 0px; border-bottom: 0px" height="136" alt="vintage_auction" src="https://i0.wp.com/www.adir1.com//uploads/2007/09/vintage-auction.jpg?resize=244%2C136" width="244" align="right" border="0" data-recalc-dims="1" /></a>&nbsp; We have been eBay patrons for many many years, probably almost since it&#8217;s inception. But lately, it seems to become more and more of a wild west and less and less of organized trusted marketplace.

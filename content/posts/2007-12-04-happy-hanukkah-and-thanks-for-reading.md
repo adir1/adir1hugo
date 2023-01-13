@@ -5,7 +5,6 @@ type: post
 date: 2007-12-05T02:10:52+00:00
 url: /2007/12/happy-hanukkah-and-thanks-for-reading/
 tags:
-  - Chanukah
   - Hanukkah
   - Personal
   - YouTube

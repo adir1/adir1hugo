@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2009-05-22T04:08:42+00:00
 url: /2009/05/business-apps-at-30-frames-per-second/
-categories:
-  - General
 tags:
   - Adobe
   - Adobe Flash

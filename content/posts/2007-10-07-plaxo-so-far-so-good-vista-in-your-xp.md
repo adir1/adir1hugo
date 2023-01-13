@@ -5,10 +5,9 @@ type: post
 date: 2007-10-07T05:14:20+00:00
 url: /2007/10/plaxo-so-far-so-good-vista-in-your-xp/
 tags:
-  - plaxo
-  - smartphone
+  - Smartphone
   - Technology
-  - windows
+  - Windows
 
 ---
 <p align="justify">

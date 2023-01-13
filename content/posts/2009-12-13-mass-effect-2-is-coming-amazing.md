@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2009-12-13T05:30:11+00:00
 url: /2009/12/mass-effect-2-is-coming-amazing/
-categories:
-  - General
 tags:
   - Bioware
   - EA

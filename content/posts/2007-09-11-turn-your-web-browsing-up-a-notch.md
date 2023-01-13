@@ -6,7 +6,6 @@ date: 2007-09-11T08:33:11+00:00
 url: /2007/09/turn-your-web-browsing-up-a-notch/
 tags:
   - FireFox
-  - opera
   - Technology
 
 ---

@@ -7,10 +7,9 @@ url: /2007/10/new-ways-to-love-your-prime-time-tv/
 tags:
   - Entertainment
   - HDTV
-  - InternetTV
+  - Streaming Video
   - Media
   - Technology
-  - tv
 
 ---
 <p align="justify">

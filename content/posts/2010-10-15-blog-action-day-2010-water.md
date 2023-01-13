@@ -4,8 +4,8 @@ author: Adi R
 type: post
 date: 2010-10-16T03:52:50+00:00
 url: /2010/10/blog-action-day-2010-water/
-categories:
-  - General
+tags:
+  - Global Warming
 
 ---
 <div style="background-image: none; border-right-width: 0px; margin: 0px 0px 0px 0px; padding-left: 0px; padding-right: 0px; display: inline; float: left; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" id="change_BottomBar">

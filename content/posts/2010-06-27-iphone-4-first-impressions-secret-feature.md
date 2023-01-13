@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2010-06-28T02:44:45+00:00
 url: /2010/06/iphone-4-first-impressions-secret-feature/
-categories:
-  - General
 tags:
   - Apple
   - iPhone

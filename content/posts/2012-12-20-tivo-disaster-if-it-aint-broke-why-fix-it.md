@@ -4,12 +4,10 @@ author: Adi R
 type: post
 date: 2012-12-20T15:58:29+00:00
 url: /2012/12/tivo-disaster-if-it-aint-broke-why-fix-it/
-categories:
-  - General
 tags:
   - Consumerism
   - HDTV
-  - tivo
+  - Tivo
 
 ---
 <p align="justify">

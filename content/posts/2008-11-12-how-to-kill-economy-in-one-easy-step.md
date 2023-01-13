@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2008-11-12T08:12:40+00:00
 url: /2008/11/how-to-kill-economy-in-one-easy-step/
-categories:
-  - General
 tags:
   - Economics
   - Singularity

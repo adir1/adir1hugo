@@ -8,7 +8,7 @@ tags:
   - DivX
   - Entertainment
   - Media
-  - Video Compression
+  - Codec
   - YouTube
 
 ---

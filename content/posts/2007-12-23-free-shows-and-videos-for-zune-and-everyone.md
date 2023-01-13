@@ -6,10 +6,10 @@ date: 2007-12-23T09:57:01+00:00
 url: /2007/12/free-shows-and-videos-for-zune-and-everyone/
 tags:
   - Consumerism
-  - free videos
-  - podcasts
+  - Podcasts
   - Technology
   - Zune
+  - Open Source
 
 ---
 <p align="justify">

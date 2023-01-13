@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2012-02-12T00:40:06+00:00
 url: /2012/02/zen-and-the-art-of-ios/
-categories:
-  - General
 tags:
   - Apple
   - iOS

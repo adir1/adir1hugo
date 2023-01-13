@@ -4,13 +4,11 @@ author: Adi R
 type: post
 date: 2012-05-06T21:19:36+00:00
 url: /2012/05/how-to-print-to-your-iphone-or-android-phone/
-categories:
-  - General
 tags:
   - Consumerism
   - Free
   - Technology
-  - Tricks
+  - Deal
 
 ---
 <p align="justify">

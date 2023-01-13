@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2008-11-17T01:40:55+00:00
 url: /2008/11/google-app-engine-and-language-wars/
-categories:
-  - General
 tags:
   - Google
   - Java

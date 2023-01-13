@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2009-11-07T19:47:03+00:00
 url: /2009/11/windows-7-and-vista-side-by-side-adventures/
-categories:
-  - General
 tags:
   - Windows
 

@@ -10,7 +10,7 @@ tags:
   - Entertainment
   - Family
   - Halo
-  - playground
+  - Gaming
   - Technology
   - Weekend Fun
 

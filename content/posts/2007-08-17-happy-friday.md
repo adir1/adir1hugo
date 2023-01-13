@@ -6,7 +6,6 @@ date: 2007-08-18T02:26:11+00:00
 url: /2007/08/happy-friday/
 tags:
   - Entertainment
-  - "O'Rly"
 
 ---
 I guess I am just in a Happy Friday mood, so when I came across this golden oldie, while cleaning the over 2000 unread emails from my mailbox, I decided it warrants a post. Enjoy!

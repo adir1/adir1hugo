@@ -6,11 +6,10 @@ date: 2008-04-08T01:39:18+00:00
 url: /2008/04/sony-is-down-to-swindling-from-customers-now/
 tags:
   - Consumerism
-  - Final Fantasy XI
+  - Gaming
   - MMORPG
   - Personal
   - Sony
-  - Square-Enix
 
 ---
 I am just outraged now, so that is usually when I do my best writing 🙂

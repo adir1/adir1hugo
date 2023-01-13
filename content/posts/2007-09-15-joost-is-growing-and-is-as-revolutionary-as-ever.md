@@ -6,11 +6,8 @@ date: 2007-09-16T03:51:37+00:00
 url: /2007/09/joost-is-growing-and-is-as-revolutionary-as-ever/
 tags:
   - Entertainment
-  - internet tv
-  - IPTV
-  - joost
+  - Streaming Video
   - Technology
-  - vongo
 
 ---
 <a href="https://i2.wp.com/www.adir1.com//uploads/2007/09/joost-getmusic.jpg" target="_blank"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; margin: 0px 0px 0px 10px; border-right-width: 0px" height="184" alt="Joost - GetMusic" src="https://i0.wp.com/www.adir1.com//uploads/2007/09/joost-getmusic-thumb.jpg?resize=244%2C184" width="244" align="right" border="0" data-recalc-dims="1" /></a>Are you all <a href="http://www.joost.com" target="_blank">Joost</a>&#8216;ed up yet? This video platform is revolutionary and is truly disruptive to Video on the Web, and even Cable TV for home. 

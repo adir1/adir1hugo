@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2009-09-27T00:41:11+00:00
 url: /2009/09/technology-to-improve-our-human-experience-priceless/
-categories:
-  - General
 tags:
   - Family
   - Google

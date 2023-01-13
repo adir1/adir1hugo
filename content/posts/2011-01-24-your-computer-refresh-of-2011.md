@@ -4,8 +4,8 @@ author: Adi R
 type: post
 date: 2011-01-24T05:51:54+00:00
 url: /2011/01/your-computer-refresh-of-2011/
-categories:
-  - General
+tags:
+  - Technology
 
 ---
 <a href="http://windows.microsoft.com/en-us/windows/downloads/personalize/themes" target="_blank"><img style="background-image: none; border-bottom: 0px; border-left: 0px; margin: 0px 0px 10px 10px; padding-left: 0px; padding-right: 0px; display: inline; float: right; border-top: 0px; border-right: 0px; padding-top: 0px" title="Windows 7 Themes" border="0" alt="Windows 7 Themes" align="right" src="https://i2.wp.com/www.adir1.com/uploads/2011/01/Windows-7-Themes.png?resize=280%2C118" width="280" height="118" data-recalc-dims="1" /></a><font size="2"><strong>Welcome to 2011, oh how time flies!</strong></font>

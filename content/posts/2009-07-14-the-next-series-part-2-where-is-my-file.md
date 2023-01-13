@@ -4,10 +4,8 @@ author: Adi R
 type: post
 date: 2009-07-14T05:45:49+00:00
 url: /2009/07/the-next-series-part-2-where-is-my-file/
-categories:
-  - General
 tags:
-  - computer science
+  - Computer Science
   - Future
   - Next
   - Technology

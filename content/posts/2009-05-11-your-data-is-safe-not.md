@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2009-05-11T05:47:07+00:00
 url: /2009/05/your-data-is-safe-not/
-categories:
-  - General
 tags:
   - Computer Science
   - Windows

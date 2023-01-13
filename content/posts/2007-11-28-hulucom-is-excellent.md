@@ -6,11 +6,9 @@ date: 2007-11-29T02:59:50+00:00
 url: /2007/11/hulucom-is-excellent/
 tags:
   - Entertainment
-  - Hulu.com
-  - IPTV
+  - Hulu
+  - Streaming Video
   - Media
-  - Simpsons
-  - WebTV
 
 ---
 <p align="justify">

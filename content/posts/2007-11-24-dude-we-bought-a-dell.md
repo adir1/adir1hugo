@@ -9,7 +9,6 @@ tags:
   - Dell
   - Laptop
   - Technology
-  - Vostro
 
 ---
 <p align="justify">

@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2008-11-29T04:44:15+00:00
 url: /2008/11/google-does-it-again-picasa-3/
-categories:
-  - General
 tags:
   - Consumerism
   - Google

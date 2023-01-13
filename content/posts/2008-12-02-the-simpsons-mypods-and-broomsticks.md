@@ -4,14 +4,12 @@ author: Adi R
 type: post
 date: 2008-12-02T08:16:54+00:00
 url: /2008/12/the-simpsons-mypods-and-broomsticks/
-categories:
-  - General
 tags:
   - Entertainment
   - iPhone
   - Mac
   - Technology
-  - video
+  - Streaming Video
   - Windows
 
 ---

@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2007-08-06T15:46:01+00:00
 url: /2007/08/cosmic-link/
-categories:
-  - General
 tags:
   - Quantum Reality
   - Philosophy

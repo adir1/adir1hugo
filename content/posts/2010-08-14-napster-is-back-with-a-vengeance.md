@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2010-08-14T18:08:35+00:00
 url: /2010/08/napster-is-back-with-a-vengeance/
-categories:
-  - General
 tags:
   - Entertainment
   - Music

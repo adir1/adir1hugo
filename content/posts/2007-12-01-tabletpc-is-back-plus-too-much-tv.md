@@ -5,7 +5,7 @@ type: post
 date: 2007-12-02T02:20:38+00:00
 url: /2007/12/tabletpc-is-back-plus-too-much-tv/
 tags:
-  - crayon physics
+  - Gaming
   - Weekend Fun
   - YouTube
 

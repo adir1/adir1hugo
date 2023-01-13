@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2009-09-02T23:47:40+00:00
 url: /2009/09/admission-i-was-a-netbook-holdout/
-categories:
-  - General
 tags:
   - Technology
   - Videos

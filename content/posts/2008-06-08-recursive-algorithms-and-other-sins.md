@@ -5,9 +5,9 @@ type: post
 date: 2008-06-08T17:19:56+00:00
 url: /2008/06/recursive-algorithms-and-other-sins/
 tags:
-  - computer science
+  - Computer Science
   - Java
-  - recursion
+  - Programming
   - Technology
 
 ---

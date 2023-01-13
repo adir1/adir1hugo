@@ -4,10 +4,8 @@ author: Adi R
 type: post
 date: 2008-04-23T02:25:22+00:00
 url: /2008/04/web-services-cloud-computing-both-neither/
-categories:
-  - General
 tags:
-  - Mesh
+  - Programming
   - Microsoft
   - Technology
   - Windows

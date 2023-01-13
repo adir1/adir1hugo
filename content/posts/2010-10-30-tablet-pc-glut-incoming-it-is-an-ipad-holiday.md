@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2010-10-31T04:05:56+00:00
 url: /2010/10/tablet-pc-glut-incoming-it-is-an-ipad-holiday/
-categories:
-  - General
 tags:
   - Apple
   - Tablet

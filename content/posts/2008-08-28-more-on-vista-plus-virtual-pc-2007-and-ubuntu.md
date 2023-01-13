@@ -4,11 +4,9 @@ author: Adi R
 type: post
 date: 2008-08-28T22:30:54+00:00
 url: /2008/08/more-on-vista-plus-virtual-pc-2007-and-ubuntu/
-categories:
-  - General
 tags:
   - DragonCon
-  - Ubuntu
+  - Linux
   - VirtualPC
   - Windows
 

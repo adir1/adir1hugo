@@ -7,7 +7,7 @@ url: /2007/10/watch-your-favorite-tv-shows-on-netflix/
 tags:
   - Entertainment
   - Streaming
-  - NetFlix
+  - Netflix
   - Technology
 
 ---

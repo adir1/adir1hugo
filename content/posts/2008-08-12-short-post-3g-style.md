@@ -4,11 +4,9 @@ author: Adi R
 type: post
 date: 2008-08-12T05:52:30+00:00
 url: /2008/08/short-post-3g-style/
-categories:
-  - General
 tags:
   - iPhone
-  - wordpress
+  - WordPress
 
 ---
 This my first post from an iPhone 3G. I am practicing typing with both hands and it is working pretty well, surprisingly so!  

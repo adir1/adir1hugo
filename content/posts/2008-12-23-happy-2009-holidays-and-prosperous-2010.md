@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2008-12-23T09:53:36+00:00
 url: /2008/12/happy-2009-holidays-and-prosperous-2010/
-categories:
-  - General
 tags:
   - Google
   - Microsoft

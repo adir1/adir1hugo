@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2010-03-08T07:12:12+00:00
 url: /2010/03/chrome-browser-now-proven-more-secure/
-categories:
-  - General
 tags:
   - FireFox
   - Google

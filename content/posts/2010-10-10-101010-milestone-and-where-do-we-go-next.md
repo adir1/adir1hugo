@@ -4,8 +4,8 @@ author: Adi R
 type: post
 date: 2010-10-11T03:49:13+00:00
 url: /2010/10/101010-milestone-and-where-do-we-go-next/
-categories:
-  - General
+tags:
+  - Numerology
 
 ---
 <p align="justify">

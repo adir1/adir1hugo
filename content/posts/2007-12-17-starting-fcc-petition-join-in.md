@@ -5,7 +5,6 @@ type: post
 date: 2007-12-18T04:01:40+00:00
 url: /2007/12/starting-fcc-petition-join-in/
 tags:
-  - ClearQAM
   - Consumerism
   - FCC
   - HDTV

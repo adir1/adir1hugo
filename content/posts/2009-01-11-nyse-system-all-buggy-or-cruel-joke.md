@@ -4,11 +4,10 @@ author: Adi R
 type: post
 date: 2009-01-11T06:41:03+00:00
 url: /2009/01/nyse-system-all-buggy-or-cruel-joke/
-categories:
-  - General
 tags:
-  - amd
-  - nyse
+  - AMD
+  - NYSE
+  - Finance
   - Technology
 
 ---

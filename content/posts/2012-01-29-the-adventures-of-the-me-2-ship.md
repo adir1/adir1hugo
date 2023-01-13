@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2012-01-29T20:55:38+00:00
 url: /2012/01/the-adventures-of-the-me-2-ship/
-categories:
-  - General
 tags:
   - Android
   - Innovation

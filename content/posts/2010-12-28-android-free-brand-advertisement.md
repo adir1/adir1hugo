@@ -4,11 +4,9 @@ author: Adi R
 type: post
 date: 2010-12-29T04:07:22+00:00
 url: /2010/12/android-free-brand-advertisement/
-categories:
-  - General
 tags:
   - Business
-  - Open-Source
+  - Open Source
 
 ---
 <p align="justify">

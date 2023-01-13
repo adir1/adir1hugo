@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2010-06-19T20:47:26+00:00
 url: /2010/06/mass-effect-2-on-sale-today/
-categories:
-  - General
 tags:
   - Deal
 

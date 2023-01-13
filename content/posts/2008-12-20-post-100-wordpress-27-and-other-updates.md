@@ -4,12 +4,10 @@ author: Adi R
 type: post
 date: 2008-12-20T18:29:10+00:00
 url: /2008/12/post-100-wordpress-27-and-other-updates/
-categories:
-  - General
 tags:
   - Technology
   - Windows
-  - Wordpress
+  - WordPress
 
 ---
 <p align="justify">

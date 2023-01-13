@@ -7,7 +7,7 @@ url: /2012/05/finding-life-riches
 heroStyle: basic
 tags:
   - Philosophy
-  - Scams
+  - InfoSec
   - Internet
 
 ---

@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2008-02-14T03:23:40+00:00
 url: /2008/02/today-is-that-day/
-categories:
-  - General
 tags:
   - Life Balance
   - Personal

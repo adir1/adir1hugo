@@ -5,8 +5,7 @@ type: post
 date: 2007-11-13T01:59:41+00:00
 url: /2007/11/deinterlace-your-videos-silly-amateurs/
 tags:
-  - cnet
-  - deinterlace
+  - Deinterlace
   - Technology
   - Zune
 

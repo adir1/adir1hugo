@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2010-06-24T05:16:53+00:00
 url: /2010/06/my-iphone-4-is-here-a-day-early-even/
-categories:
-  - General
 tags:
   - Apple
   - Consumerism

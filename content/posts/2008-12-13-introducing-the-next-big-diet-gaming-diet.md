@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2008-12-13T18:56:04+00:00
 url: /2008/12/introducing-the-next-big-diet-gaming-diet/
-categories:
-  - General
 tags:
   - Diet
   - Gaming

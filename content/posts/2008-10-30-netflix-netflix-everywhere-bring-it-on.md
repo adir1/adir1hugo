@@ -4,13 +4,11 @@ author: Adi R
 type: post
 date: 2008-10-30T07:08:59+00:00
 url: /2008/10/netflix-netflix-everywhere-bring-it-on/
-categories:
-  - General
 tags:
   - HDTV
-  - netflix
-  - tivo
-  - xbox 360
+  - Netflix
+  - Tivo
+  - XBox 360
 
 ---
 <p align="justify">

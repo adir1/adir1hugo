@@ -4,12 +4,10 @@ author: Adi R
 type: post
 date: 2009-04-11T03:11:47+00:00
 url: /2009/04/microsoft-envisions-our-computing-future/
-categories:
-  - General
 tags:
   - Microsoft
   - Technology
-  - video
+  - Streaming Video
 
 ---
 <p align="justify">

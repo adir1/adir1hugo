@@ -4,8 +4,8 @@ author: Adi R
 type: post
 date: 2010-10-03T03:41:48+00:00
 url: /2010/10/dead-trees-information-platform-dead/
-categories:
-  - General
+tags:
+  - eBooks
 
 ---
 <p align="justify">

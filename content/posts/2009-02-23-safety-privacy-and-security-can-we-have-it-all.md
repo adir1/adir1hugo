@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2009-02-23T07:59:04+00:00
 url: /2009/02/safety-privacy-and-security-can-we-have-it-all/
-categories:
-  - General
 tags:
   - Technology
   - Watch

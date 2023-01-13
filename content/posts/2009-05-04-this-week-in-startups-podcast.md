@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2009-05-05T03:17:27+00:00
 url: /2009/05/this-week-in-startups-podcast/
-categories:
-  - General
 tags:
   - Media
 

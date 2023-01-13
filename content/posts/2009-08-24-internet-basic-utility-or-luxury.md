@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2009-08-25T03:06:45+00:00
 url: /2009/08/internet-basic-utility-or-luxury/
-categories:
-  - General
 tags:
   - Consumerism
 

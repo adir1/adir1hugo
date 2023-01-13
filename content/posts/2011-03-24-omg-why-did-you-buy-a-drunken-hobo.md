@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2011-03-24T12:09:23+00:00
 url: /2011/03/omg-why-did-you-buy-a-drunken-hobo/
-categories:
-  - General
 tags:
   - Consumerism
   - Deal

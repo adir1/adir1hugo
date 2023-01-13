@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2009-01-31T21:15:57+00:00
 url: /2009/01/windows-7-cool-but-no-64-bit-for-me/
-categories:
-  - General
 tags:
   - Microsoft
   - Technology

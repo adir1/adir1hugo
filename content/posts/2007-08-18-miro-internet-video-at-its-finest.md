@@ -6,7 +6,7 @@ date: 2007-08-18T05:39:06+00:00
 url: /2007/08/miro-internet-video-at-its-finest/
 tags:
   - Entertainment
-  - Internet Video
+  - Streaming Video
   - Miro
   - Technology
   - Vuze

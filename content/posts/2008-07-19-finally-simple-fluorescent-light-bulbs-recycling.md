@@ -6,8 +6,7 @@ date: 2008-07-19T20:53:55+00:00
 url: /2008/07/finally-simple-fluorescent-light-bulbs-recycling/
 tags:
   - Consumerism
-  - Fluorescent
-  - Home Depot
+  - Global Warming
   - Personal
   - Recycling
 

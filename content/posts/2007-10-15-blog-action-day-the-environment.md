@@ -5,7 +5,7 @@ type: post
 date: 2007-10-16T02:54:02+00:00
 url: /2007/10/blog-action-day-the-environment/
 tags:
-  - environment
+  - Global Warming
   - Personal
 
 ---

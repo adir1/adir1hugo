@@ -5,9 +5,8 @@ type: post
 date: 2007-09-19T07:23:08+00:00
 url: /2007/09/there-goes-yet-another-opportunity-of-mine/
 tags:
-  - 3d input
+  - VR
   - Technology
-  - Xtreme Reality
 
 ---
 As I mentioned in the title of my Ventures page (which is still unfinished, as yet another testament to what happens with my Ventures&#8230;), most of my ideas get implemented not by me.

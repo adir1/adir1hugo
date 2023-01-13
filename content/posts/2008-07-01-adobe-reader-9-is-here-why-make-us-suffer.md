@@ -6,10 +6,7 @@ date: 2008-07-02T03:46:57+00:00
 url: /2008/07/adobe-reader-9-is-here-why-make-us-suffer/
 tags:
   - Adobe
-  - Fedora
   - Linux
-  - PDF
-  - Reader 9
   - Technology
 
 ---

@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2011-07-04T20:05:15+00:00
 url: /2011/07/bad-us-regulations-or-google-incompetence/
-categories:
-  - General
 tags:
   - Consumerism
   - Family

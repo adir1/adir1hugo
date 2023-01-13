@@ -5,7 +5,6 @@ type: post
 date: 2007-09-14T06:15:54+00:00
 url: /2007/09/future-is-here-folks-and-it-aint-cheap/
 tags:
-  - gadget
   - Technology
 
 ---

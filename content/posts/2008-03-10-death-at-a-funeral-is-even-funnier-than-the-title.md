@@ -5,10 +5,9 @@ type: post
 date: 2008-03-11T02:15:08+00:00
 url: /2008/03/death-at-a-funeral-is-even-funnier-than-the-title/
 tags:
-  - Death at a Funeral
   - Happiness
   - Media
-  - Movie
+  - Open Source
 
 ---
 I hope you are checking out &#8216;Now Playing on My Netflix&#8217; rubric on the right sidebar of my web site. Last week a movie <a href="http://www.netflix.com/Movie/Death_at_a_Funeral/70058015" target="_blank">Death at a Funeral</a> was listed there, as it always shows the movies I have at home.

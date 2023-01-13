@@ -5,11 +5,11 @@ type: post
 date: 2007-10-24T01:56:08+00:00
 url: /2007/10/why-get-your-own-dot-com-blog/
 tags:
-  - blog
   - Domain
   - Personal
   - Technology
-  - web host
+  - Web Hosting
+  - Open Source
 
 ---
 <p align="justify">

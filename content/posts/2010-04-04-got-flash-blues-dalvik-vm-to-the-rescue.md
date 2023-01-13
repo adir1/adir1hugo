@@ -4,13 +4,12 @@ author: Adi R
 type: post
 date: 2010-04-04T20:22:27+00:00
 url: /2010/04/got-flash-blues-dalvik-vm-to-the-rescue/
-categories:
-  - General
 tags:
   - Adobe Flash
   - Android
   - Google
   - Java
+  - Open Source
 
 ---
 <p align="justify">

@@ -6,10 +6,9 @@ date: 2007-08-21T20:34:21+00:00
 url: /2007/08/it-is-official-tipping-point-for-h264/
 tags:
   - Adobe
-  - h.264
   - Media
-  - mp4
-  - Sony Vegas
+  - MP4
+  - Sony
   - Technology
 
 ---

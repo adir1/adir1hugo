@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2009-10-31T21:29:09+00:00
 url: /2009/10/windows-7-64-bit-installation-my-first-week/
-categories:
-  - General
 tags:
   - Technology
   - Windows

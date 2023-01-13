@@ -6,9 +6,8 @@ date: 2007-11-08T00:19:57+00:00
 url: /2007/11/wives-versus-mistresses/
 tags:
   - Family
-  - mistress
   - Personal
-  - relationships
+  - Self Help
 
 ---
 <p align="justify">

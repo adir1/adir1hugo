@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2011-02-23T03:48:08+00:00
 url: /2011/02/usa-today-supports-scam-ads-is-this-whats-next-in-online-advertising/
-categories:
-  - General
 tags:
   - Consumerism
   - Internet

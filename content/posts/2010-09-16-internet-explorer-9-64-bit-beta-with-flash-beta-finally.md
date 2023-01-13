@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2010-09-17T00:50:40+00:00
 url: /2010/09/internet-explorer-9-64-bit-beta-with-flash-beta-finally/
-categories:
-  - General
 tags:
   - Adobe Flash
   - Microsoft

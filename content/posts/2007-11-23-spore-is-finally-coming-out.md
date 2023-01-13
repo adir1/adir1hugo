@@ -9,8 +9,6 @@ tags:
   - Gaming
   - Simulation
   - Media
-  - Spore
-  - Universe
 
 ---
 <a href="https://i1.wp.com/www.adir1.com//uploads/2007/11/spore-creature-designer.jpg" target="_blank"><img id="id" style="border-right: 0px; border-top: 0px; margin: 0px 10px 0px 0px; border-left: 0px; border-bottom: 0px" height="195" alt="Spore Creature Designer" src="https://i1.wp.com/www.adir1.com//uploads/2007/11/spore-creature-designer-thumb.jpg?resize=195%2C195" width="195" align="left" border="0" data-recalc-dims="1" /></a> But First &#8211; Happy Thanksgiving everyone, and special Thanks for reading!

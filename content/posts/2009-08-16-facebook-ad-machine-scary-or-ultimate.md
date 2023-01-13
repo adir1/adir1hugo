@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2009-08-16T21:00:38+00:00
 url: /2009/08/facebook-ad-machine-scary-or-ultimate/
-categories:
-  - General
 tags:
   - Gaming
   - Marketing

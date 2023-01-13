@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2009-04-16T04:12:31+00:00
 url: /2009/04/future-of-marketing/
-categories:
-  - General
 tags:
   - Google
   - Marketing

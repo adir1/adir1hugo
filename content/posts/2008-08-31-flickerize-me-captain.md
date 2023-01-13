@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2008-09-01T02:37:37+00:00
 url: /2008/08/flickerize-me-captain/
-categories:
-  - General
 tags:
   - Flickr
   - Personal

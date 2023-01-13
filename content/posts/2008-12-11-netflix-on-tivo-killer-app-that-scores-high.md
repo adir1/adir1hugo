@@ -4,13 +4,11 @@ author: Adi R
 type: post
 date: 2008-12-11T05:10:10+00:00
 url: /2008/12/netflix-on-tivo-killer-app-that-scores-high/
-categories:
-  - General
 tags:
   - Entertainment
-  - internet tv
-  - netflix
-  - tivo
+  - Streaming Video
+  - Netflix
+  - Tivo
 
 ---
 <p align="justify">

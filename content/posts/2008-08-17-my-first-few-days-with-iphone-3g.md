@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2008-08-18T03:15:15+00:00
 url: /2008/08/my-first-few-days-with-iphone-3g/
-categories:
-  - General
 tags:
   - Consumerism
   - iPhone

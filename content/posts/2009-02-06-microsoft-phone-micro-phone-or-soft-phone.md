@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2009-02-07T01:38:05+00:00
 url: /2009/02/microsoft-phone-micro-phone-or-soft-phone/
-categories:
-  - General
 tags:
   - Android
   - iPhone

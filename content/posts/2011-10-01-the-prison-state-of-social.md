@@ -4,14 +4,6 @@ author: Adi R
 type: post
 date: 2011-10-02T02:30:02+00:00
 url: /2011/10/the-prison-state-of-social/
-geo_latitude:
-  - 33.778669
-geo_longitude:
-  - -84.382767
-geo_public:
-  - 1
-categories:
-  - General
 tags:
   - Social
 

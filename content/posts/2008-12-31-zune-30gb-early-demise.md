@@ -4,11 +4,8 @@ author: Adi R
 type: post
 date: 2008-12-31T20:31:22+00:00
 url: /2008/12/zune-30gb-early-demise/
-categories:
-  - General
 tags:
   - Consumerism
-  - microsoft bug
   - Technology
   - Zune
 

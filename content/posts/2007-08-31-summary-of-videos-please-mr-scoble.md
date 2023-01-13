@@ -5,9 +5,8 @@ type: post
 date: 2007-08-31T05:09:52+00:00
 url: /2007/08/summary-of-videos-please-mr-scoble/
 tags:
-  - kyte.tv
   - Personal
-  - scobleizer
+  - Scobleizer
   - Technology
 
 ---

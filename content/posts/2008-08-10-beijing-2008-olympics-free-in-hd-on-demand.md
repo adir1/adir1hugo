@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2008-08-10T06:39:09+00:00
 url: /2008/08/beijing-2008-olympics-free-in-hd-on-demand/
-categories:
-  - General
 tags:
   - Entertainment
   - Olympics

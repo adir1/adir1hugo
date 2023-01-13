@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2011-11-04T04:52:01+00:00
 url: /2011/11/my-sandbox-aka-liability-fiasco/
-categories:
-  - General
 tags:
   - Apple
   - Consumerism

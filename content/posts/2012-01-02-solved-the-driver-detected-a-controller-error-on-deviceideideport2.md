@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2012-01-02T07:53:09+00:00
 url: /2012/01/solved-the-driver-detected-a-controller-error-on-deviceideideport2/
-categories:
-  - General
 tags:
   - Microsoft
   - Technology

@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2008-06-09T22:19:16+00:00
 url: /2008/06/iphone-20-3g-gps-and-what-not/
-categories:
-  - General
 tags:
   - 3G
   - Consumerism

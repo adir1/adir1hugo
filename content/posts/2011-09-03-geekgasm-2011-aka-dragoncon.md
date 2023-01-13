@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2011-09-03T20:34:19+00:00
 url: /2011/09/geekgasm-2011-aka-dragoncon/
-categories:
-  - General
 tags:
   - DragonCon
   - Entertainment

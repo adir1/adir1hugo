@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2013-03-31T14:38:16+00:00
 url: /2013/03/the-zeitgeist-movie-series-my-take/
-categories:
-  - General
 tags:
   - Economics
   - Money

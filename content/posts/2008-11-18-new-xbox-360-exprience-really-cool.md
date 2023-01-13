@@ -4,12 +4,10 @@ author: Adi R
 type: post
 date: 2008-11-18T05:59:11+00:00
 url: /2008/11/new-xbox-360-exprience-really-cool/
-categories:
-  - General
 tags:
   - Consumerism
   - Microsoft
-  - xbox 360
+  - XBox 360
 
 ---
 <p align="justify">

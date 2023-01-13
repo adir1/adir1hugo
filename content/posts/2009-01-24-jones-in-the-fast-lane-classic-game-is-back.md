@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2009-01-24T21:29:41+00:00
 url: /2009/01/jones-in-the-fast-lane-classic-game-is-back/
-categories:
-  - General
 tags:
   - Entertainment
   - Gaming

@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2011-07-29T04:21:45+00:00
 url: /2011/07/the-minecraft-effect-on-our-computing-power/
-categories:
-  - General
 tags:
   - Consumerism
   - Gaming

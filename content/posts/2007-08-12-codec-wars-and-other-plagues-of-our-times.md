@@ -6,9 +6,8 @@ date: 2007-08-13T02:45:56+00:00
 url: /2007/08/codec-wars-and-other-plagues-of-our-times/
 tags:
   - Codec
-  - h.264
   - Media
-  - mp4
+  - MP4
   - Technology
 
 ---

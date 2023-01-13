@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2009-04-26T17:41:22+00:00
 url: /2009/04/the-next-series-part-1-simulated-past/
-categories:
-  - General
 tags:
   - Future
   - Microsoft

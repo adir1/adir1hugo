@@ -4,8 +4,6 @@ author: Adi R
 type: post
 date: 2009-06-26T19:28:56+00:00
 url: /2009/06/windows-7-only-40-at-microcenter-or-45-at-costco/
-categories:
-  - General
 tags:
   - Microsoft
   - Windows

@@ -4,13 +4,11 @@ author: Adi R
 type: post
 date: 2009-03-15T19:04:11+00:00
 url: /2009/03/iphone-30-nintendo-ids-and-walled-gardens/
-categories:
-  - General
 tags:
   - Communications
   - Internet
   - iPhone
-  - Xbox
+  - XBox 360
 
 ---
 Before you scream – SPELL CHECK, STUPID &#8211; The error in the title is intentional. Nintendo’s device should be called iDS, but opting not to alienate Apple they called their “i” device <a href="http://www.nintendodsi.com/" target="_blank">Nintendo DSi</a>.

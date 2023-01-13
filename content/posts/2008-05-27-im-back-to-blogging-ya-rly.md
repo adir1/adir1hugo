@@ -5,10 +5,8 @@ type: post
 date: 2008-05-27T18:05:28+00:00
 url: /2008/05/im-back-to-blogging-ya-rly/
 tags:
-  - News
-  - Photos
   - Technology
-  - Visualizer
+  - Personal
 
 ---
 <p align="justify">

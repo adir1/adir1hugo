@@ -4,12 +4,10 @@ author: Adi R
 type: post
 date: 2009-09-06T07:17:29+00:00
 url: /2009/09/wordpress-security-breach-first-response-steps/
-categories:
-  - General
 tags:
-  - scobleizer
+  - Scobleizer
   - Technology
-  - wordpress
+  - WordPress
 
 ---
 <p style="text-align: justify;">
