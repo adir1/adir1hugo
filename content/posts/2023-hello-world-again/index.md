@@ -3,7 +3,7 @@ title: Hello World (Again!)
 description: "Post about rebuilding website with SSG, life events, and the Whole World"
 author: Adi Rabinovich
 type: post
-date: 2023-01-05T11:11:11+00:00
+date: 2023-01-11T11:11:11+00:00
 url: /2023/hello-world-again/
 tags:
   - Personal

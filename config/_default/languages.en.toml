@@ -17,10 +17,12 @@ dateFormat = "2 January 2006"
   name = "Adi Rabinovich"
   image = "img/profile-pic.jpg"
 #  headline = "Net, Life and The Meaning of it All"
-  headline = "{{< typeit tag=h3 speed=40 lifeLike=true breakLines=false loop=true >}}Net, Life and The Meaning of it All!\nWriting about Life, Technology and The Universe!\nWhat does one put in a Bio anyhow?{{< /typeit >}}"
-  bio = "Writing about Life, Technology and The Universe!"
+# typeit tag=h4 removed for now
+  headline = "{{< typeit speed=70 lifeLike=true breakLines=false loop=true >}}Net, Life and The Meaning of it All!\nWriting about Tech, Life and The Universe!\nWhat does one put in a Bio even?\nTo comment open GitHub issue!{{< /typeit >}}"
+  bio = "Writing about Tech, Life and The Universe!"
 #  bio = "Self-Proclaimed Human and Tech Guru"
   links = [
+   { mastodon = "https://infosec.exchange/@adir1" }, 
    { twitter = "https://twitter.com/adir1" },
    { linkedin = "https://linkedin.com/in/adir1" },
    { github = "https://github.com/adir1" },
