@@ -22,7 +22,7 @@
 
 [[main]]
   name = "Life Snippets"
-  pageRef = "life"
+  pageRef = "life_snippets"
   weight = 30
 
 [[main]]

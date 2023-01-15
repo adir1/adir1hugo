@@ -8,7 +8,7 @@ tags:
   - Technology
 
 ---
-<a href="http://shop.bjs.com/viewproduct.htm?productId=21254855" target="_blank"><img style="border-right: 0px; border-top: 0px; margin: 0px 0px 0px 10px; border-left: 0px; border-bottom: 0px" height="152" alt="ezGear ezVisionX4 Video iWear" src="https://i0.wp.com/www.adir1.com//uploads/2007/09/ezgear-ezvisionx4-video-iwear.jpg?resize=244%2C152" width="244" align="right" border="0" data-recalc-dims="1" /></a> When <a href="http://shop.bjs.com/viewproduct.htm?productId=21254855" target="_blank">this amazing gadget</a> shows up in your run-of-the-mill neighborhood warehouse club, this truly takes it mainstream. 
+<a href="http://shop.bjs.com/viewproduct.htm?productId=21254855" target="_blank"><img style="border-right: 0px; border-top: 0px; margin: 0px 0px 0px 10px; border-left: 0px; border-bottom: 0px" height="152" alt="ezGear ezVisionX4 Video iWear" src="/uploads/2007/09/ezgear-ezvisionx4-video-iwear.jpg?resize=244%2C152" width="244" align="right" border="0" data-recalc-dims="1" /></a> When <a href="http://shop.bjs.com/viewproduct.htm?productId=21254855" target="_blank">this amazing gadget</a> shows up in your run-of-the-mill neighborhood warehouse club, this truly takes it mainstream. 
 
 Meet <a href="http://www.ezgear.com/ALL/ezvision_X4.html" target="_blank">ezGear ezVisionX4 Video iWear</a>, courtesy of BJ&#8217;s wholesale club. Yep, finally, all those science fiction movies we all saw as kids are coming true. TV and Movie theater, 60&#8243; Widescreen, built into your eye-wear. With stereophonic sound, and iPod Video compatibility, of course!
 

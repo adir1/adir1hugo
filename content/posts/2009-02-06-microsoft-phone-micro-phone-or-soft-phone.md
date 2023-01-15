@@ -12,7 +12,7 @@ tags:
 
 ---
 <p align="justify">
-  <img title="Samsung Windows Mobile Device" style="border-right: 0px; border-top: 0px; display: inline; margin: 0px 10px 0px 0px; border-left: 0px; border-bottom: 0px" height="172" alt="Samsung Windows Mobile Device" src="https://i2.wp.com/www.adir1.com/uploads/2009/02/samsungwindowsmobiledevice.png?resize=116%2C172" width="116" align="left" border="0" data-recalc-dims="1" /> I just couldn’t resist the title, it’s just too funny. But on a serious note, Microsoft’s Windows Mobile platform is in serious trouble. Rumors flamed up again about Microsoft making their own <a href="http://arstechnica.com/microsoft/news/2009/02/rumor-mill-no-microsoft-phone-yes-microsoft-chassis.ars" target="_blank">MS branded hardware device</a>, presumably with Zune functionality built in.
+  <img title="Samsung Windows Mobile Device" style="border-right: 0px; border-top: 0px; display: inline; margin: 0px 10px 0px 0px; border-left: 0px; border-bottom: 0px" height="172" alt="Samsung Windows Mobile Device" src="/uploads/2009/02/samsungwindowsmobiledevice.png?resize=116%2C172" width="116" align="left" border="0" data-recalc-dims="1" /> I just couldn’t resist the title, it’s just too funny. But on a serious note, Microsoft’s Windows Mobile platform is in serious trouble. Rumors flamed up again about Microsoft making their own <a href="http://arstechnica.com/microsoft/news/2009/02/rumor-mill-no-microsoft-phone-yes-microsoft-chassis.ars" target="_blank">MS branded hardware device</a>, presumably with Zune functionality built in.
 </p>
 
 <p align="justify">

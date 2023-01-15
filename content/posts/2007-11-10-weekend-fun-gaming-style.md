@@ -26,7 +26,7 @@ tags:
 </p>
 
 <p align="justify">
-  <a href="http://www.halo3.com/"><img id="id" style="border-right: 0px; border-top: 0px; margin: 0px 10px 0px 0px; border-left: 0px; border-bottom: 0px" height="179" alt="h3_teaser_1024" src="https://i2.wp.com/www.adir1.com//uploads/2007/11/h3-teaser-1024.jpg?resize=174%2C179" width="174" align="left" border="0" data-recalc-dims="1" /></a> Another holiday favorite this season is <a href="http://www.halo3.com/">Halo 3</a> for XBox 360. This game has <a href="http://stage6.divx.com/G4TV/video/1711476/X-Play's-Halo-3-Review" target="_blank">come of age</a>, and is probably the most feature complete first-person shooter today.
+  <a href="http://www.halo3.com/"><img id="id" style="border-right: 0px; border-top: 0px; margin: 0px 10px 0px 0px; border-left: 0px; border-bottom: 0px" height="179" alt="h3_teaser_1024" src="/uploads/2007/11/h3-teaser-1024.jpg?resize=174%2C179" width="174" align="left" border="0" data-recalc-dims="1" /></a> Another holiday favorite this season is <a href="http://www.halo3.com/">Halo 3</a> for XBox 360. This game has <a href="http://stage6.divx.com/G4TV/video/1711476/X-Play's-Halo-3-Review" target="_blank">come of age</a>, and is probably the most feature complete first-person shooter today.
 </p>
 
 <p align="justify">

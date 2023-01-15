@@ -10,7 +10,7 @@ tags:
 
 ---
 <p align="justify">
-  <a href="http://music.napster.com/napsterhome/videos.htm" target="_blank"><img style="border-bottom: 0px; border-left: 0px; margin: 0px 0px 0px 10px; display: inline; border-top: 0px; border-right: 0px" title="Napster Music Site" border="0" alt="Napster Music Site" align="right" src="https://i1.wp.com/www.adir1.com/uploads/2010/08/NapsterMusicSite.png?resize=260%2C140" width="260" height="140" data-recalc-dims="1" /></a> I recently signed up for <a href="http://www.napster.com" target="_blank">Napster</a>, and so far it’s a pleasant experience. The price proposition convinced me – unlimited music streaming to your computer AND you can purchase Un-protected (DRM Free) songs for keeps. When you buy 3 months at a time, it comes out to $5 per months which gives you 5 songs and Unlimited streaming of their huge library, whole month.
+  <a href="http://music.napster.com/napsterhome/videos.htm" target="_blank"><img style="border-bottom: 0px; border-left: 0px; margin: 0px 0px 0px 10px; display: inline; border-top: 0px; border-right: 0px" title="Napster Music Site" border="0" alt="Napster Music Site" align="right" src="/uploads/2010/08/NapsterMusicSite.png?resize=260%2C140" width="260" height="140" data-recalc-dims="1" /></a> I recently signed up for <a href="http://www.napster.com" target="_blank">Napster</a>, and so far it’s a pleasant experience. The price proposition convinced me – unlimited music streaming to your computer AND you can purchase Un-protected (DRM Free) songs for keeps. When you buy 3 months at a time, it comes out to $5 per months which gives you 5 songs and Unlimited streaming of their huge library, whole month.
 </p>
 
 <p align="justify">

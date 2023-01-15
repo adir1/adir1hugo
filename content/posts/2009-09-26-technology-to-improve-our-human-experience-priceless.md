@@ -12,7 +12,7 @@ tags:
 
 ---
 <p align="justify">
-  <a href="https://i0.wp.com/www.adir1.com/uploads/2009/09/PicasaFaceRecognition.png" target="_blank"><img style="border-bottom: 0px; border-left: 0px; margin: 0px 0px 5px 10px; display: inline; border-top: 0px; border-right: 0px" title="Picasa Face Recognition" border="0" alt="Picasa Face Recognition" align="right" src="https://i2.wp.com/www.adir1.com/uploads/2009/09/PicasaFaceRecognition_thumb.png?resize=244%2C199" width="244" height="199" data-recalc-dims="1" /></a> I am excited, awestruck, humbled and overall happy and serene, all at once! What brought on these emotions is my first interaction with newest version of Google’s amazing <a href="http://picasa.google.com/" target="_blank">Picasa</a> product. But of course, it’s years of photos in my collection that bring on these wonderful memories, and combined with amazing new technology to present and organize them, is where Picasa really shines.
+  <a href="/uploads/2009/09/PicasaFaceRecognition.png" target="_blank"><img style="border-bottom: 0px; border-left: 0px; margin: 0px 0px 5px 10px; display: inline; border-top: 0px; border-right: 0px" title="Picasa Face Recognition" border="0" alt="Picasa Face Recognition" align="right" src="/uploads/2009/09/PicasaFaceRecognition.png?resize=244%2C199" width="244" height="199" data-recalc-dims="1" /></a> I am excited, awestruck, humbled and overall happy and serene, all at once! What brought on these emotions is my first interaction with newest version of Google’s amazing <a href="http://picasa.google.com/" target="_blank">Picasa</a> product. But of course, it’s years of photos in my collection that bring on these wonderful memories, and combined with amazing new technology to present and organize them, is where Picasa really shines.
 </p>
 
 <p align="justify">
@@ -36,7 +36,7 @@ tags:
 </p>
 
 <p align="justify">
-  <img style="border-bottom: 0px; border-left: 0px; margin: 0px 10px 0px 0px; display: inline; border-top: 0px; border-right: 0px" title="Picasa 3" border="0" alt="Picasa 3" align="left" src="https://i2.wp.com/www.adir1.com/uploads/2009/09/Picasa309260953450PM.jpg?resize=104%2C134" width="104" height="134" data-recalc-dims="1" /> The recognition algorithm is really impressive, there were few rare occasions where I wasn’t even sure myself, but computer was right in face recognition!!! Even partial faces like this one here, recognized correctly!!!
+  <img style="border-bottom: 0px; border-left: 0px; margin: 0px 10px 0px 0px; display: inline; border-top: 0px; border-right: 0px" title="Picasa 3" border="0" alt="Picasa 3" align="left" src="/uploads/2009/09/Picasa309260953450PM.jpg?resize=104%2C134" width="104" height="134" data-recalc-dims="1" /> The recognition algorithm is really impressive, there were few rare occasions where I wasn’t even sure myself, but computer was right in face recognition!!! Even partial faces like this one here, recognized correctly!!!
 </p>
 
 <p align="justify">

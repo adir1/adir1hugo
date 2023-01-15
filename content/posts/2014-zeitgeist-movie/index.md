@@ -4,12 +4,12 @@ author: Adi R
 type: post
 date: 2013-03-31T14:38:16+00:00
 url: /2013/03/the-zeitgeist-movie-series-my-take/
+heroStyle: "big"
 tags:
   - Economics
   - Money
   - Review
   - Utopia
-  - Zeitgeist
 
 ---
 Let me open by saying that these movies are a classic definition of Propaganda. They follow the tried and true model of massaging real facts to their own needs, and using strategic omissions or worse. That said, I have long wondered whether monetary system is the best way to organize Planet&#8217;s resources at this stage of evolution for our mighty civilization. It is rather clear to me that human race is much further along thanks to invention of Money and evolution of Markets and Banking, but is Monetary System in it&#8217;s current form truly the best method to propel us onto the next stage of evolution as a species?

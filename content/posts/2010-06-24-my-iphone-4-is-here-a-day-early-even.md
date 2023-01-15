@@ -12,7 +12,7 @@ tags:
 
 ---
 <p align="justify">
-  <a href="http://www.apple.com/iphone/features/" target="_blank"><img style="border-bottom: 0px; border-left: 0px; margin: 0px 0px 0px 10px; display: inline; border-top: 0px; border-right: 0px" title="IMG_3754" border="0" alt="IMG_3754" align="right" src="https://i2.wp.com/www.adir1.com/uploads/2010/06/IMG_3754.jpg?resize=260%2C200" width="260" height="200" data-recalc-dims="1" /></a> Yep, my iPhone 4 arrived via FedEx today and so far all I did was <strong>Shamelessly Fondle It</strong> all over. It is in the long process of synching with iTunes, and filling it up with Apps and Stuff.
+  <a href="http://www.apple.com/iphone/features/" target="_blank"><img style="border-bottom: 0px; border-left: 0px; margin: 0px 0px 0px 10px; display: inline; border-top: 0px; border-right: 0px" title="IMG_3754" border="0" alt="IMG_3754" align="right" src="/uploads/2010/06/IMG_3754.jpg?resize=260%2C200" width="260" height="200" data-recalc-dims="1" /></a> Yep, my iPhone 4 arrived via FedEx today and so far all I did was <strong>Shamelessly Fondle It</strong> all over. It is in the long process of synching with iTunes, and filling it up with Apps and Stuff.
 </p>
 
 <p align="justify">

@@ -14,7 +14,7 @@ tags:
   Word gets around on Internet quickly, but apparently not quickly enough for me. I do recall noticing somewhere a word about small security breach in WordPress 2.8.2 few days ago, but it wasn&#8217;t clear to me that <span style="color: #ff0000;"><strong>all earlier WordPress versions</strong></span> were affected, so I did not rush and act right away.
 </p>
 
-[<img class="size-full wp-image-452 alignright" title="Wordpress Logo and Stats" src="https://i0.wp.com/www.adir1.com/uploads/2009/09/Wordpress-Logo-and-Stats.png?resize=244%2C251" alt="Wordpress Logo and Stats" width="244" height="251" data-recalc-dims="1" />][1]
+[<img class="size-full wp-image-452 alignright" title="Wordpress Logo and Stats" src="/uploads/2009/09/Wordpress-Logo-and-Stats.png?resize=244%2C251" alt="Wordpress Logo and Stats" width="244" height="251" data-recalc-dims="1" />][1]
 
 <p style="text-align: justify;">
   Big mistake, after reading today what happened to <a href="http://scobleizer.com/2009/09/05/i-dont-feel-safe-with-wordpress-hackers-broke-in-and-took-things/">Scobleizer</a> (top of <a href="http://www.techmeme.com/">Techmeme</a>, so thanks to both for heads up), I rushed to make the most recent backup of my blog and upgrade it to 2.8.4 wordpress. The upgrade itself was quick and painless (as usual with wordpress), and it actually much improved, as auto upgrade of plugins worked flawlessly in this latest edition (haven&#8217;t tried full upgrade yet).

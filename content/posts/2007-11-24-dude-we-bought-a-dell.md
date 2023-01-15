@@ -12,7 +12,7 @@ tags:
 
 ---
 <p align="justify">
-  <a href="https://i1.wp.com/www.adir1.com//uploads/2007/11/vostro-1400.jpg" target="_blank"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="171" alt="Vostro 1400" src="https://i2.wp.com/www.adir1.com//uploads/2007/11/vostro-1400-thumb.jpg?resize=260%2C171" width="260" align="right" border="0" data-recalc-dims="1" /></a> As many of you know, after months of planning and research I bought my wife a lovely birthday gift. It&#8217;s a top notch Vista Laptop, from Dell&#8217;s Vostro <a href="http://www.dell.com/content/products/features.aspx/hot_offers_nb?c=us&cs=04&l=en&s=bsd&dgc=BF&cid=20243&lid=507237" target="_blank">Small Business Line</a>. Naturally, I am typing this mini-review on it right now.
+  <a href="/uploads/2007/11/vostro-1400.jpg" target="_blank"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="171" alt="Vostro 1400" src="/uploads/2007/11/vostro-1400.jpg?resize=260%2C171" width="260" align="right" border="0" data-recalc-dims="1" /></a> As many of you know, after months of planning and research I bought my wife a lovely birthday gift. It&#8217;s a top notch Vista Laptop, from Dell&#8217;s Vostro <a href="http://www.dell.com/content/products/features.aspx/hot_offers_nb?c=us&cs=04&l=en&s=bsd&dgc=BF&cid=20243&lid=507237" target="_blank">Small Business Line</a>. Naturally, I am typing this mini-review on it right now.
 </p>
 
 <p align="justify">

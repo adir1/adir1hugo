@@ -11,7 +11,7 @@ tags:
 
 ---
 <p align="justify">
-  <a href="http://www.zune.net/en-US" target="_blank"><img id="id" style="border-right: 0px; border-top: 0px; margin: 0px 5px 0px 0px; border-left: 0px; border-bottom: 0px" height="260" alt="zune" src="https://i0.wp.com/www.adir1.com//uploads/2007/11/zune.jpg?resize=194%2C260" width="194" align="left" border="0" data-recalc-dims="1" /></a> Seriously, I just can&#8217;t take it any more! I am all excited about the release of the newly redesigned Zune software and <a href="http://en.wikipedia.org/wiki/Firmware" target="_blank">firmware</a>, which is coming out tomorrow. So, I was thrilled to watch first videos from around the web showing the new Zune features and User Interface.
+  <a href="http://www.zune.net/en-US" target="_blank"><img id="id" style="border-right: 0px; border-top: 0px; margin: 0px 5px 0px 0px; border-left: 0px; border-bottom: 0px" height="260" alt="zune" src="/uploads/2007/11/zune.jpg?resize=194%2C260" width="194" align="left" border="0" data-recalc-dims="1" /></a> Seriously, I just can&#8217;t take it any more! I am all excited about the release of the newly redesigned Zune software and <a href="http://en.wikipedia.org/wiki/Firmware" target="_blank">firmware</a>, which is coming out tomorrow. So, I was thrilled to watch first videos from around the web showing the new Zune features and User Interface.
 </p>
 
 <p align="left">

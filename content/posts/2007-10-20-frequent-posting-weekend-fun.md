@@ -20,7 +20,7 @@ tags:
   So, philosophy of this blog is to weed out the essence from the noise, and bring you just things of interest. Plus, don&#8217;t forget the hourly updating Latest Shared Links section on the right. That&#8217;s where I bring you latest deals, news of interest, and other fun things. That section is updated frequently, but don&#8217;t worry if you don&#8217;t keep up.
 </p>
 
-[<img src="https://i0.wp.com/www.adir1.com//uploads/2007/10/doa-xtreme-2-thumb.jpg?resize=244%2C196" id="id" style="border: 0px none " alt="DOA Xtreme 2" align="right" border="0" height="196" width="244" data-recalc-dims="1" />][1] Now, onto the promised Weekend Fun. This weekend I bring you the amazing advances in Computer Graphics Technology, using 3D shaders rendering, bump-mapping, and other such hard to pronounce methods that lead to the amazing creation on the right. If you are not a fan of that sort of stuff, please don&#8217;t click on any of the links below, you&#8217;ve been warned!
+[<img src="/uploads/2007/10/doa-xtreme-2.jpg?resize=244%2C196" id="id" style="border: 0px none " alt="DOA Xtreme 2" align="right" border="0" height="196" width="244" data-recalc-dims="1" />][1] Now, onto the promised Weekend Fun. This weekend I bring you the amazing advances in Computer Graphics Technology, using 3D shaders rendering, bump-mapping, and other such hard to pronounce methods that lead to the amazing creation on the right. If you are not a fan of that sort of stuff, please don&#8217;t click on any of the links below, you&#8217;ve been warned!
 
 <p align="justify">
   Now, if you are still reading, I presume you enjoy this skillful art and technology coming together, like me. So, here are some video clips from the excellent <a href="http://www.xbox.com/en-US/games/d/deadoralivextreme2/" target="_blank">Dead or Alive: Xtreme 2</a> game. It&#8217;s just a compilation of mini-games, but Who Cares! when the graphics is this good!!! And you probably would want to visit the <a href="http://www.deadoralive.jp/doax2/index2.html" target="_blank">game developer site</a>, just make sure to click on the English magazine laying towards the bottom of the screen, that&#8217;s how insiders get in.
@@ -38,7 +38,7 @@ tags:
   PPS: For some reason there is one new Amazon favorite item (on the right column) which isn&#8217;t showing image, but be sure to click through and find out what it is! 😀
 </p>
 
- [1]: https://i0.wp.com/www.adir1.com//uploads/2007/10/doa-xtreme-2.jpg
+ [1]: /uploads/2007/10/doa-xtreme-2.jpg
 
 ## Comments
 

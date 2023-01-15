@@ -14,7 +14,7 @@ tags:
 </p>
 
 <p align="justify">
-  <a href="http://www.pbs.org/wgbh/nova/spyfactory/program.html" target="_blank"><img title="Nova Logo" style="border-right: 0px; border-top: 0px; display: inline; margin: 0px 10px 0px 0px; border-left: 0px; border-bottom: 0px" height="57" alt="Nova Logo" src="https://i0.wp.com/www.adir1.com/uploads/2009/02/novalogo.jpg?resize=195%2C57" width="195" align="left" border="0" data-recalc-dims="1" /></a> Can we have it all? Must we compromise privacy in order to gain safety? Is the constant flow through giant NSA “filter” makes our personal communications insecure?
+  <a href="http://www.pbs.org/wgbh/nova/spyfactory/program.html" target="_blank"><img title="Nova Logo" style="border-right: 0px; border-top: 0px; display: inline; margin: 0px 10px 0px 0px; border-left: 0px; border-bottom: 0px" height="57" alt="Nova Logo" src="/uploads/2009/02/novalogo.jpg?resize=195%2C57" width="195" align="left" border="0" data-recalc-dims="1" /></a> Can we have it all? Must we compromise privacy in order to gain safety? Is the constant flow through giant NSA “filter” makes our personal communications insecure?
 </p>
 
 <p align="justify">

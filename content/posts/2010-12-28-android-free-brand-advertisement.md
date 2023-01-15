@@ -10,7 +10,7 @@ tags:
 
 ---
 <p align="justify">
-  <a href="http://galaxytab.samsungmobile.com/" target="_blank"><img style="background-image: none; border-bottom: 0px; border-left: 0px; margin: 0px 10px 0px 0px; padding-left: 0px; padding-right: 0px; display: inline; float: left; border-top: 0px; border-right: 0px; padding-top: 0px" title="Samsung Galaxy Tab" border="0" alt="Samsung Galaxy Tab" align="left" src="https://i0.wp.com/www.adir1.com/uploads/2010/12/Samsung-Galaxy-Tab.jpg?resize=320%2C128" width="320" height="128" data-recalc-dims="1" /></a>As I drove home from the office today, I was bombarded by an unusual amount of Android Billboard Advertisements. What is most interesting is that Google did Not pay for any of it, as far as I know! Majority were paid by Samsung, making sure everyone hears about their new <a href="http://galaxytab.samsungmobile.com/" target="_blank">Galaxy Tab</a>.
+  <a href="http://galaxytab.samsungmobile.com/" target="_blank"><img style="background-image: none; border-bottom: 0px; border-left: 0px; margin: 0px 10px 0px 0px; padding-left: 0px; padding-right: 0px; display: inline; float: left; border-top: 0px; border-right: 0px; padding-top: 0px" title="Samsung Galaxy Tab" border="0" alt="Samsung Galaxy Tab" align="left" src="/uploads/2010/12/Samsung-Galaxy-Tab.jpg?resize=320%2C128" width="320" height="128" data-recalc-dims="1" /></a>As I drove home from the office today, I was bombarded by an unusual amount of Android Billboard Advertisements. What is most interesting is that Google did Not pay for any of it, as far as I know! Majority were paid by Samsung, making sure everyone hears about their new <a href="http://galaxytab.samsungmobile.com/" target="_blank">Galaxy Tab</a>.
 </p>
 
 <p align="justify">

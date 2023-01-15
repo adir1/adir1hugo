@@ -12,7 +12,7 @@ tags:
 
 ---
 <p align="justify">
-  <img style="background-image: none; border-bottom: 0px; border-left: 0px; margin: 0px 0px 5px 10px; padding-left: 0px; padding-right: 0px; display: inline; float: right; border-top: 0px; border-right: 0px; padding-top: 0px" title="Mac App Store Icon" border="0" alt="Mac App Store Icon" align="right" src="https://i1.wp.com/www.adir1.com/uploads/2011/11/Mac-App-Store-Icon.png?resize=223%2C132" width="223" height="132" data-recalc-dims="1" />It is that time again – time to decide how much credit we should allot to our users, versus how much we should “protect the user from him/her self”. Ah, the eternal dilemma – but wait, Apple to the rescue? Didn’t they pioneer the “we know what you want better than you do” model?
+  <img style="background-image: none; border-bottom: 0px; border-left: 0px; margin: 0px 0px 5px 10px; padding-left: 0px; padding-right: 0px; display: inline; float: right; border-top: 0px; border-right: 0px; padding-top: 0px" title="Mac App Store Icon" border="0" alt="Mac App Store Icon" align="right" src="/uploads/2011/11/Mac-App-Store-Icon.png?resize=223%2C132" width="223" height="132" data-recalc-dims="1" />It is that time again – time to decide how much credit we should allot to our users, versus how much we should “protect the user from him/her self”. Ah, the eternal dilemma – but wait, Apple to the rescue? Didn’t they pioneer the “we know what you want better than you do” model?
 </p>
 
 Actually, today’s post is a bit more technical than that simple discussion, but stick around and join the discussion, you’re sure to learn something (and contribute!)

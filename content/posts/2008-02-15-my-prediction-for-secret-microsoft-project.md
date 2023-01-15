@@ -11,7 +11,7 @@ tags:
 
 ---
 <p align="justify">
-  <a href="http://research.microsoft.com/~awilson/" target="_blank"><img style="border-right: 0px; border-top: 0px; margin: 0px 0px 0px 10px; border-left: 0px; border-bottom: 0px" height="102" alt="Andy Wilson PhD" src="https://i1.wp.com/www.adir1.com//uploads/2008/02/andy-wilson-phd.jpg?resize=260%2C102" width="260" align="right" border="0" data-recalc-dims="1" /></a>Robert Scoble stunned us today with admission that <a href="http://scobleizer.com/2008/02/14/microsoft-researchers-make-me-cry/" target="_blank">Microsoft Research project</a> that he saw&#160; behind closed doors, made him cry with joy. But, of course, he can&#8217;t tell us what it is, just yet!
+  <a href="http://research.microsoft.com/~awilson/" target="_blank"><img style="border-right: 0px; border-top: 0px; margin: 0px 0px 0px 10px; border-left: 0px; border-bottom: 0px" height="102" alt="Andy Wilson PhD" src="/uploads/2008/02/andy-wilson-phd.jpg?resize=260%2C102" width="260" align="right" border="0" data-recalc-dims="1" /></a>Robert Scoble stunned us today with admission that <a href="http://scobleizer.com/2008/02/14/microsoft-researchers-make-me-cry/" target="_blank">Microsoft Research project</a> that he saw&#160; behind closed doors, made him cry with joy. But, of course, he can&#8217;t tell us what it is, just yet!
 </p>
 
 <p align="justify">

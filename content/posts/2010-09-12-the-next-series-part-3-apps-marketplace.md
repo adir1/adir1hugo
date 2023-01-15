@@ -13,7 +13,7 @@ tags:
 
 ---
 <p align="justify">
-  <img style="margin: 0px 10px 0px 0px; display: inline" title="ios4-logo" alt="ios4-logo" align="left" src="https://i1.wp.com/www.adir1.com/uploads/2010/09/ios4logo.jpg?resize=164%2C65" width="164" height="65" data-recalc-dims="1" />The Apps Store is all the rage nowadays and everyone says how “Apple Invented this Revolutionary Concept”. As I recall &#8211; Windows had a <a href="http://www.windowsmarketplace.com/">Marketplace</a> for Apps and Accessories going way back…
+  <img style="margin: 0px 10px 0px 0px; display: inline" title="ios4-logo" alt="ios4-logo" align="left" src="/uploads/2010/09/ios4logo.jpg?resize=164%2C65" width="164" height="65" data-recalc-dims="1" />The Apps Store is all the rage nowadays and everyone says how “Apple Invented this Revolutionary Concept”. As I recall &#8211; Windows had a <a href="http://www.windowsmarketplace.com/">Marketplace</a> for Apps and Accessories going way back…
 </p>
 
 <p align="justify">
@@ -21,7 +21,7 @@ tags:
 </p>
 
 <p align="justify">
-  <img style="border-bottom: 0px; border-left: 0px; margin: 0px 0px 0px 10px; display: inline; border-top: 0px; border-right: 0px" title="Windows_8" border="0" alt="Windows_8" align="right" src="https://i0.wp.com/www.adir1.com/uploads/2010/09/Windows_8.png?resize=200%2C134" width="200" height="134" data-recalc-dims="1" />It is pretty obvious that with <a href="http://www.winsupersite.com/win7/win8_leak.asp">Windows 8</a> Microsoft will take App Store to the next level to try and “stay with the times”. But will they be able to take the bold re-engineering steps necessary to make install / uninstall finally a Seamless experience?
+  <img style="border-bottom: 0px; border-left: 0px; margin: 0px 0px 0px 10px; display: inline; border-top: 0px; border-right: 0px" title="Windows_8" border="0" alt="Windows_8" align="right" src="/uploads/2010/09/Windows_8.png?resize=200%2C134" width="200" height="134" data-recalc-dims="1" />It is pretty obvious that with <a href="http://www.winsupersite.com/win7/win8_leak.asp">Windows 8</a> Microsoft will take App Store to the next level to try and “stay with the times”. But will they be able to take the bold re-engineering steps necessary to make install / uninstall finally a Seamless experience?
 </p>
 
 <p align="justify">

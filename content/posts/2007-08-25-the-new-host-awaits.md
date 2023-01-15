@@ -9,7 +9,7 @@ tags:
   - Technology
 
 ---
-<a href="http://www.asmallorange.com" target="_blank" atomicselection="true"><img src="https://i2.wp.com/www.adir1.com//uploads/2007/08/asmallorange-thumb.jpg?resize=240%2C74" style="border: 0px none " alt="asmallorange" align="right" border="0" height="74" width="240" data-recalc-dims="1" /></a> Well, after whole of 2 weeks, this site already needs more room 🙂
+<a href="http://www.asmallorange.com" target="_blank" atomicselection="true"><img src="/uploads/2007/08/asmallorange.jpg?resize=240%2C74" style="border: 0px none " alt="asmallorange" align="right" border="0" height="74" width="240" data-recalc-dims="1" /></a> Well, after whole of 2 weeks, this site already needs more room 🙂
 
 So, this blog is moving to a <a href="http://www.asmallorange.com/" target="_blank">new host</a>, which should lead to better performance, or so I hope. The new host is geographically very near me, so it is much faster for me to maintain the site, but I think their servers are faster overall, and you should see improvement also.
 

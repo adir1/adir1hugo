@@ -11,7 +11,7 @@ tags:
 
 ---
 <p align="justify">
-  <a href="http://www.amazon.com/dp/product/B004W2UBYW/?tag=craftonia-20" target="_blank"><img style="background-image: none; border-bottom: 0px; border-left: 0px; margin: 0px 0px 5px 10px; padding-left: 0px; padding-right: 0px; display: inline; float: right; border-top: 0px; border-right: 0px; padding-top: 0px" title="Steve Jobs Book Cover" border="0" alt="Steve Jobs Book Cover" align="right" src="https://i1.wp.com/www.adir1.com/uploads/2011/10/Steve-Jobs-Book-Cover.png?resize=152%2C240" width="152" height="240" data-recalc-dims="1" /></a>Short post – more of a call to arms, to discuss burning point for many people today. That is, What Platform to choose to purchase this iconic Steve Jobs biography eBook. I am completely at a loss – what could have been price war between heavyweights in this category, turned into a paralyzing situation for consumers (like me) preventing our purchase completely. My interpretation is that Publisher insisted on same pricing across all platforms! What Gives?
+  <a href="http://www.amazon.com/dp/product/B004W2UBYW/?tag=craftonia-20" target="_blank"><img style="background-image: none; border-bottom: 0px; border-left: 0px; margin: 0px 0px 5px 10px; padding-left: 0px; padding-right: 0px; display: inline; float: right; border-top: 0px; border-right: 0px; padding-top: 0px" title="Steve Jobs Book Cover" border="0" alt="Steve Jobs Book Cover" align="right" src="/uploads/2011/10/Steve-Jobs-Book-Cover.png?resize=152%2C240" width="152" height="240" data-recalc-dims="1" /></a>Short post – more of a call to arms, to discuss burning point for many people today. That is, What Platform to choose to purchase this iconic Steve Jobs biography eBook. I am completely at a loss – what could have been price war between heavyweights in this category, turned into a paralyzing situation for consumers (like me) preventing our purchase completely. My interpretation is that Publisher insisted on same pricing across all platforms! What Gives?
 </p>
 
 <p align="justify">
@@ -35,7 +35,7 @@ tags:
 </p>
 
   * <div align="justify">
-      iBooks – Apple insists on closed platform ways – show me Android iBooks reader? Or how about PC reader? And not even corporate discount <img style="border-bottom-style: none; border-left-style: none; border-top-style: none; border-right-style: none" class="wlEmoticon wlEmoticon-winkingsmile" alt="Winking smile" src="https://i0.wp.com/www.adir1.com/uploads/2011/10/wlEmoticon-winkingsmile.png" data-recalc-dims="1" /> Nope, no go…
+      iBooks – Apple insists on closed platform ways – show me Android iBooks reader? Or how about PC reader? And not even corporate discount <img style="border-bottom-style: none; border-left-style: none; border-top-style: none; border-right-style: none" class="wlEmoticon wlEmoticon-winkingsmile" alt="Winking smile" src="/uploads/2011/10/wlEmoticon-winkingsmile.png" data-recalc-dims="1" /> Nope, no go…
     </div>
 
   * <div align="justify">

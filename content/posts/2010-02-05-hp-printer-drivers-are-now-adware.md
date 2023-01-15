@@ -14,7 +14,7 @@ tags:
 </p>
 
   * <div align="justify">
-      <a href="https://i0.wp.com/www.adir1.com/uploads/2010/02/uninstallyahootoolbar.jpg"><img style="border-bottom: 0px; border-left: 0px; margin: 0px 0px 0px 10px; display: inline; border-top: 0px; border-right: 0px" title="uninstall yahoo toolbar" border="0" alt="uninstall yahoo toolbar" align="right" src="https://i0.wp.com/www.adir1.com/uploads/2010/02/uninstallyahootoolbar_thumb.jpg?resize=240%2C182" width="240" height="182" data-recalc-dims="1" /></a>Without any option or <u>checkbox</u> anywhere, it installed HP/Yahoo Co-branded Internet Explorer Toolbar! What GIVES!? I hate those thing for so many reasons! Since when is it Ok to bundle Toolbars with Printer Drivers? Seriously, why does reputable company bundle what can only be called AdWare in a box with (supposedly) premium printer?!
+      <a href="/uploads/2010/02/uninstallyahootoolbar.jpg"><img style="border-bottom: 0px; border-left: 0px; margin: 0px 0px 0px 10px; display: inline; border-top: 0px; border-right: 0px" title="uninstall yahoo toolbar" border="0" alt="uninstall yahoo toolbar" align="right" src="/uploads/2010/02/uninstallyahootoolbar.jpg?resize=240%2C182" width="240" height="182" data-recalc-dims="1" /></a>Without any option or <u>checkbox</u> anywhere, it installed HP/Yahoo Co-branded Internet Explorer Toolbar! What GIVES!? I hate those thing for so many reasons! Since when is it Ok to bundle Toolbars with Printer Drivers? Seriously, why does reputable company bundle what can only be called AdWare in a box with (supposedly) premium printer?!
     </div>
 
   * <div align="justify">

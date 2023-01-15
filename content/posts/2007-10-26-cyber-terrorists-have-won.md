@@ -19,7 +19,7 @@ Today I was trying to get <a href="http://www.toontown.com" target="_blank">Toon
 How would your average joe user, trying to setup ToonTown for his impatient child, supposed to figure this out?!? The usual end result would be very annoyed parent, and traumatized child, left without a game and with agitated screaming/cursing parent.
 
 <p align="justify">
-  <img style="border-right: 0px; border-top: 0px; margin: 0px 10px 0px 0px; border-left: 0px; border-bottom: 0px" height="127" alt="Internet Firewall" src="https://i1.wp.com/www.adir1.com//uploads/2007/10/internet-firewall.gif?resize=240%2C127" width="240" align="left" border="0" data-recalc-dims="1" />Is this a technology issue? I don&#8217;t believe so, same technology worked just fine when I first installed ToonTown for my kids a year or so ago. And this isn&#8217;t just Microsoft and IE crazy security. The most popular Linux distribution today, <a href="http://www.ubuntu.com/getubuntu/download" target="_blank">Ubuntu</a>, also uses similar UAC features.
+  <img style="border-right: 0px; border-top: 0px; margin: 0px 10px 0px 0px; border-left: 0px; border-bottom: 0px" height="127" alt="Internet Firewall" src="/uploads/2007/10/internet-firewall.gif?resize=240%2C127" width="240" align="left" border="0" data-recalc-dims="1" />Is this a technology issue? I don&#8217;t believe so, same technology worked just fine when I first installed ToonTown for my kids a year or so ago. And this isn&#8217;t just Microsoft and IE crazy security. The most popular Linux distribution today, <a href="http://www.ubuntu.com/getubuntu/download" target="_blank">Ubuntu</a>, also uses similar UAC features.
 </p>
 
 <p align="justify">

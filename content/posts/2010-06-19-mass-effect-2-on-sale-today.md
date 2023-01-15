@@ -9,7 +9,7 @@ tags:
 
 ---
 <p align="justify">
-  <a href="http://masseffect.bioware.com/"><img style="border-bottom: 0px; border-left: 0px; margin: 0px 0px 0px 10px; display: inline; border-top: 0px; border-right: 0px" title="mass-effect-2" border="0" alt="mass-effect-2" align="right" src="https://i0.wp.com/www.adir1.com/uploads/2010/06/masseffect2.jpg?resize=244%2C139" width="244" height="139" data-recalc-dims="1" /></a>We interrupt your regularly scheduled (aka: nonexistent) blogging to bring you this special message.
+  <a href="http://masseffect.bioware.com/"><img style="border-bottom: 0px; border-left: 0px; margin: 0px 0px 0px 10px; display: inline; border-top: 0px; border-right: 0px" title="mass-effect-2" border="0" alt="mass-effect-2" align="right" src="/uploads/2010/06/masseffect2.jpg?resize=244%2C139" width="244" height="139" data-recalc-dims="1" /></a>We interrupt your regularly scheduled (aka: nonexistent) blogging to bring you this special message.
 </p>
 
 <p align="justify">

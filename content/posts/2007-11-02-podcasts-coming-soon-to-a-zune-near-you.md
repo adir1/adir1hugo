@@ -10,7 +10,7 @@ tags:
   - Zune
 
 ---
-<img id="id" style="border-right: 0px; border-top: 0px; margin: 0px 10px 5px 0px; border-left: 0px; border-bottom: 0px" height="154" alt="Brown Zune" src="https://i2.wp.com/www.adir1.com//uploads/2007/11/brown-zune.jpg?resize=254%2C154" width="254" align="left" border="0" data-recalc-dims="1" /> Yes, there is a Zune near you! And if you had your own Wi-Fi enabled Zune, you would see that other Zune and be able to share media wirelessly.
+<img id="id" style="border-right: 0px; border-top: 0px; margin: 0px 10px 5px 0px; border-left: 0px; border-bottom: 0px" height="154" alt="Brown Zune" src="/uploads/2007/11/brown-zune.jpg?resize=254%2C154" width="254" align="left" border="0" data-recalc-dims="1" /> Yes, there is a Zune near you! And if you had your own Wi-Fi enabled Zune, you would see that other Zune and be able to share media wirelessly.
 
 <p align="justify">
   As you may have guessed, I picked up a Zune a week or so ago. This first week been pretty good experience overall, and so far the only thing I can complain about is the lack of Podcast support.

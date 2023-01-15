@@ -12,7 +12,7 @@ tags:
 
 ---
 <p align="center">
-  <a href="http://www.nbc.com/Heroes/" target="_blank"><img id="id" style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="77" alt="Heroes on NBC" src="https://i0.wp.com/www.adir1.com//uploads/2007/10/heroes-on-nbc.jpg?resize=474%2C77" width="474" border="0" data-recalc-dims="1" /></a>
+  <a href="http://www.nbc.com/Heroes/" target="_blank"><img id="id" style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="77" alt="Heroes on NBC" src="/uploads/2007/10/heroes-on-nbc.jpg?resize=474%2C77" width="474" border="0" data-recalc-dims="1" /></a>
 </p>
 
 <p align="justify">

@@ -12,7 +12,7 @@ tags:
 
 ---
 <p align="justify">
-  <a href="https://i0.wp.com/www.adir1.com//uploads/2007/12/synctoyv1.jpg" target="_blank"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; margin: 0px 10px 0px 0px; border-right-width: 0px" height="179" alt="SyncToyv1" src="https://i0.wp.com/www.adir1.com//uploads/2007/12/synctoyv1-thumb.jpg?resize=183%2C179" width="183" align="left" border="0" data-recalc-dims="1" /></a> Ever heard of SyncToy? It&#8217;s yet another secret software from Microsoft (much like <a href="http://www.foldershare.com" target="_blank">FolderShare</a>) which is just so <strong>awesome</strong> that they never advertise it, anywhere. I have been using their 1.x version for about a year and it "simply works", which is the best compliment ever, in my book, especially for a little utility.
+  <a href="/uploads/2007/12/synctoyv1.jpg" target="_blank"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; margin: 0px 10px 0px 0px; border-right-width: 0px" height="179" alt="SyncToyv1" src="/uploads/2007/12/synctoyv1.jpg?resize=183%2C179" width="183" align="left" border="0" data-recalc-dims="1" /></a> Ever heard of SyncToy? It&#8217;s yet another secret software from Microsoft (much like <a href="http://www.foldershare.com" target="_blank">FolderShare</a>) which is just so <strong>awesome</strong> that they never advertise it, anywhere. I have been using their 1.x version for about a year and it "simply works", which is the best compliment ever, in my book, especially for a little utility.
 </p>
 
 <p align="justify">

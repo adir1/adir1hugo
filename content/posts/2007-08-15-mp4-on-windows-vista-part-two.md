@@ -26,7 +26,7 @@ That should be it. You can also make Explorer work with these files, simply righ
 
 If something goes wrong, or some program that used to work misbehaves after these steps, you can always go back to System Restore and restore your Backup point created in step 1.
 
-<a atomicselection="true" href="https://i2.wp.com/www.adir1.com//uploads/2007/08/megui-h.264-codec-mini.jpg"><img border="0" align="right" width="300" src="https://i2.wp.com/www.adir1.com//uploads/2007/08/megui-h.264-codec-mini-thumb.jpg?resize=300%2C236" alt="meGUI H.264 codec mini" height="236" style="margin: 0px 0px 0px 5px; border: 0px" data-recalc-dims="1" /></a>Meanwhile, I am continuing my struggle to find best/easiest/most compatible method of  creating MP4 files. I have expanded beyond Windows (Vista or XP) and into Linux (Ubuntu actually), but thus far still no satisfactory solution found. The image, to the right of here is a small sample of H.264 codec options. Just PART of **Single** folder, out of **4** total folders!  
+<a atomicselection="true" href="/uploads/2007/08/megui-h.264-codec-mini.jpg"><img border="0" align="right" width="300" src="/uploads/2007/08/megui-h.264-codec-mini.jpg?resize=300%2C236" alt="meGUI H.264 codec mini" height="236" style="margin: 0px 0px 0px 5px; border: 0px" data-recalc-dims="1" /></a>Meanwhile, I am continuing my struggle to find best/easiest/most compatible method of  creating MP4 files. I have expanded beyond Windows (Vista or XP) and into Linux (Ubuntu actually), but thus far still no satisfactory solution found. The image, to the right of here is a small sample of H.264 codec options. Just PART of **Single** folder, out of **4** total folders!  
 Easy, right???
 
 If I ever figure it out, I will sure post the explanation here 🙂

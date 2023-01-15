@@ -16,7 +16,7 @@ tags:
 </p>
 
 <p align="justify">
-  <a href="http://www.kraftfoods.com">KraftFoods.com</a> has become my primary portal for favorite recipes this year. It has wonderful photos, showing you what you&#8217;re making, something many other sites out there lack. Plus, Kraft folks seem to keep manageable repertoire of recipes, most of which are easy and quick, instead of mishmash of thousands or millions, like some other sites contain.<a href="http://www.kraftfoods.com/kf/recipes/RecipeDetail.htm?recipe_id=107519" target="_blank"><img style="border-right: 0px; border-top: 0px; margin: 0px 0px 0px 10px; border-left: 0px; border-bottom: 0px" height="129" alt="Beautifully_Easy_Fruit_Tart" src="https://i0.wp.com/www.adir1.com//uploads/2007/12/beautifully-easy-fruit-tart.jpg?resize=194%2C129" width="194" align="right" border="0" data-recalc-dims="1" /></a>
+  <a href="http://www.kraftfoods.com">KraftFoods.com</a> has become my primary portal for favorite recipes this year. It has wonderful photos, showing you what you&#8217;re making, something many other sites out there lack. Plus, Kraft folks seem to keep manageable repertoire of recipes, most of which are easy and quick, instead of mishmash of thousands or millions, like some other sites contain.<a href="http://www.kraftfoods.com/kf/recipes/RecipeDetail.htm?recipe_id=107519" target="_blank"><img style="border-right: 0px; border-top: 0px; margin: 0px 0px 0px 10px; border-left: 0px; border-bottom: 0px" height="129" alt="Beautifully_Easy_Fruit_Tart" src="/uploads/2007/12/beautifully-easy-fruit-tart.jpg?resize=194%2C129" width="194" align="right" border="0" data-recalc-dims="1" /></a>
 </p>
 
 <p align="justify">
@@ -24,7 +24,7 @@ tags:
 </p>
 
 <p align="justify">
-  <a href="http://www.kraftfoods.com/kf/recipes/RecipeDetail.htm?recipe_id=51241" target="_blank"><img style="border-right: 0px; border-top: 0px; margin: 0px 10px 0px 0px; border-left: 0px; border-bottom: 0px" height="136" alt="BBQ_Grilled_Chicken_Kabobs" src="https://i2.wp.com/www.adir1.com//uploads/2007/12/bbq-grilled-chicken-kabobs.jpg?resize=204%2C136" width="204" align="left" border="0" data-recalc-dims="1" /></a> I have linked to some of my favorite recipes here, but there is yet another excellent aspect to Kraft Foods (can you tell I am a shareholder, well, Duhh!!) If you live in US, you can sign up for <a href="http://kraftfoods.com/share" target="_blank">Free printed Magazine called Food & Family</a>! We have been enjoying it for over a year now and it&#8217;s highly recommended.
+  <a href="http://www.kraftfoods.com/kf/recipes/RecipeDetail.htm?recipe_id=51241" target="_blank"><img style="border-right: 0px; border-top: 0px; margin: 0px 10px 0px 0px; border-left: 0px; border-bottom: 0px" height="136" alt="BBQ_Grilled_Chicken_Kabobs" src="/uploads/2007/12/bbq-grilled-chicken-kabobs.jpg?resize=204%2C136" width="204" align="left" border="0" data-recalc-dims="1" /></a> I have linked to some of my favorite recipes here, but there is yet another excellent aspect to Kraft Foods (can you tell I am a shareholder, well, Duhh!!) If you live in US, you can sign up for <a href="http://kraftfoods.com/share" target="_blank">Free printed Magazine called Food & Family</a>! We have been enjoying it for over a year now and it&#8217;s highly recommended.
 </p>
 
 <p align="justify">

@@ -23,7 +23,7 @@ For me, the Wow! in Vista is the amazing performance, stability and the security
 
 The WoW in Vista is <a href="http://www.worldofwarcraft.com/" target="_blank">World of Warcraft</a>, which runs like never before, even with all graphical settings maxed out. Just kidding, of course 🙂
 
-[<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="196" alt="My Desktop" src="https://i0.wp.com/www.adir1.com//uploads/2007/09/my-desktop-thumb.jpg?resize=244%2C196" width="244" align="right" border="0" data-recalc-dims="1" />][1]Here&#8217;s the real Wow! and it is something I haven&#8217;t seen covered in almost any press coverage for Vista. It&#8217;s the quality feedback agent, which is now built into Operating System Kernel and most Vista applications and components. 
+[<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="196" alt="My Desktop" src="/uploads/2007/09/my-desktop.jpg?resize=244%2C196" width="244" align="right" border="0" data-recalc-dims="1" />][1]Here&#8217;s the real Wow! and it is something I haven&#8217;t seen covered in almost any press coverage for Vista. It&#8217;s the quality feedback agent, which is now built into Operating System Kernel and most Vista applications and components. 
 
 Let me explain, this little known secret agent gets activated whenever you encounter any kind of crash/failure and in some similar scenarios. It actually Phones Home to MS HQ and records this trouble, along with supporting "Dump" info, in the central database. And before you start screaming PRIVACY, it can be disabled and it only activates after asking you if you wish to "Help Improve Windows Experience" or some such.
 
@@ -45,7 +45,7 @@ Wow!
 
 UPDATE: [I posted all the "Un-Wow" things on Windows Vista][2]
 
- [1]: https://i1.wp.com/www.adir1.com//uploads/2007/09/my-desktop.jpg
+ [1]: /uploads/2007/09/my-desktop.jpg
  [2]: http://www.adir1.com/2007/10/windows-vista-wow-part-2/
 
 ## Comments

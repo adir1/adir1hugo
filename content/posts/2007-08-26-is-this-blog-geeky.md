@@ -8,7 +8,7 @@ tags:
   - Consumerism
 
 ---
-<img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="138" alt="Dial Complete Pump Animation" src="https://i2.wp.com/www.adir1.com//uploads/2007/08/dcomplete-animation-pump.gif?resize=179%2C138" width="179" align="right" border="0" data-recalc-dims="1" /> A friend, who shall remain <a href="http://zheka1.livejournal.com/" target="_blank">nameless</a>, has asked me if this was a &#8220;geeky&#8221; blog that she should stay away from due to it&#8217;s inaccessibility to the normal folk, presumably.
+<img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="138" alt="Dial Complete Pump Animation" src="/uploads/2007/08/dcomplete-animation-pump.gif?resize=179%2C138" width="179" align="right" border="0" data-recalc-dims="1" /> A friend, who shall remain <a href="http://zheka1.livejournal.com/" target="_blank">nameless</a>, has asked me if this was a &#8220;geeky&#8221; blog that she should stay away from due to it&#8217;s inaccessibility to the normal folk, presumably.
 
 What makes a blog Geeky? I probably won&#8217;t post here the secrets of memory management optimizations in Java, or the intricacies of CPU Profilers. But, I will post about Codecs and other scary words like that.
 

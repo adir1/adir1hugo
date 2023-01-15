@@ -12,7 +12,7 @@ tags:
 
 ---
 <p align="justify">
-  <a href="https://i1.wp.com/www.adir1.com//uploads/2008/06/java-recursion.gif" target="_blank"><img title="java_recursion" style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="157" alt="java_recursion" src="https://i1.wp.com/www.adir1.com//uploads/2008/06/java-recursion-thumb.gif?resize=260%2C157" width="260" align="right" border="0" data-recalc-dims="1" /></a> My sister is just starting studies for Computer Sciences, and unlike what I remember from my days, in the first Intro course, they are trying to fill her head with nasty recursive algorithms.
+  <a href="/uploads/2008/06/java-recursion.gif" target="_blank"><img title="java_recursion" style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="157" alt="java_recursion" src="/uploads/2008/06/java-recursion.gif?resize=260%2C157" width="260" align="right" border="0" data-recalc-dims="1" /></a> My sister is just starting studies for Computer Sciences, and unlike what I remember from my days, in the first Intro course, they are trying to fill her head with nasty recursive algorithms.
 </p>
 
 <p align="justify">

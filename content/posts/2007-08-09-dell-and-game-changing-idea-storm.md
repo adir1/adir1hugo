@@ -10,7 +10,7 @@ tags:
   - Windows
 
 ---
-<a href="https://i1.wp.com/www.adir1.com//uploads/2007/08/dell-ideastorm-logo.jpg" atomicselection="true"><img style="border-right: 0px; border-top: 0px; margin: 5px 5px 0px; border-left: 0px; border-bottom: 0px" height="95" alt="dell_ideastorm_logo" src="https://i1.wp.com/www.adir1.com//uploads/2007/08/dell-ideastorm-logo-thumb.jpg?resize=240%2C95" width="240" align="right" border="0" data-recalc-dims="1" /></a> Unbeknownst to&nbsp;most people, Dell launched a radically excellent&nbsp;web site to&nbsp;facilitate improved communications with their customers.
+<a href="/uploads/2007/08/dell-ideastorm-logo.jpg" atomicselection="true"><img style="border-right: 0px; border-top: 0px; margin: 5px 5px 0px; border-left: 0px; border-bottom: 0px" height="95" alt="dell_ideastorm_logo" src="/uploads/2007/08/dell-ideastorm-logo.jpg?resize=240%2C95" width="240" align="right" border="0" data-recalc-dims="1" /></a> Unbeknownst to&nbsp;most people, Dell launched a radically excellent&nbsp;web site to&nbsp;facilitate improved communications with their customers.
 
 <a href="http://www.dellideastorm.com" target="_blank">Dell&#8217;s IdeaStorm</a> has a simple, yet powerful, concept. People (presumably Dell users and buyers) submit Ideas of what they would like to see improved/added/changed in Dell&#8217;s Products/Support/Services.
 

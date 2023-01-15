@@ -11,7 +11,7 @@ tags:
 
 ---
 <p style="text-align: justify;">
-  <a href="http://gdgt.com/find/" target="_blank"><img class="alignleft size-medium wp-image-527" title="gdgt.com Tablet Finder" src="https://i2.wp.com/www.adir1.com/uploads/2010/10/gdgt.com-Tablet-Finder.png?resize=300%2C139" alt="" width="300" height="139" srcset="https://i2.wp.com/www.adir1.com/uploads/2010/10/gdgt.com-Tablet-Finder.png?resize=300%2C139 300w, https://i2.wp.com/www.adir1.com/uploads/2010/10/gdgt.com-Tablet-Finder.png?w=440 440w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a>Now that Apple&#8217;s iPad is officially a hit, all the computer makers (and computer makers Wanna-Be&#8217;s) woke up and are planning to Flood the market with Tablets. Most will try to rush something out for this holiday season, even half-baked, so around Black Friday and shortly thereafter expect to see them Everywhere!
+  <a href="http://gdgt.com/find/" target="_blank"><img class="alignleft size-medium wp-image-527" title="gdgt.com Tablet Finder" src="/uploads/2010/10/gdgt.com-Tablet-Finder.png?resize=300%2C139" alt="" width="300" height="139" srcset="/uploads/2010/10/gdgt.com-Tablet-Finder.png?resize=300%2C139 300w, /uploads/2010/10/gdgt.com-Tablet-Finder.png?w=440 440w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a>Now that Apple&#8217;s iPad is officially a hit, all the computer makers (and computer makers Wanna-Be&#8217;s) woke up and are planning to Flood the market with Tablets. Most will try to rush something out for this holiday season, even half-baked, so around Black Friday and shortly thereafter expect to see them Everywhere!
 </p>
 
 <p style="text-align: justify;">

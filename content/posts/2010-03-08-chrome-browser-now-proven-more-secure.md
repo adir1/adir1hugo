@@ -11,7 +11,7 @@ tags:
 
 ---
 <p align="justify">
-  <a href="http://www.google.com/chrome" target="_blank"><img style="border-bottom: 0px; border-left: 0px; margin: 0px; display: inline; border-top: 0px; border-right: 0px" title="Google Chrome Small Logo" border="0" alt="Google Chrome Small Logo" align="left" src="https://i1.wp.com/www.adir1.com/uploads/2010/03/GoogleChromeSmallLogo.png?resize=225%2C50" width="225" height="50" data-recalc-dims="1" /></a>Lately I use multiple browser, more so than ever, in this order: Google Chrome, Firefox and Internet Explorer 64 bit.
+  <a href="http://www.google.com/chrome" target="_blank"><img style="border-bottom: 0px; border-left: 0px; margin: 0px; display: inline; border-top: 0px; border-right: 0px" title="Google Chrome Small Logo" border="0" alt="Google Chrome Small Logo" align="left" src="/uploads/2010/03/GoogleChromeSmallLogo.png?resize=225%2C50" width="225" height="50" data-recalc-dims="1" /></a>Lately I use multiple browser, more so than ever, in this order: Google Chrome, Firefox and Internet Explorer 64 bit.
 </p>
 
 <p align="justify">
@@ -31,7 +31,7 @@ tags:
 </p>
 
 <p align="justify">
-  <a href="https://i1.wp.com/www.adir1.com/uploads/2010/03/suspectedphishingsite.png"><img style="border-bottom: 0px; border-left: 0px; margin: 0px 0px 0px 10px; display: inline; border-top: 0px; border-right: 0px" title="suspected phishing site" border="0" alt="suspected phishing site" align="right" src="https://i1.wp.com/www.adir1.com/uploads/2010/03/suspectedphishingsite_thumb.png?resize=240%2C78" width="240" height="78" data-recalc-dims="1" /></a>And here’s the kicker, neither Firefox nor Internet Explorer, which also contain anti-phishing technology, knew yet that this is a Phishing site! They both took me to the site&#8230;
+  <a href="/uploads/2010/03/suspectedphishingsite.png"><img style="border-bottom: 0px; border-left: 0px; margin: 0px 0px 0px 10px; display: inline; border-top: 0px; border-right: 0px" title="suspected phishing site" border="0" alt="suspected phishing site" align="right" src="/uploads/2010/03/suspectedphishingsite.png?resize=240%2C78" width="240" height="78" data-recalc-dims="1" /></a>And here’s the kicker, neither Firefox nor Internet Explorer, which also contain anti-phishing technology, knew yet that this is a Phishing site! They both took me to the site&#8230;
 </p>
 
 <p align="justify">

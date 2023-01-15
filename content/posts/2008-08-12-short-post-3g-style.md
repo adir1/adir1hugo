@@ -13,11 +13,11 @@ This my first post from an iPhone 3G. I am practicing typing with both hands and
 For small posts on the go this is awesome! Now, I wonder if I can add photo on this thing?  
 Also, anyone knows good IM clients for iPhone? 
 
-[<img src="https://i2.wp.com/www.adir1.com/uploads/2008/08/p-640-480-7d1b9b63-c760-4704-9217-94ed08a820b7.jpeg?resize=225%2C300" alt="" width="225" height="300" class="alignnone size-full wp-image-364" data-recalc-dims="1" />][1]
+[<img src="/uploads/2008/08/p-640-480-7d1b9b63-c760-4704-9217-94ed08a820b7.jpeg?resize=225%2C300" alt="" width="225" height="300" class="alignnone size-full wp-image-364" data-recalc-dims="1" />][1]
 
 The dark side got me&#8230;Or is it the light side?
 
- [1]: https://i2.wp.com/www.adir1.com/uploads/2008/08/p-640-480-7d1b9b63-c760-4704-9217-94ed08a820b7.jpeg
+ [1]: /uploads/2008/08/p-640-480-7d1b9b63-c760-4704-9217-94ed08a820b7.jpeg
 
 ## Comments
 

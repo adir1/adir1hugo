@@ -12,7 +12,7 @@ tags:
 
 ---
 <p align="justify">
-  <img title="Tivo and Netflix Marriage" style="border-right: 0px; border-top: 0px; display: inline; margin: 0px 5px 0px 0px; border-left: 0px; border-bottom: 0px" height="180" alt="Tivo and Netflix Marriage" src="https://i0.wp.com/www.adir1.com/uploads/2008/12/tivoandnetflixmarriage.png?resize=235%2C180" width="235" align="left" border="0" data-recalc-dims="1" /> While I really appreciate that Microsoft and Netflix finally got XBox 360 going with HD streaming, I myself still wasn’t able to check it out. The reason is the silly requirement of being a Gold member. I do plan to check it out soon, as we are going to go Gold for the Winter Break this year.
+  <img title="Tivo and Netflix Marriage" style="border-right: 0px; border-top: 0px; display: inline; margin: 0px 5px 0px 0px; border-left: 0px; border-bottom: 0px" height="180" alt="Tivo and Netflix Marriage" src="/uploads/2008/12/tivoandnetflixmarriage.png?resize=235%2C180" width="235" align="left" border="0" data-recalc-dims="1" /> While I really appreciate that Microsoft and Netflix finally got XBox 360 going with HD streaming, I myself still wasn’t able to check it out. The reason is the silly requirement of being a Gold member. I do plan to check it out soon, as we are going to go Gold for the Winter Break this year.
 </p>
 
 <p align="justify">

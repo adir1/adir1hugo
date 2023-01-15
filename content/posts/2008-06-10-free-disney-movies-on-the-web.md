@@ -9,7 +9,7 @@ tags:
 
 ---
 <p align="justify">
-  <a href="http://www.engadgethd.com/2008/06/10/disney-to-stream-full-length-films-on-web-this-summer/"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" title="disney nemo-streaming preview" src="https://i2.wp.com/www.adir1.com//uploads/2008/06/disneynemostreamingpreview.jpg?resize=244%2C165" border="0" alt="disney nemo-streaming preview" width="244" height="165" align="right" data-recalc-dims="1" /></a> Now this is big news for all you parents out there! <a href="http://www.engadgethd.com/2008/06/10/disney-to-stream-full-length-films-on-web-this-summer/" target="_blank">Free official Full Length Disney classics streaming</a> on the Internet this summer.
+  <a href="http://www.engadgethd.com/2008/06/10/disney-to-stream-full-length-films-on-web-this-summer/"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" title="disney nemo-streaming preview" src="/uploads/2008/06/disneynemostreamingpreview.jpg?resize=244%2C165" border="0" alt="disney nemo-streaming preview" width="244" height="165" align="right" data-recalc-dims="1" /></a> Now this is big news for all you parents out there! <a href="http://www.engadgethd.com/2008/06/10/disney-to-stream-full-length-films-on-web-this-summer/" target="_blank">Free official Full Length Disney classics streaming</a> on the Internet this summer.
 </p>
 
 <p align="justify">

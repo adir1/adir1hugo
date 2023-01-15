@@ -10,7 +10,7 @@ tags:
   - Videos
 
 ---
-<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; margin: 0px 10px 0px 0px; border-right-width: 0px" height="159" alt="Happy New Year 2008" src="https://i0.wp.com/www.adir1.com//uploads/2008/01/happy-new-year-2008.jpg?resize=170%2C159" width="170" align="left" border="0" data-recalc-dims="1" /> Welcome to 2008!
+<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; margin: 0px 10px 0px 0px; border-right-width: 0px" height="159" alt="Happy New Year 2008" src="/uploads/2008/01/happy-new-year-2008.jpg?resize=170%2C159" width="170" align="left" border="0" data-recalc-dims="1" /> Welcome to 2008!
 
 <p align="justify">
   I am not into putting together "year end review" of 2007, like some other bloggers, and I especially don&#8217;t like all the posts on New Year Resolutions for 2008. One of the late lessons you learn in life is that when you Talk about doing something in the future, and you keep talking about it, chances are you will <u><strong>not</strong></u> do it. The more you discuss doing something (instead of actually going for it!), the more you realize that it probably isn&#8217;t all that great, or something could go wrong, or just loose interest in general&#8230;

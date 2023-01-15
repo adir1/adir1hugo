@@ -9,7 +9,7 @@ tags:
 
 ---
 <p align="justify">
-  <a href="https://i2.wp.com/www.adir1.com/uploads/2009/05/thisweekinstartupsepisode1snapshot.jpg" target="_blank"><img style="border-bottom: 0px; border-left: 0px; margin: 0px 0px 0px 10px; display: inline; border-top: 0px; border-right: 0px" title="This Week In Startups - Episode 1 Snapshot" border="0" alt="This Week In Startups - Episode 1 Snapshot" align="right" src="https://i0.wp.com/www.adir1.com/uploads/2009/05/thisweekinstartupsepisode1snapshot-thumb.jpg?resize=254%2C195" width="254" height="195" data-recalc-dims="1" /></a>Few days ago, while driving, I heard about this new podcast that <a href="http://calacanis.com/" target="_blank">Jason Calacanis</a> and friends have put together. Sounds rather interesting, learning more about the tough and exciting world of Startups and Ventures.
+  <a href="/uploads/2009/05/thisweekinstartupsepisode1snapshot.jpg" target="_blank"><img style="border-bottom: 0px; border-left: 0px; margin: 0px 0px 0px 10px; display: inline; border-top: 0px; border-right: 0px" title="This Week In Startups - Episode 1 Snapshot" border="0" alt="This Week In Startups - Episode 1 Snapshot" align="right" src="/uploads/2009/05/thisweekinstartupsepisode1snapshot.jpg?resize=254%2C195" width="254" height="195" data-recalc-dims="1" /></a>Few days ago, while driving, I heard about this new podcast that <a href="http://calacanis.com/" target="_blank">Jason Calacanis</a> and friends have put together. Sounds rather interesting, learning more about the tough and exciting world of Startups and Ventures.
 </p>
 
 <p align="justify">

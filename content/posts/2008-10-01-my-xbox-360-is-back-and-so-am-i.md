@@ -10,7 +10,7 @@ tags:
   - XBox 360
 
 ---
-<a title="XBox 360 Red Ring of Death" href="http://en.wikipedia.org/wiki/Red_Ring_of_Death" target="_blank"><img title="180px-Xbox360-ringofdeath" style="border-right: 0px; border-top: 0px; display: inline; margin: 0px 0px 0px 10px; border-left: 0px; border-bottom: 0px" height="155" alt="180px-Xbox360-ringofdeath" src="https://i0.wp.com/www.adir1.com/uploads/2008/10/180pxxbox360ringofdeath.jpg?resize=200%2C155" width="200" align="right" border="0" data-recalc-dims="1" /></a> Wow, sorry for disappearing on you. So much happened in the past few weeks, that instead of posting all those brilliant (aka: weird) thoughts I am having, I’ll just summarize recent events in my life:
+<a title="XBox 360 Red Ring of Death" href="http://en.wikipedia.org/wiki/Red_Ring_of_Death" target="_blank"><img title="180px-Xbox360-ringofdeath" style="border-right: 0px; border-top: 0px; display: inline; margin: 0px 0px 0px 10px; border-left: 0px; border-bottom: 0px" height="155" alt="180px-Xbox360-ringofdeath" src="/uploads/2008/10/180pxxbox360ringofdeath.jpg?resize=200%2C155" width="200" align="right" border="0" data-recalc-dims="1" /></a> Wow, sorry for disappearing on you. So much happened in the past few weeks, that instead of posting all those brilliant (aka: weird) thoughts I am having, I’ll just summarize recent events in my life:
 
   * <div align="justify">
       My Xbox 360 is back! Of course you don’t know that it was gone, but it was indeed a victim of well known <a href="http://en.wikipedia.org/wiki/Red_Ring_of_Death" target="_blank">Red Rings of Death</a>. But, this is after at least a year of trouble-free use, and they replaced it within a week!!! Seriously, emailed us FREE shipping label for our old XBox. I dropped it at UPS on 9/25, and Oct 1st the replacement arrived! Completely Free and Fast! Mistakes Happen, it is all about how you bounce back and fess up to them that defines long-term success! So, I am a Happy Camper and Kudos Microsoft, big time!!!
@@ -18,7 +18,7 @@ tags:
 
   * Went through rough patch at work, launching a new web site, enough said…
   * <div align="justify">
-      <a href="https://i1.wp.com/www.adir1.com/uploads/2008/10/img-2591.jpg" target="_blank"><img title="IMG_2591" style="border-right: 0px; border-top: 0px; display: inline; margin: 5px 0px 5px 10px; border-left: 0px; border-bottom: 0px" height="175" alt="IMG_2591" src="https://i1.wp.com/www.adir1.com/uploads/2008/10/img-2591-thumb.jpg?resize=131%2C175" width="131" align="right" border="0" data-recalc-dims="1" /></a> We visited <a href="http://www.consolidatedgoldmine.com/" target="_blank">Consolidated Gold Mine</a>, which is apparently only about 45 minutes north of here. Family had a good time! We’re definitely going back there in the future.
+      <a href="/uploads/2008/10/img-2591.jpg" target="_blank"><img title="IMG_2591" style="border-right: 0px; border-top: 0px; display: inline; margin: 5px 0px 5px 10px; border-left: 0px; border-bottom: 0px" height="175" alt="IMG_2591" src="/uploads/2008/10/img-2591.jpg?resize=131%2C175" width="131" align="right" border="0" data-recalc-dims="1" /></a> We visited <a href="http://www.consolidatedgoldmine.com/" target="_blank">Consolidated Gold Mine</a>, which is apparently only about 45 minutes north of here. Family had a good time! We’re definitely going back there in the future.
     </div>
 
   * <div align="justify">

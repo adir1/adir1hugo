@@ -11,7 +11,7 @@ tags:
 
 ---
 <p align="justify">
-  <img title="appengine.gif" style="border-right: 0px; border-top: 0px; display: inline; margin: 0px 10px 0px 0px; border-left: 0px; border-bottom: 0px" height="111" alt="appengine.gif" src="https://i1.wp.com/www.adir1.com/uploads/2008/11/appenginegif.jpg?resize=145%2C111" width="145" align="left" border="0" data-recalc-dims="1" /> Yesterday I attended <a href="http://sites.google.com/site/gaehackathonatlanta/" target="_blank">Google Application Engine Hackathon in Atlanta</a>. I guess it’s the kind of thing that one could call Geeky Weekend Fun, programming all day, with like-minded folks, trying to create something.
+  <img title="appengine.gif" style="border-right: 0px; border-top: 0px; display: inline; margin: 0px 10px 0px 0px; border-left: 0px; border-bottom: 0px" height="111" alt="appengine.gif" src="/uploads/2008/11/appenginegif.jpg?resize=145%2C111" width="145" align="left" border="0" data-recalc-dims="1" /> Yesterday I attended <a href="http://sites.google.com/site/gaehackathonatlanta/" target="_blank">Google Application Engine Hackathon in Atlanta</a>. I guess it’s the kind of thing that one could call Geeky Weekend Fun, programming all day, with like-minded folks, trying to create something.
 </p>
 
 <p align="justify">

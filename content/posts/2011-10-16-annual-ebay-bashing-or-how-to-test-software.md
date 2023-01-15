@@ -10,7 +10,7 @@ tags:
 
 ---
 <p align="justify">
-  <a href="http://www.ebay.com"><img style="background-image: none; border-bottom: 0px; border-left: 0px; margin: 5px 0px 5px 10px; padding-left: 0px; padding-right: 0px; display: inline; float: right; border-top: 0px; border-right: 0px; padding-top: 0px" title="eBay Logo" border="0" alt="eBay Logo" align="right" src="https://i2.wp.com/www.adir1.com/uploads/2011/10/eBay-Logo.png?resize=120%2C76" width="120" height="76" data-recalc-dims="1" /></a>I fondly call my wife lately Commodity Investor, as she loves to scout out best deals on eBay. In fact, I would easily bet that we are in their top 10% of customers list, and let’s just leave it at that. So why is it that they allow themselves to continuously upset us?
+  <a href="http://www.ebay.com"><img style="background-image: none; border-bottom: 0px; border-left: 0px; margin: 5px 0px 5px 10px; padding-left: 0px; padding-right: 0px; display: inline; float: right; border-top: 0px; border-right: 0px; padding-top: 0px" title="eBay Logo" border="0" alt="eBay Logo" align="right" src="/uploads/2011/10/eBay-Logo.png?resize=120%2C76" width="120" height="76" data-recalc-dims="1" /></a>I fondly call my wife lately Commodity Investor, as she loves to scout out best deals on eBay. In fact, I would easily bet that we are in their top 10% of customers list, and let’s just leave it at that. So why is it that they allow themselves to continuously upset us?
 </p>
 
 <p align="justify">
@@ -50,5 +50,5 @@ tags:
     </div>
 
 <p align="justify">
-  Okay, end of annual eBay Rant – you can return to your regularly scheduled mediocrity. Oh yea, and feel free to shop on Amazon more, their site is still behind times, but still light-years ahead of eBay, and they also offer slightly used items on their marketplace <img style="border-bottom-style: none; border-left-style: none; border-top-style: none; border-right-style: none" class="wlEmoticon wlEmoticon-smile" alt="Smile" src="https://i2.wp.com/www.adir1.com/uploads/2011/10/wlEmoticon-smile.png" data-recalc-dims="1" />
+  Okay, end of annual eBay Rant – you can return to your regularly scheduled mediocrity. Oh yea, and feel free to shop on Amazon more, their site is still behind times, but still light-years ahead of eBay, and they also offer slightly used items on their marketplace <img style="border-bottom-style: none; border-left-style: none; border-top-style: none; border-right-style: none" class="wlEmoticon wlEmoticon-smile" alt="Smile" src="/uploads/2011/10/wlEmoticon-smile.png" data-recalc-dims="1" />
 </p>

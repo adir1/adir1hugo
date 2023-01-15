@@ -12,7 +12,7 @@ tags:
 
 ---
 <p align="justify">
-  <a href="http://www.apple.com/iPhone"><img class="size-medium wp-image-220" title="iphone-3g" src="https://i1.wp.com/www.adir1.com/uploads/2008/07/iphone-3g.jpg?resize=256%2C189" alt="iPhone 3G" width="256" height="189" align="left" data-recalc-dims="1" /></a><br /> I am calling upon you, my readers, family, friends, everyone, <span style="text-decoration: underline;">Save Me</span> from this madness that is iPhone 3G Mania! Everything and Everyone and Everywhere, all they talk about is the new iPhone 3G.
+  <a href="http://www.apple.com/iPhone"><img class="size-medium wp-image-220" title="iphone-3g" src="/uploads/2008/07/iphone-3g.jpg?resize=256%2C189" alt="iPhone 3G" width="256" height="189" align="left" data-recalc-dims="1" /></a><br /> I am calling upon you, my readers, family, friends, everyone, <span style="text-decoration: underline;">Save Me</span> from this madness that is iPhone 3G Mania! Everything and Everyone and Everywhere, all they talk about is the new iPhone 3G.
 </p>
 
 <p align="justify">

@@ -12,7 +12,7 @@ tags:
 
 ---
 <p align="justify">
-  <a href="http://www.microsoft.com/windows/products/winfamily/virtualpc/default.mspx" target="_blank"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; margin: 0px 10px 0px 0px; border-right-width: 0px" height="167" alt="Virtual PC 2007" src="https://i2.wp.com/www.adir1.com/uploads/2008/08/virtual-pc-2007.jpg?resize=240%2C167" width="240" align="left" border="0" data-recalc-dims="1" /></a> Despite the long title, I&#8217;ll try to keep this post short. I had two completely opposite experiences with Windows Vista today.
+  <a href="http://www.microsoft.com/windows/products/winfamily/virtualpc/default.mspx" target="_blank"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; margin: 0px 10px 0px 0px; border-right-width: 0px" height="167" alt="Virtual PC 2007" src="/uploads/2008/08/virtual-pc-2007.jpg?resize=240%2C167" width="240" align="left" border="0" data-recalc-dims="1" /></a> Despite the long title, I&#8217;ll try to keep this post short. I had two completely opposite experiences with Windows Vista today.
 </p>
 
 <p align="justify">

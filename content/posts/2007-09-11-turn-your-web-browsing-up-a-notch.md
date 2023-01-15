@@ -9,7 +9,7 @@ tags:
   - Technology
 
 ---
-<img style="border-right: 0px; border-top: 0px; margin: 0px 0px 0px 5px; border-left: 0px; border-bottom: 0px" height="154" alt="Firefox Tab Effect Addon" src="https://i1.wp.com/www.adir1.com//uploads/2007/09/1.png?resize=204%2C154" width="204" align="right" border="0" data-recalc-dims="1" /> Short post today, since it&#8217;s very late.
+<img style="border-right: 0px; border-top: 0px; margin: 0px 0px 0px 5px; border-left: 0px; border-bottom: 0px" height="154" alt="Firefox Tab Effect Addon" src="/uploads/2007/09/1.png?resize=204%2C154" width="204" align="right" border="0" data-recalc-dims="1" /> Short post today, since it&#8217;s very late.
 
 I tried out Opera 9.50 Alpha today, and while it may be as lightening fast as they claim, that doesn&#8217;t help me any. If it can&#8217;t render Google Reader properly, which is critical web app for me, it&#8217;s no good&#8230; I realize it is Alpha, so I will just let them work on these kinks for now.
 

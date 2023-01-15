@@ -10,7 +10,7 @@ tags:
 
 ---
 <p align="justify">
-  <img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="173" alt="Tag Galaxy - Ocean" src="https://i0.wp.com/www.adir1.com//uploads/2008/05/tag-galaxy-ocean.jpg?resize=184%2C173" width="184" align="left" border="0" data-recalc-dims="1" /> Sorry I have been away for a while. I have so many excuses, but the truth is, I think I got &#8220;afraid&#8221; somehow. The more people know and read my blog, especially of those people who know me personally, the more I got worried about being judged based on the posts I write.
+  <img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="173" alt="Tag Galaxy - Ocean" src="/uploads/2008/05/tag-galaxy-ocean.jpg?resize=184%2C173" width="184" align="left" border="0" data-recalc-dims="1" /> Sorry I have been away for a while. I have so many excuses, but the truth is, I think I got &#8220;afraid&#8221; somehow. The more people know and read my blog, especially of those people who know me personally, the more I got worried about being judged based on the posts I write.
 </p>
 
 &nbsp;
@@ -22,7 +22,7 @@ I decided to try and be braver! Ummm, but not today, not just yet.. 😉
 </p>
 
 <p align="justify">
-  <a href="https://i0.wp.com/www.adir1.com//uploads/2008/05/tag-galaxy-ocean-space.jpg"><img style="border-right: 0px; border-top: 0px; margin: 0px 0px 0px 10px; border-left: 0px; border-bottom: 0px" height="112" alt="Tag Galaxy - Ocean Space" src="https://i2.wp.com/www.adir1.com//uploads/2008/05/tag-galaxy-ocean-space-thumb.jpg?resize=220%2C112" width="220" align="right" border="0" data-recalc-dims="1" /></a> The other one is less exciting, but perhaps more useful on a daily basis, as another quick way to &#8220;glance&#8221; at what is going on in the world. Check out this excellent <a href="http://www.msnbc.msn.com/id/24207533" target="_blank">MSNBC&#8217;s Spectra news visualizer</a>.
+  <a href="/uploads/2008/05/tag-galaxy-ocean-space.jpg"><img style="border-right: 0px; border-top: 0px; margin: 0px 0px 0px 10px; border-left: 0px; border-bottom: 0px" height="112" alt="Tag Galaxy - Ocean Space" src="/uploads/2008/05/tag-galaxy-ocean-space.jpg?resize=220%2C112" width="220" align="right" border="0" data-recalc-dims="1" /></a> The other one is less exciting, but perhaps more useful on a daily basis, as another quick way to &#8220;glance&#8221; at what is going on in the world. Check out this excellent <a href="http://www.msnbc.msn.com/id/24207533" target="_blank">MSNBC&#8217;s Spectra news visualizer</a>.
 </p>
 
 <p align="justify">

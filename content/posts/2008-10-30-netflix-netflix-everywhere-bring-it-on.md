@@ -12,7 +12,7 @@ tags:
 
 ---
 <p align="justify">
-  <img style="border-right: 0px; border-top: 0px; display: inline; margin: 0px 10px 10px 0px; border-left: 0px; border-bottom: 0px" title="Netflix in HD" src="https://i2.wp.com/www.adir1.com/uploads/2008/10/netflixinhd.jpg?resize=240%2C146" border="0" alt="Netflix in HD" width="240" height="146" align="left" data-recalc-dims="1" /> With more and more TV shows being available via Netflix “Watch It Now” feature, including the grand hit <a href="http://www.netflix.com/Movie/Heroes_Season_1/70057024?trkid=222336&lnkctr=srchrd-sr&strkid=1834052945_1_0" target="_blank">Heros</a>, which we still plan to catch up on (never started), momentum is building for easy on-demand streaming of shows/movies, to your Living Room TV.
+  <img style="border-right: 0px; border-top: 0px; display: inline; margin: 0px 10px 10px 0px; border-left: 0px; border-bottom: 0px" title="Netflix in HD" src="/uploads/2008/10/netflixinhd.jpg?resize=240%2C146" border="0" alt="Netflix in HD" width="240" height="146" align="left" data-recalc-dims="1" /> With more and more TV shows being available via Netflix “Watch It Now” feature, including the grand hit <a href="http://www.netflix.com/Movie/Heroes_Season_1/70057024?trkid=222336&lnkctr=srchrd-sr&strkid=1834052945_1_0" target="_blank">Heros</a>, which we still plan to catch up on (never started), momentum is building for easy on-demand streaming of shows/movies, to your Living Room TV.
 </p>
 
 <p align="justify">

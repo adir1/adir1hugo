@@ -11,7 +11,7 @@ tags:
 
 ---
 <p style="text-align: justify;">
-  <a title="Jones in the Fast Lane" href="http://home.broadpark.no/~kboye/jones/jones.html" target="_blank"><img style="border-right: 0px; border-top: 0px; display: inline; margin: 0px 10px 0px 0px; border-left: 0px; border-bottom: 0px" title="Jones In The Fast Lane Flash Game - Title" src="https://i0.wp.com/www.adir1.com/uploads/2009/01/jonesinthefastlaneflashgametitle.jpg?resize=240%2C157" border="0" alt="Jones In The Fast Lane Flash Game - Title" width="240" height="157" align="left" data-recalc-dims="1" /></a> I am thrilled this weekend! Ecstatic! I have been looking for a knockoff or even this original classic game, for at least a year now, hoping to introduce my kids to it and have some fun playing together!
+  <a title="Jones in the Fast Lane" href="http://home.broadpark.no/~kboye/jones/jones.html" target="_blank"><img style="border-right: 0px; border-top: 0px; display: inline; margin: 0px 10px 0px 0px; border-left: 0px; border-bottom: 0px" title="Jones In The Fast Lane Flash Game - Title" src="/uploads/2009/01/jonesinthefastlaneflashgametitle.jpg?resize=240%2C157" border="0" alt="Jones In The Fast Lane Flash Game - Title" width="240" height="157" align="left" data-recalc-dims="1" /></a> I am thrilled this weekend! Ecstatic! I have been looking for a knockoff or even this original classic game, for at least a year now, hoping to introduce my kids to it and have some fun playing together!
 </p>
 
 <p style="text-align: justify;">
@@ -23,7 +23,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://home.broadpark.no/~kboye/jones/jones.html" target="_blank"><img style="border-right: 0px; border-top: 0px; display: inline; margin: 0px 0px 0px 10px; border-left: 0px; border-bottom: 0px" title="Jones In The Fast Lane Flash Game - Menu" src="https://i2.wp.com/www.adir1.com/uploads/2009/01/jonesinthefastlaneflashgamemenu.jpg?resize=240%2C157" border="0" alt="Jones In The Fast Lane Flash Game - Menu" width="240" height="157" align="right" data-recalc-dims="1" /></a>This is just high level, the game has great depth, and definitely teaches you some real skills useful in life out there.
+  <a href="http://home.broadpark.no/~kboye/jones/jones.html" target="_blank"><img style="border-right: 0px; border-top: 0px; display: inline; margin: 0px 0px 0px 10px; border-left: 0px; border-bottom: 0px" title="Jones In The Fast Lane Flash Game - Menu" src="/uploads/2009/01/jonesinthefastlaneflashgamemenu.jpg?resize=240%2C157" border="0" alt="Jones In The Fast Lane Flash Game - Menu" width="240" height="157" align="right" data-recalc-dims="1" /></a>This is just high level, the game has great depth, and definitely teaches you some real skills useful in life out there.
 </p>
 
 <p style="text-align: justify;">

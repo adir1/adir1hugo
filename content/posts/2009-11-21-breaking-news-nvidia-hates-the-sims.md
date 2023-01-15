@@ -19,7 +19,7 @@ tags:
 </p>
 
 <p align="justify">
-  <a href="https://i2.wp.com/www.adir1.com/uploads/2009/11/RO2135403.jpg"><img style="border-bottom: 0px; border-left: 0px; margin: 0px 0px 0px 10px; display: inline; border-top: 0px; border-right: 0px" title=",R-O-213540-3" border="0" alt=",R-O-213540-3" align="right" src="https://i1.wp.com/www.adir1.com/uploads/2009/11/RO2135403_thumb.jpg?resize=240%2C192" width="240" height="192" data-recalc-dims="1" /></a> Only, the game didn’t start at all!!! So I proceeded to try her second favorite game, Sims 3. Same result, doesn’t start! No error, no clues, nothing!!! I proceeded to run DxDiag utility (all you do is type it into your Run prompt), and it showed that “No Problems Detected”.
+  <a href="/uploads/2009/11/RO2135403.jpg"><img style="border-bottom: 0px; border-left: 0px; margin: 0px 0px 0px 10px; display: inline; border-top: 0px; border-right: 0px" title=",R-O-213540-3" border="0" alt=",R-O-213540-3" align="right" src="/uploads/2009/11/RO2135403.jpg?resize=240%2C192" width="240" height="192" data-recalc-dims="1" /></a> Only, the game didn’t start at all!!! So I proceeded to try her second favorite game, Sims 3. Same result, doesn’t start! No error, no clues, nothing!!! I proceeded to run DxDiag utility (all you do is type it into your Run prompt), and it showed that “No Problems Detected”.
 </p>
 
 <p align="justify">

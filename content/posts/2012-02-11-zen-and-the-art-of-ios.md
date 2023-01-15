@@ -15,7 +15,7 @@ tags:
 
 ---
 <p align="justify">
-  <a class="thickbox" href="https://i2.wp.com/www.adir1.com/uploads/2012/02/iPad-Apps-Nightmare.png"><img style="background-image: none; border-right-width: 0px; margin: 0px 0px 5px 10px; padding-left: 0px; padding-right: 0px; display: inline; float: right; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="iPad Apps Nightmare" border="0" alt="iPad Apps Nightmare" align="right" src="https://i0.wp.com/www.adir1.com/uploads/2012/02/iPad-Apps-Nightmare_thumb.png?resize=250%2C228" width="250" height="228" data-recalc-dims="1" /></a>Today I want to reflect on Zen of iOS and overall Apple philosophy. But first, there’s a disturbance in the force that I must deal with. My overall tranquility has been compromised, and by Apple Genius Bar employees, no less.
+  <a class="thickbox" href="/uploads/2012/02/iPad-Apps-Nightmare.png"><img style="background-image: none; border-right-width: 0px; margin: 0px 0px 5px 10px; padding-left: 0px; padding-right: 0px; display: inline; float: right; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="iPad Apps Nightmare" border="0" alt="iPad Apps Nightmare" align="right" src="/uploads/2012/02/iPad-Apps-Nightmare.png?resize=250%2C228" width="250" height="228" data-recalc-dims="1" /></a>Today I want to reflect on Zen of iOS and overall Apple philosophy. But first, there’s a disturbance in the force that I must deal with. My overall tranquility has been compromised, and by Apple Genius Bar employees, no less.
 </p>
 
 <p align="justify">
@@ -47,5 +47,5 @@ tags:
 </p>
 
 <p align="justify">
-  <strong>PS</strong>: Thanks to my old friend <a href="http://il.linkedin.com/pub/eran-zadok/1/737/214" target="_blank">Eran Zadok</a> for recommending this <a href="http://www.amazon.com/dp/product/0688002307/?tag=craftonia-20" target="_blank">wonderful book</a> to me about <u>15 years ago</u> – yes, I am a bit behind on my reading list <img style="border-bottom-style: none; border-left-style: none; border-top-style: none; border-right-style: none" class="wlEmoticon wlEmoticon-smile" alt="Smile" src="https://i0.wp.com/www.adir1.com/uploads/2012/02/wlEmoticon-smile.png" data-recalc-dims="1" />
+  <strong>PS</strong>: Thanks to my old friend <a href="http://il.linkedin.com/pub/eran-zadok/1/737/214" target="_blank">Eran Zadok</a> for recommending this <a href="http://www.amazon.com/dp/product/0688002307/?tag=craftonia-20" target="_blank">wonderful book</a> to me about <u>15 years ago</u> – yes, I am a bit behind on my reading list <img style="border-bottom-style: none; border-left-style: none; border-top-style: none; border-right-style: none" class="wlEmoticon wlEmoticon-smile" alt="Smile" src="/uploads/2012/02/wlEmoticon-smile.png" data-recalc-dims="1" />
 </p>

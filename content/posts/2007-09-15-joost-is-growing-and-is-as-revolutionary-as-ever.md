@@ -10,7 +10,7 @@ tags:
   - Technology
 
 ---
-<a href="https://i2.wp.com/www.adir1.com//uploads/2007/09/joost-getmusic.jpg" target="_blank"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; margin: 0px 0px 0px 10px; border-right-width: 0px" height="184" alt="Joost - GetMusic" src="https://i0.wp.com/www.adir1.com//uploads/2007/09/joost-getmusic-thumb.jpg?resize=244%2C184" width="244" align="right" border="0" data-recalc-dims="1" /></a>Are you all <a href="http://www.joost.com" target="_blank">Joost</a>&#8216;ed up yet? This video platform is revolutionary and is truly disruptive to Video on the Web, and even Cable TV for home. 
+<a href="/uploads/2007/09/joost-getmusic.jpg" target="_blank"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; margin: 0px 0px 0px 10px; border-right-width: 0px" height="184" alt="Joost - GetMusic" src="/uploads/2007/09/joost-getmusic.jpg?resize=244%2C184" width="244" align="right" border="0" data-recalc-dims="1" /></a>Are you all <a href="http://www.joost.com" target="_blank">Joost</a>&#8216;ed up yet? This video platform is revolutionary and is truly disruptive to Video on the Web, and even Cable TV for home. 
 
 It&#8217;s perfectly legal too, since just like the broadcast model, it is advertiser supported. The advertisements themselves are short and non-intrusive to me, at least for now. 
 

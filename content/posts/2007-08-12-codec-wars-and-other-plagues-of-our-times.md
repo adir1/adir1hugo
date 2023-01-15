@@ -11,7 +11,7 @@ tags:
   - Technology
 
 ---
-<a href="https://i0.wp.com/www.adir1.com//uploads/2007/08/wmp11-mini.jpg" atomicselection="true"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="211" alt="wmp11_mini" src="https://i0.wp.com/www.adir1.com//uploads/2007/08/wmp11-mini-thumb.jpg?resize=240%2C211" width="240" align="right" border="0" data-recalc-dims="1" /></a> So, which <a href="http://en.wikipedia.org/wiki/Codec" target="_blank">Codec</a> are you storing your Media in? Things like Home Movies, or recorded TV shows? How about your Music collection? Don&#8217;t even know or care what <a href="http://en.wikipedia.org/wiki/Codec" target="_blank">Codec</a> is?
+<a href="/uploads/2007/08/wmp11-mini.jpg" atomicselection="true"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="211" alt="wmp11_mini" src="/uploads/2007/08/wmp11-mini.jpg?resize=240%2C211" width="240" align="right" border="0" data-recalc-dims="1" /></a> So, which <a href="http://en.wikipedia.org/wiki/Codec" target="_blank">Codec</a> are you storing your Media in? Things like Home Movies, or recorded TV shows? How about your Music collection? Don&#8217;t even know or care what <a href="http://en.wikipedia.org/wiki/Codec" target="_blank">Codec</a> is?
 
 You should care! For one, because of the nightmares of what plays on which device at what quality and why. After installing elaborate suite of software, you usually can get computer to play pretty much anything, provided your PC is fast enough, of course.
 

@@ -8,7 +8,7 @@ tags:
   - Personal
 
 ---
-<img id="id" style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="201" alt="I want you" src="https://i1.wp.com/www.adir1.com//uploads/2007/11/i-want-you.jpg?resize=184%2C201" width="184" align="left" border="0" data-recalc-dims="1" /> Welcome to November! Time sure flies when you&#8217;re having fun, NOT! You know it&#8217;s all downhill from here, when I am opening with a Not joke. 
+<img id="id" style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="201" alt="I want you" src="/uploads/2007/11/i-want-you.jpg?resize=184%2C201" width="184" align="left" border="0" data-recalc-dims="1" /> Welcome to November! Time sure flies when you&#8217;re having fun, NOT! You know it&#8217;s all downhill from here, when I am opening with a Not joke. 
 
 <p align="justify">
   I have been busy with silly things lately, and overall more agitated than usual, for some unknown reason. Unfortunately, that means less blog posts for you, dear readers. I have many topics I have been thinking of blogging about, and instead decided to let You choose. Simply post in the comments, if any of the subjects below are of interest to you, and I will blog about them sooner, rather than later. It will be motivational for me also!

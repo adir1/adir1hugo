@@ -12,7 +12,7 @@ tags:
 
 ---
 <p align="justify">
-  <a href="http://www6.homedepot.com/ecooptions/" target="_blank"><img style="border-right: 0px; border-top: 0px; margin: 0px 10px 0px 0px; border-left: 0px; border-bottom: 0px" height="119" alt="Home Depot ECO Options" src="https://i1.wp.com/www.adir1.com//uploads/2008/07/home-depot-eco-options.jpg?resize=117%2C119" width="117" align="left" border="0" data-recalc-dims="1" /></a> I am heading to local <a href="http://www.homedepot.com" target="_blank">Home Depot</a>, where finally it should be Easy to recycle those old broken fluorescent light bulbs. All of them contain Mercury, a very dangerous Cancer causing chemical, even in small quantities can be inhaled and cause all kinds of nasty things.
+  <a href="http://www6.homedepot.com/ecooptions/" target="_blank"><img style="border-right: 0px; border-top: 0px; margin: 0px 10px 0px 0px; border-left: 0px; border-bottom: 0px" height="119" alt="Home Depot ECO Options" src="/uploads/2008/07/home-depot-eco-options.jpg?resize=117%2C119" width="117" align="left" border="0" data-recalc-dims="1" /></a> I am heading to local <a href="http://www.homedepot.com" target="_blank">Home Depot</a>, where finally it should be Easy to recycle those old broken fluorescent light bulbs. All of them contain Mercury, a very dangerous Cancer causing chemical, even in small quantities can be inhaled and cause all kinds of nasty things.
 </p>
 
 <p align="justify">

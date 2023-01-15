@@ -17,7 +17,7 @@ tags:
 </p>
 
 <p align="justify">
-  <img style="border-right-width: 0px; margin: 5px 0px 5px 10px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="Android Logo" border="0" alt="Android Logo" align="right" src="https://i2.wp.com/www.adir1.com/uploads/2010/04/AndroidLogo.png?resize=170%2C202" width="170" height="202" data-recalc-dims="1" /> To be fair, I myself did a lot of Flash/Flex development and still do! I really like what ActionScript can achieve, much more so than messing with JavaScript and CSS/HTML. But, times are tough, so here is my proposal:
+  <img style="border-right-width: 0px; margin: 5px 0px 5px 10px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="Android Logo" border="0" alt="Android Logo" align="right" src="/uploads/2010/04/AndroidLogo.png?resize=170%2C202" width="170" height="202" data-recalc-dims="1" /> To be fair, I myself did a lot of Flash/Flex development and still do! I really like what ActionScript can achieve, much more so than messing with JavaScript and CSS/HTML. But, times are tough, so here is my proposal:
 </p>
 
 <p align="justify">

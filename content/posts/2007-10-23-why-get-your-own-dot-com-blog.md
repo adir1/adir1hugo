@@ -21,7 +21,7 @@ tags:
 </p>
 
 <p align="justify">
-  <img src="https://i0.wp.com/www.adir1.com//uploads/2007/10/yahoo360-logo.png?resize=214%2C42" id="id" style="border: 0px none " alt="yahoo360-logo" align="left" border="0" height="42" width="214" data-recalc-dims="1" /> Actually, I trust <a href="http://www.yahoo.com" target="_blank">Yahoo!</a> and I think they are doing the right thing. I wouldn&#8217;t have created my blog there in the first place if I did not have full trust in them (Full disclosure: I own some <a href="http://finance.yahoo.com/q?s=YHOO" target="_blank">Yahoo! stock</a>). They are going through some management turmoil now, and these are rough times while many leading tech companies (Microsoft comes to mind!) trying to figure out what works and what doesn&#8217;t, and what is the best model for the future of computing for masses.
+  <img src="/uploads/2007/10/yahoo360-logo.png?resize=214%2C42" id="id" style="border: 0px none " alt="yahoo360-logo" align="left" border="0" height="42" width="214" data-recalc-dims="1" /> Actually, I trust <a href="http://www.yahoo.com" target="_blank">Yahoo!</a> and I think they are doing the right thing. I wouldn&#8217;t have created my blog there in the first place if I did not have full trust in them (Full disclosure: I own some <a href="http://finance.yahoo.com/q?s=YHOO" target="_blank">Yahoo! stock</a>). They are going through some management turmoil now, and these are rough times while many leading tech companies (Microsoft comes to mind!) trying to figure out what works and what doesn&#8217;t, and what is the best model for the future of computing for masses.
 </p>
 
 <p align="justify">

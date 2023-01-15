@@ -14,7 +14,7 @@ tags:
 </p>
 
 <p align="justify">
-  <a href="http://h41112.www4.hp.com/promo/webos/us/en/shopping-touchpad.html" target="_blank"><img style="background-image: none; border-bottom: 0px; border-left: 0px; margin: 0px 10px 5px 0px; padding-left: 0px; padding-right: 0px; display: inline; float: left; border-top: 0px; border-right: 0px; padding-top: 0px" title="HP TouchPad" border="0" alt="HP TouchPad" align="left" src="https://i0.wp.com/www.adir1.com/uploads/2011/08/HP-TouchPad.jpg?resize=244%2C188" width="244" height="188" data-recalc-dims="1" /></a>Well, late Friday night I learned that HP decided to clearance out the remaining inventory, at steep discount! Yes, the price is down to <strong>only $99</strong> for 16 GB model and $149 for 32 GB model, effective Saturday (August 20th).
+  <a href="http://h41112.www4.hp.com/promo/webos/us/en/shopping-touchpad.html" target="_blank"><img style="background-image: none; border-bottom: 0px; border-left: 0px; margin: 0px 10px 5px 0px; padding-left: 0px; padding-right: 0px; display: inline; float: left; border-top: 0px; border-right: 0px; padding-top: 0px" title="HP TouchPad" border="0" alt="HP TouchPad" align="left" src="/uploads/2011/08/HP-TouchPad.jpg?resize=244%2C188" width="244" height="188" data-recalc-dims="1" /></a>Well, late Friday night I learned that HP decided to clearance out the remaining inventory, at steep discount! Yes, the price is down to <strong>only $99</strong> for 16 GB model and $149 for 32 GB model, effective Saturday (August 20th).
 </p>
 
 <p align="justify">

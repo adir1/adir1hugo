@@ -17,7 +17,7 @@ tags:
 </p>
 
 <p align="justify">
-  <a href="https://i0.wp.com/www.adir1.com//uploads/2007/12/zune-podcasts.jpg" target="_blank"><img style="border-right: 0px; border-top: 0px; margin: 0px 10px 0px 0px; border-left: 0px; border-bottom: 0px" height="144" alt="Zune_Podcasts" src="https://i1.wp.com/www.adir1.com//uploads/2007/12/zune-podcasts-thumb.jpg?resize=244%2C144" width="244" align="left" border="0" data-recalc-dims="1" /></a>Here is the tip for everyone out there! There is <strong>A Lot of Free</strong> and easily accessible Video (and Audio) content for your Zune! Start by simply navigating to Podcasts category in the Marketplace section of the new Zune client software! And the best part &#8212; all of it is <strong>Free</strong>! Your Zune clent software will auto-download the latest episodes from the Internet, whenever you dock your Zune or even when you sync wirelessly.
+  <a href="/uploads/2007/12/zune-podcasts.jpg" target="_blank"><img style="border-right: 0px; border-top: 0px; margin: 0px 10px 0px 0px; border-left: 0px; border-bottom: 0px" height="144" alt="Zune_Podcasts" src="/uploads/2007/12/zune-podcasts.jpg?resize=244%2C144" width="244" align="left" border="0" data-recalc-dims="1" /></a>Here is the tip for everyone out there! There is <strong>A Lot of Free</strong> and easily accessible Video (and Audio) content for your Zune! Start by simply navigating to Podcasts category in the Marketplace section of the new Zune client software! And the best part &#8212; all of it is <strong>Free</strong>! Your Zune clent software will auto-download the latest episodes from the Internet, whenever you dock your Zune or even when you sync wirelessly.
 </p>
 
 <p align="justify">
@@ -25,7 +25,7 @@ tags:
 </p>
 
 <p align="justify">
-  <a href="https://i2.wp.com/www.adir1.com//uploads/2007/12/zune-mysubscriptions-take2.jpg" target="_blank"><img style="border-right: 0px; border-top: 0px; margin: 0px 0px 0px 10px; border-left: 0px; border-bottom: 0px" height="142" alt="Zune_MySubscriptions_take2" src="https://i1.wp.com/www.adir1.com//uploads/2007/12/zune-mysubscriptions-take2-thumb.jpg?resize=244%2C142" width="244" align="right" border="0" data-recalc-dims="1" /></a> There are too many excellent podcasts that I subscribe to for me to list here, and even more excellent ones that I just don&#8217;t have time for. So, first step, check out My Subscriptions screen capture, to the right. I managed to reformat the screen to fit all the little pictures in, although reading their full name will be tough. So, here are some highlights, with brief description:
+  <a href="/uploads/2007/12/zune-mysubscriptions-take2.jpg" target="_blank"><img style="border-right: 0px; border-top: 0px; margin: 0px 0px 0px 10px; border-left: 0px; border-bottom: 0px" height="142" alt="Zune_MySubscriptions_take2" src="/uploads/2007/12/zune-mysubscriptions-take2.jpg?resize=244%2C142" width="244" align="right" border="0" data-recalc-dims="1" /></a> There are too many excellent podcasts that I subscribe to for me to list here, and even more excellent ones that I just don&#8217;t have time for. So, first step, check out My Subscriptions screen capture, to the right. I managed to reformat the screen to fit all the little pictures in, although reading their full name will be tough. So, here are some highlights, with brief description:
 </p>
 
   * <div align="justify">

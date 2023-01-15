@@ -11,7 +11,7 @@ tags:
 
 ---
 <p align="justify">
-  <a href="https://i2.wp.com/www.adir1.com//uploads/2008/07/resume-adobe-downloads.jpg" target="_blank"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; margin: 0px 10px 0px 0px; border-right-width: 0px" height="165" alt="Resume Adobe Downloads" src="https://i1.wp.com/www.adir1.com//uploads/2008/07/resume-adobe-downloads-thumb.jpg?resize=146%2C165" width="146" align="left" border="0" data-recalc-dims="1" /></a>So Adobe Reader 9 is here, and someone somewhere claimed, for whatever reason, that it is actually faster to start.
+  <a href="/uploads/2008/07/resume-adobe-downloads.jpg" target="_blank"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; margin: 0px 10px 0px 0px; border-right-width: 0px" height="165" alt="Resume Adobe Downloads" src="/uploads/2008/07/resume-adobe-downloads.jpg?resize=146%2C165" width="146" align="left" border="0" data-recalc-dims="1" /></a>So Adobe Reader 9 is here, and someone somewhere claimed, for whatever reason, that it is actually faster to start.
 </p>
 
 <p align="justify">
@@ -43,7 +43,7 @@ tags:
 </p>
 
 <p align="justify">
-  <a href="https://i0.wp.com/www.adir1.com//uploads/2008/07/adobe-reader-9-error.jpg" target="_blank"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; margin: 0px 0px 0px 10px; border-right-width: 0px" height="104" alt="Adobe Reader 9 error" src="https://i0.wp.com/www.adir1.com//uploads/2008/07/adobe-reader-9-error-thumb.jpg?resize=244%2C104" width="244" align="right" border="0" data-recalc-dims="1" /></a>Great, I think to myself, finally after all the hard work, I&#8217;ll get to experience the snappy new Adobe Reader (as if..). No such luck at all, instead it happily tells me that there is no source at all, nothing to install. Thanks for coming, don&#8217;t call us, we call you! Yes, of course I tried going back to original site and "re-downloading" the whole thing, only to be happily greeted with the same message (after patiently waiting for some mysterious "data" to decompress, of course).
+  <a href="/uploads/2008/07/adobe-reader-9-error.jpg" target="_blank"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; margin: 0px 0px 0px 10px; border-right-width: 0px" height="104" alt="Adobe Reader 9 error" src="/uploads/2008/07/adobe-reader-9-error.jpg?resize=244%2C104" width="244" align="right" border="0" data-recalc-dims="1" /></a>Great, I think to myself, finally after all the hard work, I&#8217;ll get to experience the snappy new Adobe Reader (as if..). No such luck at all, instead it happily tells me that there is no source at all, nothing to install. Thanks for coming, don&#8217;t call us, we call you! Yes, of course I tried going back to original site and "re-downloading" the whole thing, only to be happily greeted with the same message (after patiently waiting for some mysterious "data" to decompress, of course).
 </p>
 
 <p align="justify">

@@ -11,7 +11,7 @@ tags:
 
 ---
 <p align="justify">
-  <img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; margin: 0px 10px 0px 0px; border-right-width: 0px" height="56" alt="stage6 logo" src="https://i1.wp.com/www.adir1.com//uploads/2008/02/stage6-logo.jpg?resize=193%2C56" width="193" align="left" border="0" data-recalc-dims="1" /> I went to visit my old time favorite Stage6 site from DivX, which most of you readers of my blog are familiar with, by now, and was stunned to learn that they are closing.
+  <img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; margin: 0px 10px 0px 0px; border-right-width: 0px" height="56" alt="stage6 logo" src="/uploads/2008/02/stage6-logo.jpg?resize=193%2C56" width="193" align="left" border="0" data-recalc-dims="1" /> I went to visit my old time favorite Stage6 site from DivX, which most of you readers of my blog are familiar with, by now, and was stunned to learn that they are closing.
 </p>
 
 I am saddened by this news, and will have to revise some of my high quality Watch videos back to their inferior YouTube equivalents.

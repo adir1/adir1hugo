@@ -11,7 +11,7 @@ tags:
 
 ---
 <p align="justify">
-  <a href="https://i2.wp.com/www.adir1.com/uploads/2008/11/img-2715.jpg" target="_blank"><img style="border-right: 0px; border-top: 0px; display: inline; margin: 0px 10px 10px 0px; border-left: 0px; border-bottom: 0px" title="IMG_2715" src="https://i1.wp.com/www.adir1.com/uploads/2008/11/img-2715-thumb.jpg?resize=293%2C164" border="0" alt="IMG_2715" width="293" height="164" align="left" data-recalc-dims="1" /></a>We just received the new XBox 360 Experience, and I decided to blog about it right away (I know, totally untypical!). I expected much from this major upgrade, and I have to say so far I am impressed!
+  <a href="/uploads/2008/11/img-2715.jpg" target="_blank"><img style="border-right: 0px; border-top: 0px; display: inline; margin: 0px 10px 10px 0px; border-left: 0px; border-bottom: 0px" title="IMG_2715" src="/uploads/2008/11/img-2715.jpg?resize=293%2C164" border="0" alt="IMG_2715" width="293" height="164" align="left" data-recalc-dims="1" /></a>We just received the new XBox 360 Experience, and I decided to blog about it right away (I know, totally untypical!). I expected much from this major upgrade, and I have to say so far I am impressed!
 </p>
 
 <p align="justify">

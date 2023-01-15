@@ -9,7 +9,7 @@ tags:
   - Personal
 
 ---
-<a href="http://www.blogactionday.org/" target="_blank"><img id="id" style="border-right: 0px; border-top: 0px; margin: 0px 0px 5px 10px; border-left: 0px; border-bottom: 0px" height="189" alt="Blog Action Day" src="https://i2.wp.com/www.adir1.com//uploads/2007/10/blog-action-day.jpg?resize=204%2C189" width="204" align="right" border="0" data-recalc-dims="1" /></a>Today&#8217;s post is about The Environment. Our Planet, and what are **You** doing to help save it? What actions are **You** taking daily to better the planet for our Children?
+<a href="http://www.blogactionday.org/" target="_blank"><img id="id" style="border-right: 0px; border-top: 0px; margin: 0px 0px 5px 10px; border-left: 0px; border-bottom: 0px" height="189" alt="Blog Action Day" src="/uploads/2007/10/blog-action-day.jpg?resize=204%2C189" width="204" align="right" border="0" data-recalc-dims="1" /></a>Today&#8217;s post is about The Environment. Our Planet, and what are **You** doing to help save it? What actions are **You** taking daily to better the planet for our Children?
 
 <a href="http://www.blogactionday.org/" target="_blank">Blog Action Day</a> organizers have big time sponsors on-board, all coming together in a common goal to promote message about the importance of saving our planet and the environment.
 

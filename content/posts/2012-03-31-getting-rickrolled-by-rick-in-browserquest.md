@@ -11,7 +11,7 @@ tags:
 
 ---
 <p align="justify">
-  <a href="http://browserquest.mozilla.org/" target="_blank"><img style="background-image: none; border-bottom: 0px; border-left: 0px; margin: 0px 0px 0px 10px; padding-left: 0px; padding-right: 0px; display: inline; float: right; border-top: 0px; border-right: 0px; padding-top: 0px" title="rick in browserquest photoshopped" border="0" alt="rick in browserquest photoshopped" align="right" src="https://i0.wp.com/www.adir1.com/uploads/2012/03/rick-in-browserquest-photoshopped.png?resize=195%2C229" width="195" height="229" data-recalc-dims="1" /></a>This one is definitely filed away under Weekend Fun! Kudos to <a title="Blog post about BrowserQuest release" href="http://hacks.mozilla.org/2012/03/browserquest/" target="_blank">Mozilla</a> foundation, though a bit sad that it doesn’t play on iPad (and some other browsers) yet.
+  <a href="http://browserquest.mozilla.org/" target="_blank"><img style="background-image: none; border-bottom: 0px; border-left: 0px; margin: 0px 0px 0px 10px; padding-left: 0px; padding-right: 0px; display: inline; float: right; border-top: 0px; border-right: 0px; padding-top: 0px" title="rick in browserquest photoshopped" border="0" alt="rick in browserquest photoshopped" align="right" src="/uploads/2012/03/rick-in-browserquest-photoshopped.png?resize=195%2C229" width="195" height="229" data-recalc-dims="1" /></a>This one is definitely filed away under Weekend Fun! Kudos to <a title="Blog post about BrowserQuest release" href="http://hacks.mozilla.org/2012/03/browserquest/" target="_blank">Mozilla</a> foundation, though a bit sad that it doesn’t play on iPad (and some other browsers) yet.
 </p>
 
 <p align="justify">

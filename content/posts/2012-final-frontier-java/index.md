@@ -59,7 +59,7 @@ A List Size: 1 B List Size: 1
 {{< /alert >}}
 
 <p align="justify">
-  With Primitives we see that assigning <strong>a</strong> into <strong>b</strong> truly made a copy, so that when we put 3 into <strong>a</strong> later, nothing happened to <strong>b</strong>. <img style="background-image: none; border-right-width: 0px; margin: 5px 0px 5px 10px; padding-left: 0px; padding-right: 0px; display: inline; float: right; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="Two_Java_Pointers_at_ArrayList_Object" border="0" alt="Two_Java_Pointers_at_ArrayList_Object" align="right" src="https://i0.wp.com/www.adir1.com/uploads/2012/09/Two_Java_Pointers_at_ArrayList_Object.jpg?resize=300%2C112" width="300" height="112" data-recalc-dims="1" />Meanwhile, assigning <strong>aLst</strong> into <strong>bLst</strong> seems to act differently, as modifying <strong>aLst</strong> makes something magically appear in <strong>bLst</strong>!
+  With Primitives we see that assigning <strong>a</strong> into <strong>b</strong> truly made a copy, so that when we put 3 into <strong>a</strong> later, nothing happened to <strong>b</strong>. <img style="background-image: none; border-right-width: 0px; margin: 5px 0px 5px 10px; padding-left: 0px; padding-right: 0px; display: inline; float: right; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="Two_Java_Pointers_at_ArrayList_Object" border="0" align="right" src="/uploads/2012/09/Two_Java_Pointers_at_ArrayList_Object.jpg?resize=300%2C112" width="300" height="112" data-recalc-dims="1" />Meanwhile, assigning <strong>aLst</strong> into <strong>bLst</strong> seems to act differently, as modifying <strong>aLst</strong> makes something magically appear in <strong>bLst</strong>!
 </p>
 
 ## Objects
@@ -101,7 +101,7 @@ A: 800
 ## What Is Happening?
 
 <p align="justify">
-  <br />What has happened to our <strong>Unlisted Number</strong>? And if the evil <strong>callMeMaybe</strong> method was able to eliminate it, why did we not extract the essential <strong>howOften</strong> to call information from that same method?<a class="thickbox" href="https://i2.wp.com/www.adir1.com/uploads/2012/09/Three_Java_Pointers_at_an_Object.jpg.jpg"><img style="background-image: none; border-right-width: 0px; margin: 5px 0px 5px 10px; padding-left: 0px; padding-right: 0px; display: inline; float: right; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="Three_Java_Pointers_at_an_Object.jpg" border="0" alt="Three_Java_Pointers_at_an_Object.jpg" align="right" src="https://i1.wp.com/www.adir1.com/uploads/2012/09/Three_Java_Pointers_at_an_Object.jpg_thumb.jpg?resize=339%2C182" width="339" height="182" data-recalc-dims="1" /></a>
+  <br />What has happened to our <strong>Unlisted Number</strong>? And if the evil <strong>callMeMaybe</strong> method was able to eliminate it, why did we not extract the essential <strong>howOften</strong> to call information from that same method?<img style="background-image: none; border-right-width: 0px; margin: 5px 0px 5px 10px; padding-left: 0px; padding-right: 0px; display: inline; float: right; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="Three_Java_Pointers_at_an_Object.jpg" border="0" align="right" src="/uploads/2012/09/Three_Java_Pointers_at_an_Object.jpg" width="339" height="182" data-recalc-dims="1" />
 </p>
 
 <p align="justify">
@@ -110,7 +110,7 @@ A: 800
 
 ## Finally
 
-Having understood this we are finally ready to discuss Java’s ‘**final’** keyword<img style="border-bottom-style: none; border-left-style: none; border-top-style: none; border-right-style: none" class="wlEmoticon wlEmoticon-winkingsmile" alt="Winking smile" src="https://i2.wp.com/www.adir1.com/uploads/2012/09/wlEmoticon-winkingsmile.png" data-recalc-dims="1" /> 
+Having understood this we are finally ready to discuss Java’s ‘**final’** keyword<img style="border-bottom-style: none; border-left-style: none; border-top-style: none; border-right-style: none" class="wlEmoticon wlEmoticon-winkingsmile" alt="Winking smile" src="/uploads/2012/09/wlEmoticon-winkingsmile.png" data-recalc-dims="1" /> 
 
 Simply put, when this keyword is placed on variable definition, you can only give this variable one value in it’s lifetime. A more complete explanation about the use of final keyword can be found on <a href="http://en.wikipedia.org/wiki/Final_(Java)" target="_blank">Wikipedia</a>. My personal recommendation is that you avoid using this keyword, except when defining some truly Constant value in all upper case, like so:
 

@@ -12,7 +12,7 @@ tags:
 ---
 <dl id="attachment_441" class="wp-caption alignright" style="width: 328px;">
   <dt class="wp-caption-dt">
-    <a href="http://www.acer.com/aspireone/experience.html"><img class="size-full wp-image-441 alignright" title="Acer Aspire One - 10 Inch Red" src="https://i0.wp.com/www.adir1.com/uploads/2009/09/acer-aspire-one-red.png?resize=318%2C297" alt="Acer Aspire One Netbook - 10 inch Red" width="318" height="297" srcset="https://i0.wp.com/www.adir1.com/uploads/2009/09/acer-aspire-one-red.png?w=318 318w, https://i0.wp.com/www.adir1.com/uploads/2009/09/acer-aspire-one-red.png?resize=300%2C280 300w" sizes="(max-width: 318px) 100vw, 318px" data-recalc-dims="1" /></a>
+    <a href="http://www.acer.com/aspireone/experience.html"><img class="size-full wp-image-441 alignright" title="Acer Aspire One - 10 Inch Red" src="/uploads/2009/09/acer-aspire-one-red.png?resize=318%2C297" alt="Acer Aspire One Netbook - 10 inch Red" width="318" height="297" srcset="/uploads/2009/09/acer-aspire-one-red.png?w=318 318w, /uploads/2009/09/acer-aspire-one-red.png?resize=300%2C280 300w" sizes="(max-width: 318px) 100vw, 318px" data-recalc-dims="1" /></a>
   </dt>
 </dl>
 
