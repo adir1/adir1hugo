@@ -30,11 +30,10 @@ jobs:
           app_location: "/" # App source code path
           api_location: "api" # Api source code path - optional
           output_location: "public" # Built app content directory - optional
-          build_timeout_in_minutes: 15
           ###### End of Repository/Build Configurations ######
         env:
           HUGO_VERSION: 0.109.0
-          HUGO_TIMEOUT: 9000
+          HUGO_TIMEOUT: 90000
 
   close_pull_request_job:
     if: github.event_name == 'pull_request' && github.event.action == 'closed'
