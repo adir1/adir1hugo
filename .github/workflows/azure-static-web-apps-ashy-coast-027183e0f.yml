@@ -33,6 +33,7 @@ jobs:
           ###### End of Repository/Build Configurations ######
         env:
           HUGO_VERSION: 0.109.0
+          HUGO_TIMEOUT: 30000
 
   close_pull_request_job:
     if: github.event_name == 'pull_request' && github.event.action == 'closed'
