@@ -16,8 +16,8 @@ dateFormat = "2 January 2006"
 [author]
   name = "Adi Rabinovich"
   image = "img/profile-pic.jpg"
-#  headline = "Net, Life and The Meaning of it All"
-  headline = "{{< typeit tag=h3 speed=40 lifeLike=true breakLines=false loop=true >}}Net, Life and The Meaning of it All!\nWriting about Life, Technology and The Universe!\nWhat does one put in a Bio anyhow?{{< /typeit >}}"
+  headline = "Net, Life and The Meaning of it All"
+#  headline = "{{< typeit tag=h3 speed=40 lifeLike=true breakLines=false loop=true >}}Net, Life and The Meaning of it All!\nWriting about Life, Technology and The Universe!\nWhat does one put in a Bio anyhow?{{< /typeit >}}"
   bio = "Writing about Life, Technology and The Universe!"
 #  bio = "Self-Proclaimed Human and Tech Guru"
   links = [
