@@ -11,7 +11,7 @@ tags:
   - iPhone
   - Technology
   - UX
-  - Zen
+  - Philosophy
 
 ---
 <p align="justify">

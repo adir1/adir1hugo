@@ -6,6 +6,7 @@ date: 2011-11-11T04:11:24+00:00
 url: /2011/11/111111-and-our-binary-future/
 tags:
   - Numerology
+  - Project
 
 ---
 <a title="Knight&#39;s Frolic Puzzle Game in Android Marketplace" href="https://market.android.com/details?id=com.worlddelights.android.horsey" target="_blank"><img style="display: inline; float: right" title="HorseColored" alt="HorseColored" align="right" src="https://i2.wp.com/www.adir1.com/uploads/2011/11/HorseColored.png?resize=179%2C182" width="179" height="182" data-recalc-dims="1" /></a>Just had to post today, such a special day in history of the World. I entertained a plan to a day off, but ended up working harder than ever.

@@ -1,3 +1,4 @@
 [[imports]]
 # path = "github.com/adir1/blowfish"
+# path = "github.com/nunocoracao/blowfish/v2"
 path = "github.com/nunocoracao/blowfish/v2"

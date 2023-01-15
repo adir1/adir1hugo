@@ -22,8 +22,9 @@ dateFormat = "2 January 2006"
 #  bio = "Self-Proclaimed Human and Tech Guru"
   links = [
    { twitter = "https://twitter.com/adir1" },
-   { instagram = "https://instagram.com/adir1" },
+   { linkedin = "https://linkedin.com/in/adir1" },
    { github = "https://github.com/adir1" },
+   { instagram = "https://instagram.com/adir1" },
    { dev = "https://dev.to/adir1" }
   ]
 

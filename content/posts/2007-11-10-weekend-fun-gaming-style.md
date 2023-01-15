@@ -5,11 +5,9 @@ type: post
 date: 2007-11-10T18:26:43+00:00
 url: /2007/11/weekend-fun-gaming-style/
 tags:
-  - Crysis
   - EA
   - Entertainment
   - Family
-  - Halo
   - Gaming
   - Technology
   - Weekend Fun

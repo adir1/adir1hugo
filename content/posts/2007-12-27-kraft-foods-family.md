@@ -6,10 +6,9 @@ date: 2007-12-28T04:05:29+00:00
 url: /2007/12/kraft-foods-family/
 tags:
   - Consumerism
-  - Cooking
   - Kraft
   - Personal
-  - Recipes
+  - Recipe
 
 ---
 <p align="justify">

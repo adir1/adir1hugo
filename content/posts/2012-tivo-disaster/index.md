@@ -4,6 +4,7 @@ author: Adi R
 type: post
 date: 2012-12-20T15:58:29+00:00
 url: /2012/12/tivo-disaster-if-it-aint-broke-why-fix-it/
+heroStyle: "basic"
 tags:
   - Consumerism
   - HDTV
@@ -43,5 +44,7 @@ tags:
 </p>
 
 <p align="justify">
-  <strong>PS</strong>: I ordered <a href="http://www.amazon.com/dp/product/B004HKIB6E/?tag=craftonia-20" target="_blank">HDHomeRun Prime</a> now and look forward to posting my experience here
+  <strong>PS</strong>: I ordered <a href="http://www.amazon.com/dp/product/B092GCN9NL/?tag=craftonia-20" target="_blank">HDHomeRun</a> now and look forward to posting my experience here
 </p>
+
+**UPDATE:** HDHomeRun is Great - Highly recommended!

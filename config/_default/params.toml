@@ -32,7 +32,10 @@ mainSections = [ "post","posts" ]
   showScrollToTop = true
 
 [homepage]
-  layout = "profile" # valid options: page, profile, hero, card, background, custom
+  layout = "hero" # valid options: page, profile, hero, card, background, custom
+  homepageImage = "img/martin-rancourt-IGTbJYQfusY-unsplash.jpg"
+  #homepageImage = "img/featured_flickr_bestsmartplace_6813084407_5d4bcb0d05_o.jpg"
+  #homepageImage = "img/adir1_nature_square.jpg"
   #homepageImage = "IMAGE.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 5

@@ -5,9 +5,7 @@ type: post
 date: 2007-09-30T01:31:08+00:00
 url: /2007/09/more-weekend-fun-amazon-please-take-my-money/
 tags:
-  - Amazon MP3
   - Entertainment
-  - Hilary Duff
   - Media
 
 ---
