@@ -11,9 +11,9 @@ type: page
 
 ## Overview
 
-This is a collection of random Best-Of images I collected over the years, most from my own camera but some are cameos also. With the move to digital photography, and shortly thereafter to mobile photography, we all know how easy it has become to take endless number of amazing shots. My most recent Best-Of images can be found on my Instagram, but from time to time I may upload from other sources. Who knows, I may return to using some fancier lenses also some day...
+This is a collection of random Best-Of images I collected over the years, most from my own camera but some are cameos. With the move to digital photography, and shortly thereafter to mobile photography, we all know how easy it has become to take endless number of amazing shots. My most recent Best-Of images can be found on my Instagram, but from time to time I may upload from other sources. Who knows, I may return to using some fancier lenses some day...
 
-Also, I hope to figure out nicer way to present these photos, some sort of gallery or rotating carousel, in some not-so-distant future.
+I am also planning to figure out a nicer way to present these photos, perhaps some sort of gallery or rotating carousel.
 
 ## Instagram
 
