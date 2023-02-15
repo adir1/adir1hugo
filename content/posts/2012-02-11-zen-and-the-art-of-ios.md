@@ -12,6 +12,7 @@ tags:
   - Technology
   - UX
   - Philosophy
+  - Recommendations
 
 ---
 <p align="justify">

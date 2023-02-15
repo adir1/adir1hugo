@@ -10,7 +10,7 @@ type: page
 
 ---
 {{< alert "bell" >}}
-**Disclaimer**: I refreshed this site in early 2023, but keeping this page with original content, as sort of homage.
+**Note**: I refreshed this site in early 2023, but keeping this page with an original content, as a sort of homage.
 {{< /alert >}}
 
 ## About This Blog

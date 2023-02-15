@@ -9,6 +9,7 @@ tags:
   - Kraft
   - Personal
   - Recipe
+  - Recommendations
 
 ---
 <p align="justify">

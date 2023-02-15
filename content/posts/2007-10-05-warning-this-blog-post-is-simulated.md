@@ -9,6 +9,7 @@ tags:
   - Quantum Reality
   - World of Warcraft
   - Philosophy
+  - Recommendations
 
 ---
 Lately I felt that I have been posting way too much on Technology or plain fun stuff, and not at all enough on Meaning of Life, as the sub-title of my blog implies. I have been contemplating for a while to break this trend, and today, the opportunity just screamed out at me while driving to work.

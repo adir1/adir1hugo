@@ -9,6 +9,8 @@ tags:
   - Consumerism
   - HDTV
   - Tivo
+  - Streaming Video
+  - Recommendations
 
 ---
 <p align="justify">

@@ -7,6 +7,7 @@ url: /2008/07/free-full-length-movies-on-hulu/
 tags:
   - Consumerism
   - Media
+  - Recommendations
 
 ---
 **UPDATE (Jun 2009):** Hulu.com took down most of these excellent movies, and replaced with (\*expletive censored\*). So I had to come up with [a new list of recommendations][1].

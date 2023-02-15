@@ -6,6 +6,7 @@ date: 2007-08-11T18:42:18+00:00
 url: /2007/08/one-week-anniversary-for-the-blog/
 tags:
   - Personal
+  - Recommendations
 
 ---
 First, I promise not to celebrate each week in the future 🙂 , but I think the first week was so thrilling that it&#8217;s worth writing about.

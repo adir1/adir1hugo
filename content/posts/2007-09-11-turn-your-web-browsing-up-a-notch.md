@@ -7,6 +7,7 @@ url: /2007/09/turn-your-web-browsing-up-a-notch/
 tags:
   - FireFox
   - Technology
+  - Recommendations
 
 ---
 <img style="border-right: 0px; border-top: 0px; margin: 0px 0px 0px 5px; border-left: 0px; border-bottom: 0px" height="154" alt="Firefox Tab Effect Addon" src="/uploads/2007/09/1.png?resize=204%2C154" width="204" align="right" border="0" data-recalc-dims="1" /> Short post today, since it&#8217;s very late.

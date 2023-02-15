@@ -7,7 +7,6 @@ url: /2009/02/microsoft-phone-micro-phone-or-soft-phone/
 tags:
   - Android
   - iPhone
-  - smartphone
   - Technology
 
 ---

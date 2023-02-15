@@ -8,6 +8,7 @@ tags:
   - Technology
   - Videos
   - World of Warcraft
+  - Recommendations
 
 ---
 <dl id="attachment_441" class="wp-caption alignright" style="width: 328px;">

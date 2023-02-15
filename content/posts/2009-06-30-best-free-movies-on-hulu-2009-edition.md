@@ -8,6 +8,7 @@ tags:
   - Entertainment
   - Hulu
   - Streaming Video
+  - Recommendations
 
 ---
 <p align="justify">

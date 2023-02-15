@@ -8,6 +8,7 @@ tags:
   - Consumerism
   - Google
   - Picasa
+  - Recommendations
 
 ---
 Hi, Happy Thanksgiving!
