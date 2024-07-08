@@ -3,7 +3,7 @@ title: Netflix Cancels Their Best Shows! Human psyche and the Lying Big Data
 description: Netflix cancels all their best shows, and how big
 author: Adi Rabinovich
 type: post
-heroStyle: "big"
+heroStyle: "basic"
 draft: false
 date: 2024-07-01T11:11:11+00:00
 url: /2024/netflix-best-shows/
@@ -37,8 +37,6 @@ A related phenomena I saw first hand is in Ad business - most Ads, even those cl
 Another interesting debate are movies/shows that are ending their licensing agreement - this means Netflix losing access to it. Somehow Netflix thought it is best to hide such important information. This is a bit like dirty laundry - you don't want your customers to be aware that they are about to lose access. On the other hand, they may be even more distraught to discover movie disappeared from their watchlist (or stayed on the list, but unwatchable - HULU?!?). Of course executives hope that people don't even notice that their movie is now gone, but in reality many end up upset at unexpected loss.
 I really wish they instead embrace the beautiful "Leaving soon, Watch Now!" warning - so favored by Tubi nowadays (to the point where shows leave just for the ratings boost, and then a bit later come back on the platform...)
 
-![Netflix Viewers In Pain](giant_n.png)
-
 ## Solution Ideas
 
 I don't claim to have all the answers, these are hard problems that will take time to solve. For starters it is important that we understand our limitations when making decisions based on data. Last thing Netflix wants is disgruntled consumers - some get so emotionally invested that they may swear-off Netflix from young age!
@@ -47,6 +45,8 @@ I don't claim to have all the answers, these are hard problems that will take ti
 3. Discovery is still a huge problem - find ways to show trailers even to non-Ads consumers. Offer bigger banners for new releases with some teasers. Be creative here - and ensure all analysis of popularity takes into account how "discoverable" and "promoted" this new content was in the first place! And why not have Netflix's own annual Awards show for original content - cheap enough to produce and viewers can quickly get a taste of "What's new and good" on the platform?
 4. People get invested into seeing stories to conclusion - this is both Useful for content producers and a possible trap. One solution for expensive productions is to make a single-story movie (perhaps with underlaying hints for a bigger "conspiracy"), and if successful make additional movies in the same Universe/Series.
 5. Consider the cost from the get-go - I am sure productions get green-light based on some sort of statitical analysis for how many subscribers like similar content and thus potential viewers. But how accurate is this - if director isn't the same, or actors differ, it can have huge impact on seemingly similar script. And what about Potential subscribers - surely Netflix needs to entice people who look at the catalog today and say "nothing interesting for me here"...
+
+![Netflix Viewers In Pain](giant_n.jpg)
 
 ## Some related links to explore
 
