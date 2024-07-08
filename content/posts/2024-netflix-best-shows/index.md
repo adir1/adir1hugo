@@ -18,7 +18,7 @@ tags:
 ---
 ## TLDR
 
-Netflix again cancelled several of our favorite shows, me and the family are Fuming! In this post I set out to explore Netflix decision process and show the myriad of major flaws in it. At the end I offer some solution ideas, because I like to improve things, not just complain about things.
+Netflix again cancelled several of our favorite shows, me and the family are Fuming! In this post I set out to explore Netflix decision process and explore potential flaws in it. At the end I offer some solution ideas, because I like to improve things, not just complain about things.
 
 ## Netflix CEO Lying (to himself)
 
