@@ -3,7 +3,8 @@ title: Netflix Cancels Their Best Shows! Human psyche and the Lying Big Data
 description: Netflix cancels all their best shows, and how big
 author: Adi Rabinovich
 type: post
-draft: true
+heroStyle: "big"
+draft: false
 date: 2024-07-01T11:11:11+00:00
 url: /2024/netflix-best-shows/
 tags:
@@ -36,6 +37,8 @@ A related phenomena I saw first hand is in Ad business - most Ads, even those cl
 Another interesting debate are movies/shows that are ending their licensing agreement - this means Netflix losing access to it. Somehow Netflix thought it is best to hide such important information. This is a bit like dirty laundry - you don't want your customers to be aware that they are about to lose access. On the other hand, they may be even more distraught to discover movie disappeared from their watchlist (or stayed on the list, but unwatchable - HULU?!?). Of course executives hope that people don't even notice that their movie is now gone, but in reality many end up upset at unexpected loss.
 I really wish they instead embrace the beautiful "Leaving soon, Watch Now!" warning - so favored by Tubi nowadays (to the point where shows leave just for the ratings boost, and then a bit later come back on the platform...)
 
+![Netflix Viewers In Pain](giant_n.png)
+
 ## Solution Ideas
 
 I don't claim to have all the answers, these are hard problems that will take time to solve. For starters it is important that we understand our limitations when making decisions based on data. Last thing Netflix wants is disgruntled consumers - some get so emotionally invested that they may swear-off Netflix from young age!
@@ -52,3 +55,7 @@ I don't claim to have all the answers, these are hard problems that will take ti
 - [Netflix push into video games](https://www.theverge.com/22772589/netflix-video-games-app-news-updates) - I plan to blog in the future on this Exciting effort
 - [How We Decide by Jonah Lehrer](https://www.amazon.com/How-We-Decide-Jonah-Lehrer/dp/0547247990?tag=craftonia-20)
 - [Predictably Irrational](https://www.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions/dp/0061353248?tag=craftonia-20) - Expanded edition of the classic
+
+{{< alert "image" >}}
+**Images By DALL-E 3 from Microsoft Bing**
+{{< /alert >}}

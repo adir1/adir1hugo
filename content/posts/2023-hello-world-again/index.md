@@ -18,7 +18,7 @@ I am Back!!! After unfathomably long hiatus - the World and I have changed much!
 {{< typeit tag=h3 lifeLike=true breakLines=true >}}
 Writing about Life, Technology and The Universe!
 {{< /typeit >}}
-As you notice, the site is vastly improved! I was eyeing [JamStack](https://jamstack.org/) for several years, but it is such a major departure from WordPress architecture, that I was hesitant. The process was every bit as painful as I thought, but it is Worth It! Initially I tried to use Gatsby, but I couldn't find theme to my liking. So I continued the search and ended up with Hugo, and amazing [Blowfish](https://nunocoracao.github.io/blowfish/) theme.
+As you notice, the site is vastly improved! I was eyeing [JamStack](https://jamstack.org/) for several years, but it is such a major departure from WordPress architecture that I was hesitant. The process was every bit as painful as I thought, but it is Worth It! Initially I tried to use Gatsby, but I couldn't find theme to my liking. So I continued the search and ended up with Hugo, and amazing [Blowfish](https://nunocoracao.github.io/blowfish/) theme.
 
 A quick recap of the years since the last post:
 
