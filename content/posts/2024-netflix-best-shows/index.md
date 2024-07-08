@@ -3,7 +3,7 @@ title: Netflix Cancels Their Best Shows! Human psyche and the Lying Big Data
 description: Netflix cancels all their best shows, and how big
 author: Adi Rabinovich
 type: post
-heroStyle: "basic"
+heroStyle: "background"
 draft: false
 date: 2024-07-01T11:11:11+00:00
 url: /2024/netflix-best-shows/
