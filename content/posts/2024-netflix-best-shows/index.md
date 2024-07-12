@@ -47,7 +47,7 @@ I don't claim to have all the answers, these are hard problems that will take ti
 4. People get invested into seeing stories to conclusion - this is both Useful for content producers and a possible trap. One solution for expensive productions is to make a single-story movie (perhaps with underlaying hints for a bigger "conspiracy"), and if successful make additional movies in the same Universe/Series.
 5. Consider the cost from the get-go - I am sure productions get green-light based on some sort of statitical analysis for how many subscribers like similar content and thus potential viewers. But how accurate is this - if director isn't the same, or actors differ, it can have huge impact on seemingly similar script. And what about Potential subscribers - surely Netflix needs to entice people who look at the catalog today and say "nothing interesting for me here"...
 
-![Netflix Viewers In Pain](giant_n.jpg)
+![Netflix Viewers In Pain](people_crying_for_netflix_cancellations.png)
 
 ## Some related links to explore
 
