@@ -1,6 +1,6 @@
 ---
-title: Netflix Cancels Their Best Shows! Human psyche and the Lying Big Data
-description: Netflix cancels all their best shows, and how big
+title: Netflix Cancels Their Best Shows! Is Big Data Lying?
+description: Netflix cancels their best shows, and how big data can mislead in complex scenarios
 author: Adi Rabinovich
 type: post
 heroStyle: "background"
