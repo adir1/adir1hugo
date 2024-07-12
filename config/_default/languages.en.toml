@@ -22,10 +22,10 @@ dateFormat = "2 January 2006"
   bio = "Writing about Tech, Life and The Universe!"
 #  bio = "Self-Proclaimed Human and Tech Guru"
   links = [
-   { mastodon = "https://infosec.exchange/@adir1" }, 
-   { twitter = "https://twitter.com/adir1" },
    { linkedin = "https://linkedin.com/in/adir1" },
    { github = "https://github.com/adir1" },
+   { mastodon = "https://infosec.exchange/@adir1" }, 
+   { twitter = "https://twitter.com/adir1" },
    { instagram = "https://instagram.com/adir1" },
    { dev = "https://dev.to/adir1" }
   ]
