@@ -25,7 +25,6 @@ dateFormat = "2 January 2006"
    { linkedin = "https://linkedin.com/in/adir1" },
    { github = "https://github.com/adir1" },
    { mastodon = "https://infosec.exchange/@adir1" }, 
-   { twitter = "https://twitter.com/adir1" },
    { instagram = "https://instagram.com/adir1" },
    { dev = "https://dev.to/adir1" }
   ]
@@ -33,6 +32,7 @@ dateFormat = "2 January 2006"
   # links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
+  #   { twitter = "https://twitter.com/adir1" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
   #   { blogger = "https://username.blogspot.com/" },

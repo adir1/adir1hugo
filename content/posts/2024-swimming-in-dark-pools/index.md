@@ -1,32 +1,33 @@
 ---
-title: Netflix Cancels Their Best Shows! Is Big Data Lying?
-description: Netflix cancels their best shows, and how big data can mislead in complex scenarios
+title: Swimming in the Dark Pools. Musings on the Morals of Algo Trading.
 author: Adi Rabinovich
 type: post
 heroStyle: "background"
 showTableOfContents: true
-draft: false
-date: 2024-07-01T11:11:11+00:00
-url: /2024/netflix-best-shows/
+draft: true
+date: 2024-07-11T11:11:11+00:00
+url: /2024/swimming-in-the-dark-pools-quants-ai-trading/
 tags:
-  - Netflix
-  - Streaming Video
-  - Big Data
-  - Neuroscience 
-  - Recommendations
-  - Tubi
+  - Markets
+  - Economics
+  - Quants
+  - AI
 
 ---
 ## TLDR
 
-Netflix again cancelled several of our favorite shows, me and the family are Fuming! In this post I explore what might be Netflix decision process, and try to identify potential flaws in it. At the end I offer some solution ideas, because I like to improve things, not just complain about things.
+I have been thinking about algorithmic trading for a number of years. I enjoy exploring how markets work, their correlation with human psyche, economic cycles, and companies hype/performance. I muse here a bit about Quants, Black Box algo-trading and even if one perfects profitable algorithm - is it even ethical?
 
-## Netflix CEO Lying (to himself)?
+## Introduction to Algorithmic Trading and Quants 
 
-In a recent Interview for Bloomberg, Netflix new co-CEOs made a bold statement that "[they never cancel a successful show](https://www.forbes.com/sites/paultassi/2023/01/24/netflix-says-it-has-never-cancelled-a-successful-show/)". This statement quickly catapulted to the top of the news by itself, simply because most of Netflix subscribers vehemently disagree with it! In our household this is a common occurrence as well - consoling and supporting each other as we hear the devastating news of yet another Netflix show cancellation.
+
+our household this is a common occurrence as well - consoling and supporting each other as we hear the devastating news of yet another Netflix show cancellation.
 Most recently my 10 year old had this experience for the first time also, as I had to let him know that his favorite Dead End: Paranormal Park got axed. There were a lot of tears and screams of "Why!?", so I set out to explore this further. Specifically, how can it be that Netflix, which is (arguably) at the forefront of Big Data Analytics and "Data Driven Decisions", can get this so wrong?
 
-## Big Data Is Hard
+## The young "Flash Crash Trader"
+
+
+https://www.bbc.com/news/explainers-51265169
 
 Statistical analysis is very easy to skew into "expected results". This is known as Confirmation Bias - often Data Analysts will unconciously (or even conciously) slice and aggregate their data to fit their theories. With Watching data I can see where it is infinetely harder, because people watch in so many different ways and patterns. Some bindge entire seasons, others watch episode or even part of an episode at a time - in sessions that may have days/weeks between them. Is it because show is uninteresting or because they have busy lives?
 Another huge factor is Exposure - Can't watch something you never heard about! When Netflix started producing their own content - their biggest issue became making consumers Aware that show/movie exists! They didn't yet have any venue for "coming soon", there were no Ads in their own content, to cross-promote. Really they had Nothing - yet they somehow expected consumers to all Jump on new Original Content and when they didn't - conclusion "Bad Content!". I loved Sense8 and The OA, but by the time I discovered that they exist - they were Long Cancelled!
@@ -47,6 +48,7 @@ I don't claim to have all the answers, these are hard problems that will take ti
 4. People get invested into seeing stories to conclusion - this is both Useful for content producers and a possible trap. One solution for expensive productions is to make a single-story movie (perhaps with underlaying hints for a bigger "conspiracy"), and if successful make additional movies in the same Universe/Series.
 5. Consider the cost from the get-go - I am sure productions get green-light based on some sort of statitical analysis for how many subscribers like similar content and thus potential viewers. But how accurate is this - if director isn't the same, or actors differ, it can have huge impact on seemingly similar script. And what about Potential subscribers - surely Netflix needs to entice people who look at the catalog today and say "nothing interesting for me here"...
 
+In a recent Interview for Bloomberg, Netflix new co-CEOs made a bold statement that "[they never cancel a successful show](https://www.forbes.com/sites/paultassi/2023/01/24/netflix-says-it-has-never-cancelled-a-successful-show/)". This statement quickly catapulted to the top of the news by itself, simply because most of Netflix subscribers vehemently disagree with it! In 
 ![Netflix Viewers In Pain](people_crying_for_netflix_cancellations.png)
 
 ## Some related links to explore
