@@ -21,20 +21,15 @@ I have been thinking about algorithmic trading for a number of years. I enjoy ex
 ## Introduction to Algorithmic Trading and Quants 
 
 
-our household this is a common occurrence as well - consoling and supporting each other as we hear the devastating news of yet another Netflix show cancellation.
-Most recently my 10 year old had this experience for the first time also, as I had to let him know that his favorite Dead End: Paranormal Park got axed. There were a lot of tears and screams of "Why!?", so I set out to explore this further. Specifically, how can it be that Netflix, which is (arguably) at the forefront of Big Data Analytics and "Data Driven Decisions", can get this so wrong?
+## Dark Pools - What are those?!
+
 
 ## The young "Flash Crash Trader"
 
 
 https://www.bbc.com/news/explainers-51265169
 
-Statistical analysis is very easy to skew into "expected results". This is known as Confirmation Bias - often Data Analysts will unconciously (or even conciously) slice and aggregate their data to fit their theories. With Watching data I can see where it is infinetely harder, because people watch in so many different ways and patterns. Some bindge entire seasons, others watch episode or even part of an episode at a time - in sessions that may have days/weeks between them. Is it because show is uninteresting or because they have busy lives?
-Another huge factor is Exposure - Can't watch something you never heard about! When Netflix started producing their own content - their biggest issue became making consumers Aware that show/movie exists! They didn't yet have any venue for "coming soon", there were no Ads in their own content, to cross-promote. Really they had Nothing - yet they somehow expected consumers to all Jump on new Original Content and when they didn't - conclusion "Bad Content!". I loved Sense8 and The OA, but by the time I discovered that they exist - they were Long Cancelled!
-A very large factor in distorted results is incomplete or inaccurate data collection. Are they correctly collecting viewership on all devices - what if it is casting from phone to SmartTV with some exotic OS? or Nest device with a screen? And what about the all too common situation where content keeps playing long after the viewer fell asleep?
-A related phenomena I saw first hand is in Ad business - most Ads, even those clicked on, are "false positives". Advertisers (on DSP) know that "exposure" data is flawed - if you start asking consumers who supposedly saw your Ads what do they remember - majority don't remember anything, not the product name nor the company name...
 
-## Leaving Soon - Watch Now!
 
 Another interesting debate are movies/shows that are ending their licensing agreement - this means Netflix losing access to it. Somehow Netflix thought it is best to hide such important information. This is a bit like dirty laundry - you don't want your customers to be aware that they are about to lose access. On the other hand, they may be even more distraught to discover movie disappeared from their watchlist (or stayed on the list, but unwatchable - HULU?!?). Of course executives hope that people don't even notice that their movie is now gone, but in reality many end up upset at unexpected loss.
 I really wish they instead embrace the beautiful "Leaving soon, Watch Now!" warning - so favored by Tubi nowadays (to the point where shows leave just for the ratings boost, and then a bit later come back on the platform...)
