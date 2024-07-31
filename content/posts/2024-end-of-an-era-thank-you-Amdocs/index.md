@@ -5,7 +5,7 @@ type: post
 heroStyle: "background"
 showTableOfContents: true
 draft: false
-date: 2024-07-30T11:11:11+00:00
+date: 2024-07-31T11:11:11+00:00
 url: /2024/thank_you_amdocs_for_amazing_30_years/
 tags:
   - Career
@@ -22,11 +22,11 @@ tags:
 
 ## Thank You
 
-WOW - I am truly at loss for words. Most posts just pour out of me, but this is the toughest one to write yet. 
-Over my 30 years in Amdocs I was blessed to meet so many wonderful and talented people - I will miss you all most of all!
+**WOW - I am truly at loss for words. Most posts just pour out of me, but this is the toughest one to write yet.**
+**Over my 30 years in Amdocs I was blessed to meet so many wonderful and talented people - I will miss you all most of all!**
 Throughout my career I was thrilled to see people from all over the world come together and create amazing things. And especially in the last 10 month - when there are forces focused on sparking division, when my identity is challenged, it is deeply reassuring to see people of such diverse backgrounds World-Wide continue to Love and Support each other!!! My faith in humanity is forever assured!
 So many feels (as youngsters say) - but most surprisingly, Guilt! I realize I am being a bit selfish in this departure from Amdocs. My love for the company runs deep, but I am comforted that there are many talented people who will carry on the torch and will deliver on all our promises! However my first and foremost love is for the amazing people of Amdocs, making my departure that much harder.
-Still I know our paths will cross again as we continue to uplift humanity through technological revolution!
+**Still I know our paths will cross again as we continue to uplift humanity through technological revolution!**
 
 ## Ab Initio
 
