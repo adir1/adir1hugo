@@ -1,5 +1,6 @@
 ---
 title: Swimming in the Dark Pools. Musings on the Morals of Algo Trading.
+description: Quant and Algorithmic trading concepts, black box and ethics, musings on morals and true usefulness of derivatives - not even mentioning Futures markets 
 author: Adi Rabinovich
 type: post
 heroStyle: "background"
@@ -12,11 +13,14 @@ tags:
   - Economics
   - Quants
   - AI
+  - Derivatives
+  - Options
 
 ---
 ## TLDR
 
 I have been thinking about algorithmic trading for a number of years. I enjoy exploring how markets work, their correlation with human psyche, economic cycles, and companies hype/performance. I muse here a bit about Quants, Black Box algo-trading and even if one perfects profitable algorithm - is it even ethical?
+Derivatives in general - are they useful after collapse of 2007/2008? And what about Futures? or Commodities trading?
 
 ## Introduction to Algorithmic Trading and Quants 
 
