@@ -31,3 +31,5 @@ Lies even from parents to children, lies to historians, political corruption, po
 Governance - Elections integrity, who can vote, how is it assured and secured
 Property trust chain, property ownership, creating value for society, moneyless society
 Medical trust, AI advice based, AI perscriptions?
+Freedom and Anarchy are linked
+SSN Leak of most people - this was expected
