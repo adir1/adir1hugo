@@ -30,4 +30,4 @@ AI Website to track facts - different points of view need exploring - many thing
 Lies even from parents to children, lies to historians, political corruption, power seeking, elections
 Governance - Elections integrity, who can vote, how is it assured and secured
 Property trust chain, property ownership, creating value for society, moneyless society
-
+Medical trust, AI advice based, AI perscriptions?
