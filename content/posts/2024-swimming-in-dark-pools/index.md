@@ -19,10 +19,11 @@ tags:
 ---
 ## TLDR
 
-I have been thinking about algorithmic trading for a number of years. I enjoy exploring how markets work, their correlation with human psyche, economic cycles, and companies hype/performance. I muse here a bit about Quants, Black Box algo-trading and even if one perfects profitable algorithm - is it even ethical?
-Derivatives in general - are they useful after collapse of 2007/2008? And what about Futures? or Commodities trading?
+I discovered the amazing world of algorithmic trading probably about 10 years ago. I was already enjoying the exploration of market dynamics, their correlation with human psyche, economic cycles, and companies hype/performance. This post is my musings about Quants, Black Box algo-trading and even if one perfects a profitable algorithm - is it even ethical? No prior Quant expertise required to participate, but basic stock market understanding is a plus!
 
 ## Introduction to Algorithmic Trading and Quants 
+
+
 
 
 ## Dark Pools - What are those?!
@@ -31,16 +32,16 @@ Derivatives in general - are they useful after collapse of 2007/2008? And what a
 ## The young "Flash Crash Trader"
 
 
+## Notes
+Derivatives in general - are they useful after collapse of 2007/2008? And what about Futures? or Commodities trading?
+
 https://www.bbc.com/news/explainers-51265169
 
 
-
-Another interesting debate are movies/shows that are ending their licensing agreement - this means Netflix losing access to it. Somehow Netflix thought it is best to hide such important information. This is a bit like dirty laundry - you don't want your customers to be aware that they are about to lose access. On the other hand, they may be even more distraught to discover movie disappeared from their watchlist (or stayed on the list, but unwatchable - HULU?!?). Of course executives hope that people don't even notice that their movie is now gone, but in reality many end up upset at unexpected loss.
-I really wish they instead embrace the beautiful "Leaving soon, Watch Now!" warning - so favored by Tubi nowadays (to the point where shows leave just for the ratings boost, and then a bit later come back on the platform...)
-
-## Solution Ideas
+## OLD SAMPLE
 
 I don't claim to have all the answers, these are hard problems that will take time to solve. For starters it is important that we understand our limitations when making decisions based on data. Last thing Netflix wants is disgruntled consumers - some get so emotionally invested that they may swear-off Netflix from young age!
+
 1. Focus on continuously improving data collection, with real-world testing to confirm accuracy. All analysis is only as good as the input data it gets!
 2. Don't be afraid of creative approaches to confirm assumptions. Actually ask in the app - would you like to remove this show from Continue Watching because you didn't like it?
 3. Discovery is still a huge problem - find ways to show trailers even to non-Ads consumers. Offer bigger banners for new releases with some teasers. Be creative here - and ensure all analysis of popularity takes into account how "discoverable" and "promoted" this new content was in the first place! And why not have Netflix's own annual Awards show for original content - cheap enough to produce and viewers can quickly get a taste of "What's new and good" on the platform?
