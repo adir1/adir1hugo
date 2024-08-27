@@ -21,7 +21,8 @@ tags:
 
 I discovered the amazing world of algorithmic trading probably about 10 years ago. I was already enjoying the exploration of market dynamics, their correlation with human psyche, economic cycles, and companies hype/performance. This post is my musings about Quants, Black Box algo-trading and even if one perfects a profitable algorithm - is it even ethical? No prior Quant expertise required to participate, but basic stock market understanding is a plus!
 
-## Introduction to Algorithmic Trading and Quants 
+## Introduction to Algorithmic Trading and Quants
+
 
 
 
