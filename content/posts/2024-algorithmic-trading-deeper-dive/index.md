@@ -1,6 +1,6 @@
 ---
 title: Algorithmic Trading - Deeper technical dive for Dark Pool swimmers.
-description: Quant and Algorithmic trading concepts, black box and ethics, musings on morals and true usefulness of derivatives - not even mentioning Futures markets 
+description: Deeper dive into Quants, Algorithmic trading concepts and more. Exploring prediction models, financial crash, Black Swan book, Options and more. 
 author: Adi Rabinovich
 type: post
 heroStyle: "background"
@@ -40,7 +40,9 @@ This topic is huge, technical charting is super popular and not fully automated 
 
 
 ## Notes
+
 Derivatives in general - are they useful after collapse of 2007/2008? And what about Futures? or Commodities trading?
+Black Swan book mention
 
 https://www.bbc.com/news/explainers-51265169
 
