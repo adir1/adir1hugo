@@ -1,5 +1,5 @@
 ---
-title: Swimming in the Dark Pools. Musings on the Morals of Algo Trading.
+title: Algorithmic Trading - Deeper technical dive for Dark Pool swimmers.
 description: Quant and Algorithmic trading concepts, black box and ethics, musings on morals and true usefulness of derivatives - not even mentioning Futures markets 
 author: Adi Rabinovich
 type: post
@@ -7,7 +7,7 @@ heroStyle: "background"
 showTableOfContents: true
 draft: true
 date: 2024-07-11T11:11:11+00:00
-url: /2024/swimming-in-the-dark-pools-quants-ai-trading/
+url: /2024/algorithmic-trading-deeper-dive/
 tags:
   - Markets
   - Economics
@@ -19,18 +19,16 @@ tags:
 ---
 ## TLDR
 
-I discovered the amazing world of algorithmic trading probably about 10 years ago. I was already enjoying the exploration of market dynamics, their correlation with human psyche, economic cycles, and companies hype/performance. This post is my musings about Quants, Black Box algo-trading and even if one perfects a profitable algorithm - is it even ethical? No prior Quant expertise required to participate, but basic stock market understanding is a plus!
+This is deeper dive - if you need introduction to the topic, [check out first post in this series](/2024/swimming-in-the-dark-pools-quants-ai-trading/).
 
-## Introduction to Algorithmic Trading and Quants
+## Technical Analysis - Gaps, Tea-Cups, The Whole Darn Party!
 
-Recommend the Udemy class I like: [Python for Financial Analysis and Algorithmic Trading](https://www.udemy.com/share/101XQ23@mNHHN4xc2oyh4hhICKUa5YbsjY6WhCFkBZ4ZLVHxpi7IkMiB4HgFjeE3BzlH_jM=/)
+## Artificial Intelligence Knows All (Digital Twins Syndrome)
 
+Monitoring endless inputs is expensive. And how good are our digital twins now? The concept popularized by nVidia but explored under many names much earlier, by our entire industry (research more on the origin of 'digital twin' expression)
 
+And a lot of it depends on our goals - is it Dividend, is it Growth, how much growth/dividend?
 
-## Dark Pools - What are those?!
-
-
-## The young "Flash Crash Trader"
 
 ## Ethics of *Market Liquidity*
 
