@@ -6,7 +6,7 @@ type: post
 heroStyle: "background"
 showTableOfContents: true
 draft: true
-date: 2024-07-11T11:11:11+00:00
+date: 2024-08-11T11:11:11+00:00
 url: /2024/swimming-in-the-dark-pools-quants-ai-trading/
 tags:
   - Markets
@@ -37,6 +37,7 @@ I discovered the amazing world of algorithmic trading probably about 10 years ag
 Derivatives in general - are they useful after collapse of 2007/2008? And what about Futures? or Commodities trading?
 
 https://www.bbc.com/news/explainers-51265169
+https://trade.collective2.com/
 
 
 ## OLD SAMPLE

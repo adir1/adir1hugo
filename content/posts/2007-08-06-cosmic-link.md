@@ -11,4 +11,4 @@ tags:
 ---
 Right **after** I spent my whole weekend pondering the question of which Platform to use for this very blog, <a href="http://www.mashable.com" target="_blank">Mashable</a> comes up with a neat <a href="http://mashable.com/2007/08/06/free-blog-hosts/" target="_blank">post</a> about all kinds of Host options for your Blog.
 
-I see this as yet another proof that we are all cosmically linked some how, there were so many weekends and days this year that they could have posted it, right?
+I see this as yet another proof that we are all cosmically linked somehow, there were so many weekends and days this year that they could have posted it, right?
