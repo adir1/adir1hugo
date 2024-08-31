@@ -56,6 +56,7 @@ tags:
 - Offline caching of images, data, etc - self guiding (based on frequency of modification) and fluid cache/no-cache behavior. Sync to Offline built-in, generally sync is important - there should be screens and ways of seeing it and solving it.
 - Real-time auto-generating UI Forms or Sheets - including graphs, charts and more - AI generated when needed, since all data available
 - VERSIONING At the heart, including data
+- Data Lineage built-in, tracking transformations and visualization should also be possible
 - Code Build, Orchestration, all La-Natural - File system tracks what has been build, generally builds are automatic and configurable post certain timed delay.
 
 
