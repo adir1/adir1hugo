@@ -1,51 +1,40 @@
 ---
-title: Swimming in the Dark Pools. Musings on the Morals of Algo Trading.
-description: Quant and Algorithmic trading concepts, black box and ethics, musings on morals and true usefulness of derivatives - not even mentioning Futures markets 
+title: Public Cloud - A Huge Leap Forward (or is it?)
+description: Public Cloud Ease of Use has been completely neglected and continues to get worse. We had such tremendous evolution of hosting tools over the years, with cPanel and more. And now cloud dashboards are overly complex instead.
 author: Adi Rabinovich
 type: post
 heroStyle: "background"
 showTableOfContents: true
 draft: true
-date: 2024-08-11T11:11:11+00:00
-url: /2024/swimming-in-the-dark-pools-quants-ai-trading/
+date: 2024-09-01T11:11:11+00:00
+url: /2024/2024-public-cloud-ease-of-use/
 tags:
-  - Markets
-  - Economics
-  - Quants
-  - AI
-  - Derivatives
-  - Options
+  - Cloud
+  - Hosting
+  - Development
+  - Evolution
+  - AWS
+  - GCP
+  - Azure
 
 ---
 ## TLDR
 
-I discovered the amazing world of algorithmic trading probably about 10 years ago. I was already enjoying the exploration of market dynamics, their correlation with human psyche, economic cycles, and companies hype/performance. This post is my musings about Quants, Black Box algo-trading and even if one perfects a profitable algorithm - is it even ethical? No prior Quant expertise required to participate, but basic stock market understanding is a plus!
+Somehow we went backwards over the recent years with endless complexity of public cloud dashboards. Obviously public clouds are in direct competition and don't want you to be able to easily switch providers, but this way everybody loses! GCP was the first to try radical new ideas with GAE, but sadly that backfired because devs like the comforting and familiar. Today most clouds are VMs and Containers, but where is the standard? Where is the ease of use? Where is the marketplace?
 
 ## Introduction to Algorithmic Trading and Quants
 
-Recommend the Udemy class I like: [Python for Financial Analysis and Algorithmic Trading](https://www.udemy.com/share/101XQ23@mNHHN4xc2oyh4hhICKUa5YbsjY6WhCFkBZ4ZLVHxpi7IkMiB4HgFjeE3BzlH_jM=/)
-
-
-
-## Dark Pools - What are those?!
-
-
-## The young "Flash Crash Trader"
-
-## Ethics of *Market Liquidity*
-
-When sh*t hits the fan, all automated systems stop buying also... So where is the liquidity?
-
-## KISS Principle (Keep it Simple _Silly_)
-
-This topic is huge, technical charting is super popular and not fully automated as far as I know. AI analysis of many sources. More Advanced post is coming - to dive deeper into those issues for those interested.
-
 
 ## Notes
-Derivatives in general - are they useful after collapse of 2007/2008? And what about Futures? or Commodities trading?
+Focus on how we abandoned simplicity - we should have powerful features available, but hidden behind more advanced options. More wizards and screens for simple scenarios.
+Market deployment should be more powerful - provisioning wise and explaining costs
+Backup, scaling, security and networking are probably biggest complicating factors - especially that de-facto cloud assumes not to know anything about your existing resources and account
+Review and mention: Terraform, OpenTofu, Pulumi, AWS CloudFormation, Ansible, Crossplane, Firefly.IO, Spacelift, Fly.io
+Tease that something coming from my own ideas on this!
 
-https://www.bbc.com/news/explainers-51265169
-https://trade.collective2.com/
+https://www.cloudpanel.io/blog/hosting-panels/
+https://spacelift.io/blog/terraform-alternatives
+
 
 
 ## OLD SAMPLE
