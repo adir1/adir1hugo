@@ -23,8 +23,6 @@ I discovered the amazing world of algorithmic trading probably about 10 years ag
 
 ## Introduction to Algorithmic Trading and Quants
 
-Recommend the Udemy class I like: [Python for Financial Analysis and Algorithmic Trading](https://www.udemy.com/share/101XQ23@mNHHN4xc2oyh4hhICKUa5YbsjY6WhCFkBZ4ZLVHxpi7IkMiB4HgFjeE3BzlH_jM=/)
-
 
 
 ## Dark Pools - What are those?!

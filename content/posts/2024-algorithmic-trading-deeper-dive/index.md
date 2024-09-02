@@ -23,6 +23,8 @@ This is deeper dive - if you need introduction to the topic, [check out first po
 
 ## Technical Analysis - Gaps, Tea-Cups, The Whole Darn Party!
 
+Recommend the Udemy class I like: [Python for Financial Analysis and Algorithmic Trading](https://www.udemy.com/share/101XQ23@mNHHN4xc2oyh4hhICKUa5YbsjY6WhCFkBZ4ZLVHxpi7IkMiB4HgFjeE3BzlH_jM=/)
+
 ## Artificial Intelligence Knows All (Digital Twins Syndrome)
 
 Monitoring endless inputs is expensive. And how good are our digital twins now? The concept popularized by nVidia but explored under many names much earlier, by our entire industry (research more on the origin of 'digital twin' expression)
