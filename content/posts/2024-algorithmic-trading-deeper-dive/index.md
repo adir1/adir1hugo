@@ -46,7 +46,9 @@ This topic is huge, technical charting is super popular and not fully automated 
 Derivatives in general - are they useful after collapse of 2007/2008? And what about Futures? or Commodities trading?
 Black Swan book mention
 
-https://www.bbc.com/news/explainers-51265169
+https://trade.collective2.com/
+https://en.wikipedia.org/wiki/Quantitative_analysis_(finance)
+https://medium.com/@chaingpt/understanding-chart-patterns-a-guide-to-technical-analysis-with-chaingpt-ai-trading-assistant-05d40d83f7fd
 
 
 ## OLD SAMPLE
