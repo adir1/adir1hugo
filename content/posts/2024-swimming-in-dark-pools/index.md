@@ -5,8 +5,8 @@ author: Adi Rabinovich
 type: post
 heroStyle: "background"
 showTableOfContents: true
-draft: true
-date: 2024-08-11T11:11:11+00:00
+draft: false
+date: 2024-09-03T11:11:11+00:00
 url: /2024/swimming-in-the-dark-pools-quants-ai-trading/
 tags:
   - Markets
@@ -29,7 +29,7 @@ The Math Wizards use statistical analysis of a lot of Past data, to try and pred
 
 So what do they do with all that data? They try to keep their algorithms a secret, but at the core it is a lot of Machine Learning, Reinforced Learning, Decision Trees and even Deep Neural Nets with [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation). Arguably this is actually one of the Easier use-cases - as you have Very specific goal, Maximize Profits, whereas generalized LLMs often operate in murky opinion-based world (especially now in our [post-truth society](https://en.wikipedia.org/wiki/Post-truth)).
 
-## Dark Pools - What are those?!
+## Dark Pools - What are those?
 
 So where are the promised Dark-Pools you ask? I would argue that is a renegade semi-legal branch of algo-trading. It is utilizing Level-2 quotes data to look at Live market orders and predict the sentiment for specific stock or market overall. The idea is pretty basic - if there are a lot of sell orders, and fewer buy orders - clearly stock is bound to go lower in the short-term, and vice-versa. This is usually only useful for high-speed trading, also known as day-trading, but clearly whoever has the fastest computer (and market connection), should be able to "predict" the short-term price swing and trade fast enough to take advantage of that.
 
@@ -43,28 +43,29 @@ While market system implemented *some* [Market circuit-breakers](https://www.inv
 
 So why let machines trade stocks independently at all? Well, besides the fact it is realistically impossible to block, many argue it gives human traders certain liquidity.
 
-My thesis here is that this is a false promise - most of the automated systems have endless amount of rules and safeguards, and often in a situation of real "run-on-market" they step back and refuse to counter-trade also! In other words - if average Joe decides they don't like "company X" any more and want to sell their shares ASAP, most likely a LOT of other people decided the same thing and automated systems detected this "avalanche" and "thinking": let's see how low it goes before we consider buying again!
+My thesis here is that this is a false promise - most of the automated systems have endless amount of rules and safeguards, and often in a situation of real "run-on-market" they step back and refuse to counter-trade also! In other words - if an average Joe decides they don't like "company X" any more and want to sell their shares ASAP, most likely a LOT of other people decided the same thing and automated systems detected this "avalanche" and would decide: let's see how low it goes before considering buying again!
 
 ## The young "Flash Crash Trader"
 
 An interesting sidebar is a story of a brilliant young trader in England who noticed how several automated systems react to a particular Limit Order (order visible on the Markets L2 order book, but not yet executed). Many systems interpreted it as a certain Sentiment and were triggered to Buy/Sell ahead of it - while in fact the trader was "bluffing", and kept adjusting or cancelling his order shortly thereafter. [Here is the writeup from BBC](https://www.bbc.com/news/explainers-51265169) about him.
 
-## AI or KISS (Keep it Simple _Silly_)?
+## AI or KISS (Keep it Simple *Silly*)?
 
 So how does our enormous leap forward in AI affect these automated systems? Should we rush to regulate them before all our pensions are demolished by another "[Flash-Crash Trader Wiz Kid](https://www.bbc.com/news/explainers-51265169)"?
 
+My sense is that AI ultimately operates as our tool, as a sort of "faster assistant" for what human would have most likely done anyhow. In fact all the Quant funds have been revising their AI over the years, albeit sometimes after the trades, as a sort of HITL (Human-In-The-Loop) before the acronym gained popularity! A lot of market looks like self-fulfilling prophecies, especially around Technical Analysis patterns, which I also believe is a result of both human emotion actions and AI trained to recognize it amplify it via built-in expectations.
 
+This topic is huge, so I'll relent for now - below is some further reading, if you are interested. I also promise a post with a deeper dive into algorithmic trading in the future. 
 
-This topic is huge, technical charting is super popular and not fully automated as far as I know. AI analysis of many sources. More Advanced post is coming - to dive deeper into those issues for those interested.
+Meanwhile, I recommend you Buy and Hold companies you personally like in your day-to-day - arguably the easiest and the best strategy over the long term!
 
+## Some further reading to explore
 
-## Some related links to explore
+- [What is Technical Analysis](https://www.investopedia.com/terms/t/technicalanalysis.asp)
+- [Quant Funds that beat the stock market](https://medium.com/@siddharth.bhaisora/best-quant-funds-that-beat-the-stock-market-1597ca160df5)
+- [A Random Walk Down Wall Street](https://www.amazon.com/Random-Walk-Down-Wall-Street-ebook/dp/B0B3G6FVT5/)
 
-- [Netflix Shows Cancelled in 2022](https://variety.com/lists/netflix-shows-canceled-2022/)
-- [Interview with Netflix new Co-CEOs - a window into their thinking](https://www.bloomberg.com/news/newsletters/2023-01-21/netflix-ceo-reed-hastings-steps-down-interview-with-greg-peters-ted-sarandos)
-- [Netflix push into video games](https://www.theverge.com/22772589/netflix-video-games-app-news-updates) - I plan to blog in the future on this Exciting effort
-- [How We Decide by Jonah Lehrer](https://www.amazon.com/How-We-Decide-Jonah-Lehrer/dp/0547247990?tag=craftonia-20)
-- [Predictably Irrational](https://www.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions/dp/0061353248?tag=craftonia-20) - Expanded edition of the classic
+![AI Robots trading on NYSE](multiple_AI_bots_NYSE_trading.png "AI Robots trading with each other on NYSE")
 
 {{< alert "image" >}}
 **Images By DALL-E 3 from Microsoft Designer**

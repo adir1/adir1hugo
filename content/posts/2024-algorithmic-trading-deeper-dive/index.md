@@ -46,9 +46,14 @@ This topic is huge, technical charting is super popular and not fully automated 
 Derivatives in general - are they useful after collapse of 2007/2008? And what about Futures? or Commodities trading?
 Black Swan book mention
 
+Ultimately Market itself is a tool, and AI is another tool, both used by our civilization to help us. They are very relevant, and arguably very important - if done correctly, open markets help ensure we allocate resources correctly for better tomorrows. What we were missing for too long is corresponding mechanism for environmental impact of our preferences. With the rise of ESG investing, hopefully it can send the strongest message to companies on what should be obvious - we like our green planet and we don't want it harmed!
+
+
 https://trade.collective2.com/
 https://en.wikipedia.org/wiki/Quantitative_analysis_(finance)
 https://medium.com/@chaingpt/understanding-chart-patterns-a-guide-to-technical-analysis-with-chaingpt-ai-trading-assistant-05d40d83f7fd
+
+
 
 
 ## OLD SAMPLE
