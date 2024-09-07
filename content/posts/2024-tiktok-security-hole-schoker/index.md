@@ -36,7 +36,7 @@ Some more details on this common vulnerability - their login API (/send_code) di
 
 The sad reality is that most email accounts quickly get found out via all kinds of hacks and leaks, and end up on dark-web for sale mostly to spammers and hackers. Interestingly there was a challenge attempted by TikTok initially - showing puzzles to verify if I am human. However simply cancelling the puzzle few times convinced them somehow not to show it any more.
 
-It is also very possible that there is rate limiter setup in front of the API - however this also offers limited protection as slower rate of requests may not trigger it, and attack by randomizing source IP should also confuse it.  
+It is also very possible that there is a rate limiter setup in front of the API - however this also offers limited protection as slower rate of requests may not trigger it, and attack by randomizing source IP also likely to confuse it.  
 
 ## Recent related Squarespace hack
 
