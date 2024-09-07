@@ -1,11 +1,11 @@
 ---
-title: The (prison) state of social
+title: The (prison) state of social (media)
 author: Adi R
 type: post
 date: 2011-10-02T02:30:02+00:00
 url: /2011/10/the-prison-state-of-social/
 tags:
-  - Social
+  - Social Media
 
 ---
 <p align="justify">
