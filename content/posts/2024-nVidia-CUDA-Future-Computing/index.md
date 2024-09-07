@@ -13,7 +13,7 @@ tags:
   - CUDA
   - GPU
   - AI
-  - Open-Source
+  - Open Source
   - Python
 
 ---

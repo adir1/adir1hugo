@@ -10,7 +10,7 @@ date: 2024-09-01T11:11:11+00:00
 url: /2024/introducing-merka-cloud/
 tags:
   - Personal
-  - Open-Source
+  - Open Source
   - Cloud
   - Infrastructure
   - IaC

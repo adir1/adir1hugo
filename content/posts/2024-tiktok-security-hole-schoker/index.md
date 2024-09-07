@@ -22,7 +22,7 @@ Today we noticed that TikTok website is leaking registered emails. Considering T
 
 Some more details on this common vulnerability - their login API (/send_code) discloses whether email is registered in their system or not. So just brute force generation of random emails could reveal valid emails that otherwise may not have been leaked yet from previous hacks. Sample response:
 
-'''json
+'''
 {
     "data": {
         "captcha": "",
