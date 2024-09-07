@@ -22,7 +22,7 @@ Today we noticed that TikTok website is leaking registered emails. Considering T
 
 Some more details on this common vulnerability - their login API (/send_code) discloses whether email is registered in their system or not. So just brute force generation of random emails could reveal valid emails that otherwise may not have been leaked yet from previous hacks. Sample response:
 
-'''
+```json
 {
     "data": {
         "captcha": "",
@@ -32,7 +32,7 @@ Some more details on this common vulnerability - their login API (/send_code) di
     },
     "message": "error"
 }
-'''
+```
 
 The sad reality is that most email accounts quickly get found out via all kinds of hacks and leaks, and end up on dark-web for sale mostly to spammers and hackers. Interestingly there was a challenge attempted by TikTok initially - showing puzzles to verify if I am human. However simply cancelling the puzzle few times convinced them somehow not to show it any more.
 
