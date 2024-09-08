@@ -1,6 +1,6 @@
 ---
 title: Netflix Cancels Their Best Shows! Is Big Data Lying?
-description: Netflix cancels their best shows, and how big data can mislead in complex scenarios
+description: Netflix cancels their best shows without waiting for them to gain traction and fans, and how probably this is due to big data analysis flaws, and perhaps limited use of AI
 author: Adi Rabinovich
 type: post
 heroStyle: "background"
@@ -12,9 +12,9 @@ tags:
   - Netflix
   - Streaming Video
   - Big Data
+  - AI
   - Neuroscience 
   - Recommendations
-  - Tubi
 
 ---
 ## TLDR
