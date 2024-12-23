@@ -6,7 +6,7 @@ type: post
 heroStyle: "background"
 showTableOfContents: true
 draft: false
-date: 2024-12-24T11:11:11+00:00
+date: 2024-12-22T01:11:11+00:00
 url: /2024/search-transformation-in-AI-age
 tags:
   - AI
