@@ -9,8 +9,8 @@ draft: false
 date: 2024-12-24T11:11:11+00:00
 url: /2024/search-transformation-in-AI-age
 tags:
+  - AI
   - Innovation
-  - Artificial Intelligence
   - Google
   - Microsoft
   - Perplexity
@@ -18,7 +18,6 @@ tags:
   - Anthropic
   - RAG
   - RIG
-  - AI Age
   - LLM
 
 ---
