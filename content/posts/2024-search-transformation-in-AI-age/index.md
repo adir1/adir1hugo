@@ -1,5 +1,5 @@
 ---
-title: Search transformation into AI Agents - Today (2024) and Tomorrow (2025+)
+title: Search Transformation Into AI Agents - Today (2024) and Tomorrow (2025+)
 description: Adi Rabinovich musings on state of the search, including Google, Perplexity, OpenAI, Claude and more
 author: Adi Rabinovich
 type: post
