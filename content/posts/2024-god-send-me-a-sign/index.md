@@ -1,6 +1,6 @@
 ---
 title: I need to see the Sign - destroy that truck!
-description: We must realize that everyone experience is unique on this earth, and must respect and accomodate them as much as possible
+description: We must realize that everyone experience is unique on this earth, and must respect and accommodate them as much as possible
 author: Adi Rabinovich
 type: post
 heroStyle: "background"
