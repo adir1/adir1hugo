@@ -5,7 +5,7 @@ author: Adi Rabinovich
 type: post
 heroStyle: "background"
 showTableOfContents: true
-draft: false
+draft: true
 date: 2024-09-11T11:11:11+00:00
 url: /2024/god-send-me-a-sign/
 tags:
