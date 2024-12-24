@@ -6,7 +6,7 @@ type: post
 heroStyle: "background"
 showTableOfContents: true
 draft: false
-date: 2024-12-22T01:11:11+00:00
+date: 2024-12-24T01:11:11+00:00
 url: /2024/search-transformation-in-AI-age
 tags:
   - AI
@@ -39,7 +39,7 @@ Although Google made most significant AI investments over the last 15+ years, th
 
 It is important to understand that LLMs are modeled after human-brain, and as such - they exhibit similar limitations best described by Kahneman in [Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow). In other words - LLM has access to "basic facts" about our world, but no access to detailed, real-time, numerical and a lot of other Data about the NOW.
 
-This is where [RAG](https://cloud.google.com/use-cases/retrieval-augmented-generation?hl=en) and [RIG](https://blog.google/technology/ai/google-datagemma-ai-llm/) come in, but even more so, advanced AI agent should be able to dynamically activate ANY external API! In other words - combination of Core Intelligence with Access to World's (Real-Time) Information opens up the most exciting possibilities.
+This is where [RAG](https://cloud.google.com/use-cases/retrieval-augmented-generation?hl=en) and [RIG](https://blog.google/technology/ai/google-datagemma-ai-llm/) come in, but even more so, an advanced AI agent should be able to dynamically activate ANY external API. In other words - combination of Core Intelligence with Access to World's (Real-Time) Information opens up the most exciting possibilities!
 
 Real World Example: You will be able to ask Google AI to "Schedule an appointment with Best Local Children's Eye doctor that takes our insurance and has earliest available appointment!". AI Agent will be able to understand the natural language request, and then access Local Doctors, their ratings, specialties, insurance acceptance And eventually schedule via real-time Appointments API! What I am arguing is that No Other Company is closer to being able to access/obtain so much information about our "Real-World" except Google. Many others can try to implement something similar, but even so will remain at the mercy of [Google APIs speed/cost](https://www.forbes.com/sites/barrycollins/2023/06/01/death-by-api-reddit-joins-twitter-in-pricing-out-apps/).
 
@@ -80,3 +80,7 @@ As I was writing this - [OpenAI announced groundbreaking scores on ARC-AGI-1 set
 - [Anthropic - Building Effective Agents](https://www.anthropic.com/research/building-effective-agents)
 - Alas - we didn't talk about [Hallucinations](https://cloud.google.com/discover/what-are-ai-hallucinations?hl=en) Here! 
 - [OpenAI - Learning to Reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/)
+
+## I just Love the Lead AI Art on this Post - Click to Zoom
+
+ ![Opening the Book Of Wonders](./featured_fantasy-holographic-pop-up-book.webp)
