@@ -6,7 +6,7 @@ type: post
 heroStyle: "background"
 showTableOfContents: true
 draft: true
-date: 2025-02-22T11:11:11+00:00
+date: 2025-02-25T11:11:11+00:00
 url: /2025/human-developers-edge-over-ai/
 tags:
   - AI
@@ -17,13 +17,16 @@ tags:
 
 ## Overview (aka: TLDR)
 
-As a continuation of my Programming Revolution series, today bring you one Major area where Humans Developers can Outsmart the AI. Though, I can still see where this can be very much a collaborative effort due to AI's ability to analyze vast amount of data and find common concepts and ideas.
+As a continuation of my [Programming Revolution](/2025/the-next-programming-revolution/) series, today I bring you one Major area where Humans Developers can Outsmart the AI. Though, I can still see where this can be very much a collaborative effort due to AI's ability to analyze vast amount of data and find common concepts and ideas.
 
 ## Abstraction and Configuration
 
 Everything is a tradeoff in elapsed-time vs cost, consistency/accuracy of throughput and ultimately availability also. Real-time versus background processing is where we can start our analysis.
 People also underestimate importance of edge computing, and privacy + offline compute implications.
 
+## It Is Not My Department
+
+More often than not - developers stay focused on galloping ahead, either not bothering to replace obsolete lego blocks or asking someone else to "allocate time" to do so. Even within the same organization there are often separation of responsibilities in an effort to more efficiently utilize resources. It is one thing to have security department analyze company code once it is ready, or QA team to test the deliverables, it is quite another to potentially block development completely because relevant "department" responsible for API is unresponsive. Sadly as a result companies often end up with kludge workarounds in such cases, further reducing the quality and maintainability of the code.
 
 ## Technical Debt
 
