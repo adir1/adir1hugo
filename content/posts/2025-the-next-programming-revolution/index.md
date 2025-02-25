@@ -35,7 +35,7 @@ The CPU has [protection rings](https://en.wikipedia.org/wiki/Protection_ring) - 
 
 ## Software Composition
 
-With the advent of public cloud we rushed to package our Apps into consistent executable containers or virtual-machines. While virtualization gives us extra flexibility to run large variety of software applications, it usually executes slower, and can often can introduce translation layer in cases where our simulated "machine" is not 100% compatible with the actual hardware.
+As we rushed to package our Apps for distribution onto Phones and Clouds, one straight forward approach was to use virtual machines. And while virtualization does give us the flexibility to run large variety of software applications, it usually executes slower, and can often require a translation layer to adjust our simulated "machine" to the actual hardware.
 
 The next revolution brought us containers, cheered for many benefits - from consistent dependencies management, to portability, isolation and even some security. Still Linux C-Groups, the leading mechanism for management of container resources during execution, introduces additional complexity and overheads (loading duplicate libraries into memory and more).
 
@@ -43,13 +43,13 @@ Today most developers see themselves as Lego block builders - figuring out which
 
 ## Containerized Oil Tanker
 
-Anther interesting approach to analyze this is an Oil Tanker! Lets say we need to transport oil from location to location. The fewer large "containers" we have, the more oil we can fit and the fewer heavy Metal walls/containers we will require. However there are some significant downsides - what if there is some damage to a wall, only single container will spill in such case, rather than entire oil? Or what if we need to move multiple different types of oil?
+One interesting way of looking at the problem is as a large Oil Tanker! Lets say we need to transport oil from one location to another. The fewer large "containers" we use on our ship, the more oil we can fit and the fewer heavy metal walls/containers we will require. However there are some significant downsides - for example in case of a damage to a wall only single container will spill out, rather than entire ship. Or what if we need to move multiple different types of oil?
 
 ## Walk the Talk
 
-What I realize is that our journey is more about where we started - with large servers and data centers helping companies large and small organize world's information. As we move into public cloud solutions (aka: Hyperscaler data-centers), we are exploring the best organizational solutions to maximize compute and storage resource utilization.
+What I realize is that our journey is more about where we started - with large servers and data centers helping companies organize world's information. Then we realized that there are large benefits in sharing the data-centers between companies, and leaving their operation to the experts. Yet as we move to this public cloud infrastructure (aka: Hyperscaler data-centers), we are still exploring the best organizational approach that balances speed, cost and security.
 
-My sense is that we are yet to figure the "Optimal" end state, perhaps then we can prepare a more solid strategy of how to get from "here" to "there". Meanwhile I say lets enjoy this exploration of combination space together!
+My sense is that we are yet to figure out the "Optimal" end state, perhaps then we can prepare a more solid strategy of how to get from "here" to "there". Meanwhile I say lets enjoy this exploration of combination-space together!
 
 ## Some further reading to explore
 
