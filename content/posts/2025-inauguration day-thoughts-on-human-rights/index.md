@@ -5,7 +5,7 @@ author: Adi Rabinovich
 type: post
 heroStyle: "background"
 showTableOfContents: true
-draft: false
+draft: true
 date: 2025-01-20T11:11:11+00:00
 url: /2025/inauguration-day-thoughts-on-human-rights/
 tags:

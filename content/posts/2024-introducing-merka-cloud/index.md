@@ -22,13 +22,22 @@ tags:
   - VCS
   - Database
   - Business
-  - 
+  - Hyperscalers
 
 ---
 
-## TLDR
+## Overview
+
+## Value Proposition
 
 
+## Open-Source
+
+
+## AI Agent
+
+
+## Summary
 
 ## Notes
 
@@ -58,6 +67,7 @@ tags:
 - VERSIONING At the heart, including data
 - Data Lineage built-in, tracking transformations and visualization should also be possible
 - Code Build, Orchestration, all La-Natural - File system tracks what has been build, generally builds are automatic and configurable post certain timed delay.
+- 
 
 
 Surprise Billing and Moving Clouds discussion: https://news.ycombinator.com/item?id=41312834

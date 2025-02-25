@@ -11,7 +11,7 @@ url: /2024/2024-public-cloud-ease-of-use/
 tags:
   - Cloud
   - Hosting
-  - Development
+  - Programming
   - Evolution
   - AWS
   - GCP

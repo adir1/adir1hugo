@@ -4,7 +4,6 @@ author: Adi Rabinovich
 type: post
 heroStyle: "background"
 showTableOfContents: true
-draft: false
 date: 2024-07-31T01:11:11+00:00
 url: /2024/thank_you_amdocs_for_amazing_30_years/
 tags:

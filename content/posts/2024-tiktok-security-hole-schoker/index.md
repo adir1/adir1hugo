@@ -5,7 +5,6 @@ author: Adi Rabinovich
 type: post
 heroStyle: "background"
 showTableOfContents: false
-draft: false
 date: 2024-09-07T11:11:11+00:00
 url: /2024/tiktok-security-hole-shocker-not/
 tags:
