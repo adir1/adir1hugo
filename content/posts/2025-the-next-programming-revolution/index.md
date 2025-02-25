@@ -34,11 +34,11 @@ The CPU has [protection rings](https://en.wikipedia.org/wiki/Protection_ring) - 
 
 ## Software Composition
 
-With virtualization we gain extra flexibility to run large variety of software applications, but that not only runs in user-land (except with hypervisors, on that later), but often can introduce translation layer in cases where our simulated hardware is not 100% compatible with actual hardware. On the flip side this has additional security benefits as [VMs](https://en.wikipedia.org/wiki/Virtual_machine) are tightly controlled.
+With the advent of public cloud we rushed to package our Apps into consistent executable containers or virtual-machines. While virtualization gives us extra flexibility to run large variety of software applications, it usually executes slower, and can often can introduce translation layer in cases where our simulated "machine" is not 100% compatible with the actual hardware.
 
-With the introduction of containers we cheered for many benefits from consistent dependencies management, to portability, isolation and even some security. Linux C-Groups, most common mechanism to manage container resources during execution, introduces additional complexity and overheads. 
+The next revolution brought us containers, cheered for many benefits - from consistent dependencies management, to portability, isolation and even some security. Still Linux C-Groups, the leading mechanism for management of container resources during execution, introduces additional complexity and overheads (loading duplicate libraries into memory and more).
 
-Most developers today see themselves more as Lego builders - figuring out which small/big blocks to use where, to ensure they fit in an optimal way. Yet almost as soon as the first version of an "App" is released few lego blocks become "obsolete" - and it is VERY challenging to replace them without completely breaking the whole construction down or making it into an Ugly (and usually Unlivable) mess...
+Today most developers see themselves as Lego block builders - figuring out which small/big blocks to use where, to ensure they fit in an optimal way. Yet almost as soon as the first version of an "App" is released, few lego blocks become "obsolete" - and it is VERY challenging to replace them without completely breaking the whole construction down or making it into an Ugly (and usually Unlivable) mess...
 
 ## It Is Not My Department
 
@@ -57,6 +57,7 @@ My sense is that we are yet to figure the "Optimal" end state, perhaps then we c
 ## Some further reading to explore
 
 - [Container Runtimes Compared](https://www.wiz.io/academy/container-runtimes)
+- [Virtual Machines](https://en.wikipedia.org/wiki/Virtual_machine)
 - [Operating Systems](https://en.wikipedia.org/wiki/Operating_system)
 - [System on a Chip](https://en.wikipedia.org/wiki/Protection_ring)
 - [History of OLE from Microsoft, early componentization attempts](https://en.wikipedia.org/wiki/Object_Linking_and_Embedding)
