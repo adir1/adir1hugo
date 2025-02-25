@@ -27,7 +27,7 @@ Composability is one of those longest and toughest challenges in software, and i
 
 <img src="Operating_system_placement.svg.png"
      alt="Operating System Layers Diagram"
-     style="float: right; display: inline; margin-left: 10px; margin-bottom: 10px" width="20%" height="200"/>
+     style="float: right; display: inline; margin-left: 10px; margin-bottom: 10px" width="30%" height="200"/>
 Let us start with the basics. All computers, from large servers to smallest Android phone in your pocket, are running an Operating System. Modern OS does a lot, but my focus today is on execution protection layers.
 
 The CPU has [protection rings](https://en.wikipedia.org/wiki/Protection_ring) - to ensure only OS Kernel and Drivers code have full access to computing resources, while user-space (aka: Apps code) is effectively limited and controlled by the OS. While this arrangement makes a lot of sense, there is immediate overhead in executing Apps when they need to ask OS for "services" - and those arguably happen constantly. Apps need to access network, (many) files, screen and other hardware devices (via drivers) and more! So there is constant overhead for CPU to "switch" between rings, and although it is not as pronounced with Phone Apps, on Servers where every nano-second counts, it is definitely impactful.
@@ -52,7 +52,7 @@ Anther interesting approach to analyze this is an Oil Tanker! Lets say we need t
 
 What I realize is that our journey is more about where we started - with large servers and data centers helping companies large and small organize world's information. As we move into public cloud solutions (aka: Hyperscaler data-centers), we are exploring the best organizational solutions to maximize compute and storage resource utilization.
 
-My sense is that we are yet to figure the "Optimal" end state, perhaps than we can prepare a more solid strategy of how to get from "here" to "there". Meanwhile I say lets enjoy this exploration of combination space together!
+My sense is that we are yet to figure the "Optimal" end state, perhaps then we can prepare a more solid strategy of how to get from "here" to "there". Meanwhile I say lets enjoy this exploration of combination space together!
 
 ## Some further reading to explore
 
