@@ -51,6 +51,11 @@ What I realize is that our journey is more about where we started - with large s
 
 My sense is that we are yet to figure out the "Optimal" end state, perhaps then we can prepare a more solid strategy of how to get from "here" to "there". Meanwhile I say lets enjoy this exploration of combination-space together!
 
+## Parts 2 and 3 are now posted
+
+- [Human Developers Edge over AI](/2025/human-developers-edge-over-ai/)
+- [Introducing Merka Cloud](/2025/introducing-merka-cloud/)
+
 ## Some further reading to explore
 
 - [Container Runtimes Compared](https://www.wiz.io/academy/container-runtimes)

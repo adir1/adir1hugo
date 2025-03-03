@@ -6,8 +6,8 @@ type: post
 heroStyle: "background"
 showTableOfContents: true
 draft: true
-date: 2024-09-01T11:11:11+00:00
-url: /2024/introducing-merka-cloud/
+date: 2025-03-03T11:11:11+00:00
+url: /2025/introducing-merka-cloud/
 tags:
   - Personal
   - Open Source
@@ -19,25 +19,76 @@ tags:
   - AWS
   - GCP
   - Azure
-  - VCS
-  - Database
-  - Business
+  - RAG
   - Hyperscalers
+  - AutoGPT
 
 ---
 
 ## Overview
 
+Part 3 of Next Programming Revolution series, reinventing distributing computing!
+
+Everyone has their own CLI these days!!! BUT ?!
+
+Fork of AutoGPT with LakeFS, but wait, there's more!
+
+
+## Elevator Pitch
+
+Merka.Cloud is your personal (and business) cloud combining storage, compute, applications and using built-in AI assistant to manage it all for you! It combines your own devices with hosted services to achieve fully-featured yet cost-effective hybrid cloud without all the complexity.
+
+## The Declarative Age
+
+"The decline of imperative programming is imminent."
+"The era of imperative programming is approaching its terminus."
+
 ## Value Proposition
+
+What are we trying to solve today with various frameworks and languages? Familiarity of developers, cost of hosting, user experience, security - those key factors are in play.
+
+With advent of AI - familiarity of developers should be minimized, and cost of hosting can be calculated. Security and User Experience thus remain as major factors - and how does Mobile OS come into play? Flutter? React Native?
+
+Dynamic migration from provider to provider taking into account egress/ingress traffic costs and any potential performance or downtime impacts
 
 
 ## Open-Source
 
 
+
 ## AI Agent
+
+## It Is Not My Department
+
+More often than not - developers stay focused on galloping ahead, either not bothering to replace obsolete lego blocks or asking someone else to "allocate time" to do so. Even within the same organization there are often separation of responsibilities in an effort to more efficiently utilize resources. It is one thing to have security department analyze company code once it is ready, or QA team to test the deliverables, it is quite another to potentially block development completely because relevant "department" responsible for API is unresponsive. Sadly as a result companies often end up with kludge workarounds in such cases, further reducing the quality and maintainability of the code.
+
+## Multi-Tenant
+
+Discuss the many benefits and the even bigger security risks - consider solutions in static code analysis, row-level security, other ideas?
+
+## Language Adapters
+
+Conversion between languages and standards is essential, but there are higher powers at work! 
+DSL - Kotlin? Loops to Streams?
+C++ Operator Overloading
+Functional Scope + Stack
+
+SIMD
+eBPF
 
 
 ## Summary
+
+## Parts 1 and 2 of this series
+
+- [The Next Programming Revolution](/2025/the-next-programming-revolution/)
+- [Human Developers Edge over AI](/2025/human-developers-edge-over-ai/)
+
+## Reference Links
+
+- 
+
+
 
 ## Notes
 

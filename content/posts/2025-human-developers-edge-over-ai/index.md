@@ -5,66 +5,73 @@ author: Adi Rabinovich
 type: post
 heroStyle: "background"
 showTableOfContents: true
-draft: true
+draft: false
 date: 2025-02-25T11:11:11+00:00
 url: /2025/human-developers-edge-over-ai/
 tags:
   - AI
+  - Agents
   - Programming
   - Software Architecture
+  - Hyperscalers
 
 ---
 
-## Overview (aka: TLDR)
+## Overview
 
-As a continuation of my [Programming Revolution](/2025/the-next-programming-revolution/) series, today I bring you one Major area where Humans Developers can Outsmart the AI. Though, I can still see where this can be very much a collaborative effort due to AI's ability to analyze vast amount of data and find common concepts and ideas.
-
-## Abstraction and Configuration
-
-Everything is a tradeoff in elapsed-time vs cost, consistency/accuracy of throughput and ultimately availability also. Real-time versus background processing is where we can start our analysis.
-People also underestimate importance of edge computing, and privacy + offline compute implications.
-
-## It Is Not My Department
-
-More often than not - developers stay focused on galloping ahead, either not bothering to replace obsolete lego blocks or asking someone else to "allocate time" to do so. Even within the same organization there are often separation of responsibilities in an effort to more efficiently utilize resources. It is one thing to have security department analyze company code once it is ready, or QA team to test the deliverables, it is quite another to potentially block development completely because relevant "department" responsible for API is unresponsive. Sadly as a result companies often end up with kludge workarounds in such cases, further reducing the quality and maintainability of the code.
+As a continuation of my [Programming Revolution](/2025/the-next-programming-revolution/) series, today we explore one major area where Human Developers can still outperform the AI (IMHO)! Though, I believe this should be very much a collaborative effort due to AI's ability to analyze vast amount of data (including sources) and find common concepts and ideas.
 
 ## Technical Debt
 
-I argue that almost ALL AI Generated code is Technical Debt by definition!
+By now we probably all were wowed by latest GPTs ability to generate large amount of code from prompts. Beyond the Very common presence of mistakes in the generated code, the big issue in my view is the level of abstraction. In a way we are losing information here, the original prompt of What we wanted to Build is seldom captured, even if generated code is used. 
+
+In other words - consider that generated AI code is very platform/language/framework specific, which itself is Bound to become obsolete in the future. However the original Intention, essentially the AI Prompt, is critical as it captures the core business/functional need!
 
 ## Elephant in the Room
 
-Overhead is painful, context switching, security, threads, co-routines, kernel/user-space and on and on
+Another important solution element is performance, yet while cloud promises "hyper" scalability the reality is that there are also many overheads being added isolating and context-switching different cloud tenants. Furthermore there can be virtualization layers involved to ensure that hardware is compatible with user-supplied software. Yet another aspect is runtime security, and that undoubtedly introduces further execution overheads.
+
+Of course it doesn't mean we should eliminate security or virtualization, rather, the emphasis here is on the Lack of proper level of abstraction to make efficient use of underlying infrastructure.
+
+## Abstraction and Configuration
+
+Another example is the impressive innovation of GPU/TPU compute via their instruction set capable of SIMD (Single Instruction on Multi-Data). However, most of existing software written in imperative programming languages aren't able to take advantage of this without refactoring.
+
+And what about cost? GPU/TPU is often more expensive and we may want to only utilize it for urgent workloads. How can we re-engineer our software dynamically based on whether we are running time-critical computation or non-essential report?
 
 ## Aspects - Both Declarative and Imperative
 
-Inline-Functions, Stack, Thread Efficiency
+After years of evolution in Computer Science the leading approaches are Imperative, Declarative and Aspect-Oriented programming paradigms. What I argue is that we need a brand new AI-paradigm, with completely new levels of abstraction.
 
-## Multi-Tenant
+In a way, perhaps best to think of it as educating a child. We often teach basic skills of writing/reading, or communication, and then build on top with trade-specific training often sprinkled in with constraints.
 
-Discuss the many benefits and the even bigger security risks - consider solutions in static code analysis, row-level security, other ideas?
+For example - imagine simply giving AI instructions: Here is how you calculate AR/AP, and here is the catalog of items for sale (and inventory, and orders, payments, etc). Perhaps we then would sprinkle in Constraint rules with priorities, such as "Stay cost-effective", and "Ensure RBAC access" and "Encrypt all data in transit and at rest". And that is it, we don't need to worry about writing manually endless lines of imperative instructions!
 
-## Language Adapters
+## Summary
 
-Conversion between languages and standards is essential, but there are higher powers at work! 
-DSL - Kotlin? Loops to Streams?
-C++ Operator Overloading
-Functional Scope + Stack
+Wait, but what about Humans? How are we essential here?
 
-SIMD
-eBPF
+Today AI is is far from being able to act as I described above. This is where I believe humans are essential, to generalize and rethink our Abstractions in such a way as to reframe available services. We'd need to re-examine how we compose imperative code altogether - with technologies such as JIT (just in time compilation) we have the ability to streamline execution even of different tenants, as long as security posture allows it.
 
+To use real-world example: the innovative eBPF design - allowing specific safe subset of instructions to execute efficiently in OS kernel space - unlocked a world of possibilities for efficient monitoring, debugging and much more!
+
+Thus by keeping abstraction levels clearly defined and familiar for AI Agents, we could achieve efficient execution and even will be able to cleanly introduce new capabilities in the future, or optimize existing capabilities without having a legion of developers for refactoring the code.
+
+## Parts 1 and 3 of this series
+
+- [The Next Programming Revolution](/2025/the-next-programming-revolution/)
+- [Introducing Merka Cloud](/2025/introducing-merka-cloud/)
 
 ## Some further reading to explore
 
 - [Cloud Architecture Will Fail You, Distributed App Architecture Will Not](https://akka.io/blog/cloud-architecture-will-fail-you-distributed-app-architecture-will-not)
-- Find and lnk to Google Software Development guide
+- [Software Engineering At Google - Lessons ans Book Link](https://swizec.com/blog/what-i-learned-from-software-engineering-at-google/)
+- [Security Challenges and Complexities of Cloud GPU by Fly.IO team](https://fly.io/blog/wrong-about-gpu/)
+- [High Performance Concurrency by Martin Fowler](https://martinfowler.com/articles/lmax.html)
 
-
-![AI Robots trading on NYSE](multiple_AI_bots_NYSE_trading.png "AI Robots trading with each other on NYSE")
-
+![Same Prompt - lovely image yet a bit Creepy, No?](Fj14IJIptFbqr8GZgXQG--2--a0mbr.jpg "AI and Human collaborating on source code")
 
 {{< alert "image" >}}
-**Images By DALL-E 3 from Microsoft Designer**
+**Images By Flux Schnell via Nightcafe**
 {{< /alert >}}
->> Prompt: Generate high resolution image of AI robots trading on New York stock exchange floor, sparks fly everywhere
+>> Prompt: Use mostly Fuchsia color pallet. Beautiful geeky female engineer with large glasses along with manly AI robot looking at complex source code on a large screen. They seem to be debating something on screen while engineer is near keyboard ready to type. Futuristic style furniture and home in the background.
