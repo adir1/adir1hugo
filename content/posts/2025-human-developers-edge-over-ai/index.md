@@ -29,7 +29,7 @@ In other words - consider that generated AI code is very platform/language/frame
 
 ## Elephant in the Room
 
-Another important solution element is performance, yet while cloud promises "hyper" scalability the reality is that there are also many overheads being added isolating and context-switching different cloud tenants. Furthermore there can be virtualization layers involved to ensure that hardware is compatible with user-supplied software. Yet another aspect is runtime security, and that undoubtedly introduces further execution overheads.
+Another critical aspect of the solution is performance. While the cloud offers the promise of "hyper" scalability, it also introduces significant overhead due to the isolation and context-switching of multiple cloud tenants. Additionally, virtualization layers may be required to ensure compatibility between hardware and user-supplied software, further impacting efficiency. Moreover, runtime security is another key factor, inevitably adding to execution overhead.
 
 Of course it doesn't mean we should eliminate security or virtualization, rather, the emphasis here is on the Lack of proper level of abstraction to make efficient use of underlying infrastructure.
 
