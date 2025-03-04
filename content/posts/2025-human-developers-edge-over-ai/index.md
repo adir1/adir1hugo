@@ -23,7 +23,7 @@ As a continuation of my [Programming Revolution](/2025/the-next-programming-revo
 
 ## Technical Debt
 
-By now we probably all were wowed by latest GPTs ability to generate large amount of code from prompts. Beyond the Very common presence of mistakes in the generated code, the big issue in my view is the level of abstraction. In a way we are losing information here, the original prompt of What we wanted to Build is seldom captured, even if generated code is used. 
+By now we probably all were wowed by latest GPTs ability to generate large amount of code from prompts. Beyond the Very common presence of mistakes in the generated code, the big issue in my view is the level of abstraction. In a way we are losing information here, the original prompt of What we wanted to Build is seldom captured, even if generated code is used.
 
 In other words - consider that generated AI code is very platform/language/framework specific, which itself is Bound to become obsolete in the future. However the original Intention, essentially the AI Prompt, is critical as it captures the core business/functional need!
 
@@ -69,9 +69,9 @@ Thus by keeping abstraction levels clearly defined and familiar for AI Agents, w
 - [Security Challenges and Complexities of Cloud GPU by Fly.IO team](https://fly.io/blog/wrong-about-gpu/)
 - [High Performance Concurrency by Martin Fowler](https://martinfowler.com/articles/lmax.html)
 
-![Same Prompt - lovely image yet a bit Creepy, No?](Fj14IJIptFbqr8GZgXQG--2--a0mbr.jpg "AI and Human collaborating on source code")
+![AI and Human collaborating on source code](Fj14IJIptFbqr8GZgXQG--2--a0mbr.jpg "Same Prompt - lovely image yet a bit Creepy, No?")
 
 {{< alert "image" >}}
 **Images By Flux Schnell via Nightcafe**
 {{< /alert >}}
->> Prompt: Use mostly Fuchsia color pallet. Beautiful geeky female engineer with large glasses along with manly AI robot looking at complex source code on a large screen. They seem to be debating something on screen while engineer is near keyboard ready to type. Futuristic style furniture and home in the background.
+>> **Prompt**: Use mostly Fuchsia color pallet. Beautiful geeky female engineer with large glasses along with manly AI robot looking at complex source code on a large screen. They seem to be debating something on screen while engineer is near keyboard ready to type. Futuristic style furniture and home in the background.
