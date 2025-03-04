@@ -40,6 +40,10 @@ At the core of the design is Declarative approach combined with AI, backed by di
 
 And no, there are no plans to have Merka.Cloud CLI - Seriously, what is it with Everyone developing Yet Another CLI these days? I would like to advocate for replacement of CLI with Chat interface - just discuss your needs in conversational language and have AI Agent(s) execute it for you!
 
+## Where is the Revolution
+
+There are many benefits to this approach, but specifically for Programming Revolution series I think the declarative ai-agents collaborative environment is the most exciting. The goal is to rethink software composition, using co-routines, declarative DSL and more - curated by smart AI that understands not just Imperative steps, but overall goal and core Security and Platform constraints. On top of this the ability to access all available personal (or business) files opens up even more exciting possibilities.
+
 ## Open-Source
 
 I am deeply inspired by the open-source revolution unfolding before us. Every day, GitHub contributions to key components surge, fueling an ecosystem where modular collaboration sparks even more powerful open-source solutions. For me, there was never a doubt - this project had to be fully open-source. It stands on the shoulders of leading open modules, and my vision is to enable seamless integration of countless more in the future.
