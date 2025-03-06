@@ -64,6 +64,7 @@ At the moment the idea is but a seed, yet full of amazing potential. With the ri
 ## Reference Links
 
 - [Welcome to Merka.Cloud](https://merka.cloud)
+- [12 Factor Design - Ideas driving Merka.Cloud](https://12factor.net/)
 - [AutoGPT Agents](https://agpt.co/)
 - [Getting Started With LakeFS](https://docs.lakefs.io/quickstart/)
 - [Podman Desktop - Free Docker Desktop Alternative](https://podman-desktop.io/features)
