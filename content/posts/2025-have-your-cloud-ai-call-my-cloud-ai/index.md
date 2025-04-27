@@ -15,6 +15,7 @@ tags:
   - CDN
   - DynamoDB
   - Redis
+  - AI
 
 ---
 
