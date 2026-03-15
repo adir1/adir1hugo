@@ -53,7 +53,7 @@
 
  [[footer]]
    name = "RSS"
-   url = "index.xml"
+   url = "/index.xml"
    weight = 50
 
 # [[footer]]

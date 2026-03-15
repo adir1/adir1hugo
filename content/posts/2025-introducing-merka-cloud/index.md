@@ -11,6 +11,7 @@ url: /2025/introducing-merka-cloud/
 tags:
   - Personal
   - Open Source
+  - Merka.cloud
   - Cloud
   - Infrastructure
   - IaC
@@ -22,6 +23,7 @@ tags:
   - RAG
   - Hyperscalers
   - AutoGPT
+
 
 ---
 

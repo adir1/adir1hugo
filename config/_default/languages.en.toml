@@ -13,12 +13,11 @@ description = "Net, Life and The Meaning of it All"
 
 dateFormat = "2 January 2006"
 
-[author]
+[params.author]
   name = "Adi Rabinovich"
   image = "img/profile-pic.jpg"
 #  headline = "Net, Life and The Meaning of it All"
-# typeit tag=h4 removed for now
-  headline = "{{< typeit speed=70 lifeLike=true breakLines=false loop=true >}}Net, Life and The Meaning of it All!\nWriting about Tech, Life and The Universe!\nWhat does one put in a Bio even?\nTo comment open GitHub issue!{{< /typeit >}}"
+
   bio = "Writing about Tech, Life and The Universe!"
 #  bio = "Self-Proclaimed Human and Tech Guru"
   links = [
