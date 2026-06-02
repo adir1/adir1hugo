@@ -17,20 +17,22 @@ tags:
 
 ## Overview
 
-Over the past few months, I’ve been living a security architect’s version of a horror movie. Driven by a series of administrative headaches with major US financial institutions, I went on a quest. I systematically opened accounts and tested mobile apps across the retail banking spectrum, hoping to find a modern, robust, and secure implementation.
+Over the past few months, I’ve been living a security architect’s version of a horror movie. I decided to go on a quest to find a better FDIC-insured bank. I systematically opened accounts and tested online and mobile access, hoping to find a modern, robust, and secure implementation.
 
 Instead, I found a race to the bottom.
 
-Most institutions offer a significant downgrade from even the baseline experience of Chase, while not perfect, has been my primary bank for a while. The broader reality of US banking tech is grim: our financial institutions are failing to defend against advanced mobile attack vectors, and they are punishing the end-user to cover for their own architectural deficiencies.
+Most institutions offered a downgrade from the baseline (far from perfect) experience of Chase (my primary bank for a while). The broader reality of US banking tech is grim: our financial institutions are failing to defend against many attack vectors, and they are punishing the end-user to cover for their own architectural deficiencies.
 
 ## The Mobile Frontier: Advanced Vectors and Corporate Blind Spots
 
 While banking fraud departments fixate on legacy desktop paradigms, the threat landscape has shifted entirely to mobile. Yet, mobile banking apps routinely treat the underlying operating system as an unresolvable black box, ignoring sophisticated runtime attack vectors.
 
 ### SIM Swapping and SMS Multi-Factor Authentication
+
 Despite years of warnings, SMS-based verification remains the bedrock of US banking identity. Banks treat a mobile carrier's routing as an implicit trust anchor. I witnessed friends lose tens of thousands via this basic SIM-swap attack vector, usually using telecom kiosk.
 
 ### Android Custom Kernels and ATS Malware
+
 On Android, banks completely fail to model threats involving custom kernels or side-loaded malware leveraging accessibility services. Modern mobile malware doesn't just steal credentials; it uses Automated Transfer Systems (ATS) to hijack active user sessions, modify transaction payloads in real-time, and exfiltrate data—all while bypassing traditional signature-based detection.
 
 > [!WARNING] The Complacency of "Secure iOS"
