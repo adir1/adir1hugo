@@ -32,8 +32,9 @@ jobs:
           output_location: "public" # Built app content directory - optional
           ###### End of Repository/Build Configurations ######
         env:
-          HUGO_VERSION: 0.146.7
+          HUGO_VERSION: 0.161.1
           HUGO_TIMEOUT: 90000
+          NODE_VERSION: 22
 
   close_pull_request_job:
     if: github.event_name == 'pull_request' && github.event.action == 'closed'
