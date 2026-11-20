@@ -34,6 +34,7 @@ description: "Complete technical documentation and capabilities of the adir1hugo
   - Categories
   - Authors
   - Series
+- **New blog post convention**: create a dedicated folder under `content/posts/<slug>/` containing `index.md` as the main article file. If a featured image prompt is needed later, keep it as a sibling file such as `featured-image-prompt.txt`; do not create a generic `images/` directory for new posts.
 
 ### Content Capabilities
 - **Markdown Support**: Full Goldmark with unsafe HTML rendering
