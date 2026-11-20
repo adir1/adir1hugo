@@ -24,6 +24,8 @@ The big idea here is **quantum synchronicities**: an understanding that there ar
 
 I wanted to create a place where people can easily explore this idea directly, and see what they make of the experience. Ultimately, I also hope that it will guide someone towards their own best selves!
 
+At the heart of the implementation is the simple idea that User drives the LLM seed, hence ensuring it is not Random. Whats more - the initial system prompt is also derived from the Synchronicity Ritual.
+
 ## Shared Imagination and AI
 
 Although I struggle still to fix the Mobile platform website stability and performance, today seems a fitting nexus for this post. **Grand Theft Auto VI** finally launched to rave reviews, with many proclaiming for years that it will never "materialize". And on the same day the fabled **Anthropic's IPO** marks a major moment for our AI industry: artificial intelligence is moving further into public life!
